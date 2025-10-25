@@ -1,0 +1,3651 @@
+date,search_term,trend_value,region
+2021-01-01,COVID vaccine,24,India
+2021-01-02,COVID vaccine,19,India
+2021-01-03,COVID vaccine,27,India
+2021-01-04,COVID vaccine,36,India
+2021-01-05,COVID vaccine,19,India
+2021-01-06,COVID vaccine,20,India
+2021-01-07,COVID vaccine,38,India
+2021-01-08,COVID vaccine,31,India
+2021-01-09,COVID vaccine,19,India
+2021-01-10,COVID vaccine,30,India
+2021-01-11,COVID vaccine,20,India
+2021-01-12,COVID vaccine,20,India
+2021-01-13,COVID vaccine,28,India
+2021-01-14,COVID vaccine,7,India
+2021-01-15,COVID vaccine,9,India
+2021-01-16,COVID vaccine,22,India
+2021-01-17,COVID vaccine,18,India
+2021-01-18,COVID vaccine,31,India
+2021-01-19,COVID vaccine,20,India
+2021-01-20,COVID vaccine,15,India
+2021-01-21,COVID vaccine,44,India
+2021-01-22,COVID vaccine,28,India
+2021-01-23,COVID vaccine,31,India
+2021-01-24,COVID vaccine,17,India
+2021-01-25,COVID vaccine,26,India
+2021-01-26,COVID vaccine,33,India
+2021-01-27,COVID vaccine,21,India
+2021-01-28,COVID vaccine,37,India
+2021-01-29,COVID vaccine,27,India
+2021-01-30,COVID vaccine,31,India
+2021-01-31,COVID vaccine,28,India
+2021-02-01,COVID vaccine,53,India
+2021-02-02,COVID vaccine,35,India
+2021-02-03,COVID vaccine,25,India
+2021-02-04,COVID vaccine,44,India
+2021-02-05,COVID vaccine,24,India
+2021-02-06,COVID vaccine,39,India
+2021-02-07,COVID vaccine,18,India
+2021-02-08,COVID vaccine,24,India
+2021-02-09,COVID vaccine,40,India
+2021-02-10,COVID vaccine,46,India
+2021-02-11,COVID vaccine,41,India
+2021-02-12,COVID vaccine,38,India
+2021-02-13,COVID vaccine,37,India
+2021-02-14,COVID vaccine,25,India
+2021-02-15,COVID vaccine,33,India
+2021-02-16,COVID vaccine,36,India
+2021-02-17,COVID vaccine,52,India
+2021-02-18,COVID vaccine,45,India
+2021-02-19,COVID vaccine,24,India
+2021-02-20,COVID vaccine,45,India
+2021-02-21,COVID vaccine,39,India
+2021-02-22,COVID vaccine,36,India
+2021-02-23,COVID vaccine,49,India
+2021-02-24,COVID vaccine,54,India
+2021-02-25,COVID vaccine,53,India
+2021-02-26,COVID vaccine,36,India
+2021-02-27,COVID vaccine,41,India
+2021-02-28,COVID vaccine,48,India
+2021-03-01,COVID vaccine,55,India
+2021-03-02,COVID vaccine,40,India
+2021-03-03,COVID vaccine,44,India
+2021-03-04,COVID vaccine,35,India
+2021-03-05,COVID vaccine,34,India
+2021-03-06,COVID vaccine,54,India
+2021-03-07,COVID vaccine,60,India
+2021-03-08,COVID vaccine,46,India
+2021-03-09,COVID vaccine,57,India
+2021-03-10,COVID vaccine,51,India
+2021-03-11,COVID vaccine,41,India
+2021-03-12,COVID vaccine,51,India
+2021-03-13,COVID vaccine,63,India
+2021-03-14,COVID vaccine,48,India
+2021-03-15,COVID vaccine,64,India
+2021-03-16,COVID vaccine,22,India
+2021-03-17,COVID vaccine,57,India
+2021-03-18,COVID vaccine,49,India
+2021-03-19,COVID vaccine,46,India
+2021-03-20,COVID vaccine,50,India
+2021-03-21,COVID vaccine,29,India
+2021-03-22,COVID vaccine,47,India
+2021-03-23,COVID vaccine,53,India
+2021-03-24,COVID vaccine,64,India
+2021-03-25,COVID vaccine,44,India
+2021-03-26,COVID vaccine,41,India
+2021-03-27,COVID vaccine,44,India
+2021-03-28,COVID vaccine,59,India
+2021-03-29,COVID vaccine,53,India
+2021-03-30,COVID vaccine,44,India
+2021-03-31,COVID vaccine,55,India
+2021-04-01,COVID vaccine,50,India
+2021-04-02,COVID vaccine,59,India
+2021-04-03,COVID vaccine,42,India
+2021-04-04,COVID vaccine,46,India
+2021-04-05,COVID vaccine,46,India
+2021-04-06,COVID vaccine,35,India
+2021-04-07,COVID vaccine,52,India
+2021-04-08,COVID vaccine,52,India
+2021-04-09,COVID vaccine,49,India
+2021-04-10,COVID vaccine,47,India
+2021-04-11,COVID vaccine,35,India
+2021-04-12,COVID vaccine,45,India
+2021-04-13,COVID vaccine,46,India
+2021-04-14,COVID vaccine,41,India
+2021-04-15,COVID vaccine,47,India
+2021-04-16,COVID vaccine,53,India
+2021-04-17,COVID vaccine,67,India
+2021-04-18,COVID vaccine,50,India
+2021-04-19,COVID vaccine,51,India
+2021-04-20,COVID vaccine,47,India
+2021-04-21,COVID vaccine,29,India
+2021-04-22,COVID vaccine,48,India
+2021-04-23,COVID vaccine,48,India
+2021-04-24,COVID vaccine,72,India
+2021-04-25,COVID vaccine,45,India
+2021-04-26,COVID vaccine,50,India
+2021-04-27,COVID vaccine,46,India
+2021-04-28,COVID vaccine,35,India
+2021-04-29,COVID vaccine,58,India
+2021-04-30,COVID vaccine,54,India
+2021-05-01,COVID vaccine,54,India
+2021-05-02,COVID vaccine,37,India
+2021-05-03,COVID vaccine,59,India
+2021-05-04,COVID vaccine,31,India
+2021-05-05,COVID vaccine,51,India
+2021-05-06,COVID vaccine,66,India
+2021-05-07,COVID vaccine,34,India
+2021-05-08,COVID vaccine,38,India
+2021-05-09,COVID vaccine,45,India
+2021-05-10,COVID vaccine,38,India
+2021-05-11,COVID vaccine,28,India
+2021-05-12,COVID vaccine,43,India
+2021-05-13,COVID vaccine,32,India
+2021-05-14,COVID vaccine,47,India
+2021-05-15,COVID vaccine,33,India
+2021-05-16,COVID vaccine,57,India
+2021-05-17,COVID vaccine,33,India
+2021-05-18,COVID vaccine,37,India
+2021-05-19,COVID vaccine,48,India
+2021-05-20,COVID vaccine,28,India
+2021-05-21,COVID vaccine,42,India
+2021-05-22,COVID vaccine,52,India
+2021-05-23,COVID vaccine,23,India
+2021-05-24,COVID vaccine,40,India
+2021-05-25,COVID vaccine,41,India
+2021-05-26,COVID vaccine,45,India
+2021-05-27,COVID vaccine,25,India
+2021-05-28,COVID vaccine,24,India
+2021-05-29,COVID vaccine,42,India
+2021-05-30,COVID vaccine,39,India
+2021-05-31,COVID vaccine,38,India
+2021-06-01,COVID vaccine,38,India
+2021-06-02,COVID vaccine,28,India
+2021-06-03,COVID vaccine,36,India
+2021-06-04,COVID vaccine,37,India
+2021-06-05,COVID vaccine,26,India
+2021-06-06,COVID vaccine,51,India
+2021-06-07,COVID vaccine,37,India
+2021-06-08,COVID vaccine,20,India
+2021-06-09,COVID vaccine,38,India
+2021-06-10,COVID vaccine,21,India
+2021-06-11,COVID vaccine,38,India
+2021-06-12,COVID vaccine,41,India
+2021-06-13,COVID vaccine,21,India
+2021-06-14,COVID vaccine,39,India
+2021-06-15,COVID vaccine,33,India
+2021-06-16,COVID vaccine,36,India
+2021-06-17,COVID vaccine,46,India
+2021-06-18,COVID vaccine,24,India
+2021-06-19,COVID vaccine,19,India
+2021-06-20,COVID vaccine,17,India
+2021-06-21,COVID vaccine,17,India
+2021-06-22,COVID vaccine,24,India
+2021-06-23,COVID vaccine,28,India
+2021-06-24,COVID vaccine,27,India
+2021-06-25,COVID vaccine,32,India
+2021-06-26,COVID vaccine,23,India
+2021-06-27,COVID vaccine,37,India
+2021-06-28,COVID vaccine,19,India
+2021-06-29,COVID vaccine,49,India
+2021-06-30,COVID vaccine,27,India
+2021-07-01,COVID vaccine,12,India
+2021-07-02,COVID vaccine,9,India
+2021-07-03,COVID vaccine,24,India
+2021-07-04,COVID vaccine,16,India
+2021-07-05,COVID vaccine,25,India
+2021-07-06,COVID vaccine,22,India
+2021-07-07,COVID vaccine,16,India
+2021-07-08,COVID vaccine,8,India
+2021-07-09,COVID vaccine,1,India
+2021-07-10,COVID vaccine,11,India
+2021-07-11,COVID vaccine,24,India
+2021-07-12,COVID vaccine,17,India
+2021-07-13,COVID vaccine,2,India
+2021-07-14,COVID vaccine,15,India
+2021-07-15,COVID vaccine,17,India
+2021-07-16,COVID vaccine,4,India
+2021-07-17,COVID vaccine,14,India
+2021-07-18,COVID vaccine,12,India
+2021-07-19,COVID vaccine,0,India
+2021-07-20,COVID vaccine,14,India
+2021-07-21,COVID vaccine,16,India
+2021-07-22,COVID vaccine,20,India
+2021-07-23,COVID vaccine,20,India
+2021-07-24,COVID vaccine,0,India
+2021-07-25,COVID vaccine,0,India
+2021-07-26,COVID vaccine,13,India
+2021-07-27,COVID vaccine,12,India
+2021-07-28,COVID vaccine,12,India
+2021-07-29,COVID vaccine,45,India
+2021-07-30,COVID vaccine,12,India
+2021-07-31,COVID vaccine,17,India
+2021-08-01,COVID vaccine,14,India
+2021-08-02,COVID vaccine,11,India
+2021-08-03,COVID vaccine,1,India
+2021-08-04,COVID vaccine,11,India
+2021-08-05,COVID vaccine,0,India
+2021-08-06,COVID vaccine,0,India
+2021-08-07,COVID vaccine,0,India
+2021-08-08,COVID vaccine,3,India
+2021-08-09,COVID vaccine,25,India
+2021-08-10,COVID vaccine,0,India
+2021-08-11,COVID vaccine,7,India
+2021-08-12,COVID vaccine,0,India
+2021-08-13,COVID vaccine,0,India
+2021-08-14,COVID vaccine,10,India
+2021-08-15,COVID vaccine,0,India
+2021-08-16,COVID vaccine,0,India
+2021-08-17,COVID vaccine,0,India
+2021-08-18,COVID vaccine,5,India
+2021-08-19,COVID vaccine,0,India
+2021-08-20,COVID vaccine,0,India
+2021-08-21,COVID vaccine,0,India
+2021-08-22,COVID vaccine,0,India
+2021-08-23,COVID vaccine,18,India
+2021-08-24,COVID vaccine,2,India
+2021-08-25,COVID vaccine,0,India
+2021-08-26,COVID vaccine,0,India
+2021-08-27,COVID vaccine,0,India
+2021-08-28,COVID vaccine,3,India
+2021-08-29,COVID vaccine,0,India
+2021-08-30,COVID vaccine,0,India
+2021-08-31,COVID vaccine,0,India
+2021-09-01,COVID vaccine,2,India
+2021-09-02,COVID vaccine,0,India
+2021-09-03,COVID vaccine,0,India
+2021-09-04,COVID vaccine,0,India
+2021-09-05,COVID vaccine,0,India
+2021-09-06,COVID vaccine,10,India
+2021-09-07,COVID vaccine,0,India
+2021-09-08,COVID vaccine,0,India
+2021-09-09,COVID vaccine,1,India
+2021-09-10,COVID vaccine,13,India
+2021-09-11,COVID vaccine,2,India
+2021-09-12,COVID vaccine,0,India
+2021-09-13,COVID vaccine,0,India
+2021-09-14,COVID vaccine,4,India
+2021-09-15,COVID vaccine,0,India
+2021-09-16,COVID vaccine,0,India
+2021-09-17,COVID vaccine,0,India
+2021-09-18,COVID vaccine,0,India
+2021-09-19,COVID vaccine,0,India
+2021-09-20,COVID vaccine,0,India
+2021-09-21,COVID vaccine,0,India
+2021-09-22,COVID vaccine,0,India
+2021-09-23,COVID vaccine,0,India
+2021-09-24,COVID vaccine,6,India
+2021-09-25,COVID vaccine,0,India
+2021-09-26,COVID vaccine,0,India
+2021-09-27,COVID vaccine,0,India
+2021-09-28,COVID vaccine,4,India
+2021-09-29,COVID vaccine,0,India
+2021-09-30,COVID vaccine,1,India
+2021-10-01,COVID vaccine,0,India
+2021-10-02,COVID vaccine,0,India
+2021-10-03,COVID vaccine,0,India
+2021-10-04,COVID vaccine,0,India
+2021-10-05,COVID vaccine,0,India
+2021-10-06,COVID vaccine,0,India
+2021-10-07,COVID vaccine,0,India
+2021-10-08,COVID vaccine,0,India
+2021-10-09,COVID vaccine,0,India
+2021-10-10,COVID vaccine,6,India
+2021-10-11,COVID vaccine,0,India
+2021-10-12,COVID vaccine,11,India
+2021-10-13,COVID vaccine,0,India
+2021-10-14,COVID vaccine,0,India
+2021-10-15,COVID vaccine,0,India
+2021-10-16,COVID vaccine,0,India
+2021-10-17,COVID vaccine,0,India
+2021-10-18,COVID vaccine,0,India
+2021-10-19,COVID vaccine,0,India
+2021-10-20,COVID vaccine,0,India
+2021-10-21,COVID vaccine,0,India
+2021-10-22,COVID vaccine,0,India
+2021-10-23,COVID vaccine,0,India
+2021-10-24,COVID vaccine,1,India
+2021-10-25,COVID vaccine,0,India
+2021-10-26,COVID vaccine,0,India
+2021-10-27,COVID vaccine,0,India
+2021-10-28,COVID vaccine,0,India
+2021-10-29,COVID vaccine,0,India
+2021-10-30,COVID vaccine,0,India
+2021-10-31,COVID vaccine,0,India
+2021-11-01,COVID vaccine,0,India
+2021-11-02,COVID vaccine,0,India
+2021-11-03,COVID vaccine,7,India
+2021-11-04,COVID vaccine,0,India
+2021-11-05,COVID vaccine,0,India
+2021-11-06,COVID vaccine,0,India
+2021-11-07,COVID vaccine,0,India
+2021-11-08,COVID vaccine,6,India
+2021-11-09,COVID vaccine,4,India
+2021-11-10,COVID vaccine,4,India
+2021-11-11,COVID vaccine,9,India
+2021-11-12,COVID vaccine,0,India
+2021-11-13,COVID vaccine,4,India
+2021-11-14,COVID vaccine,0,India
+2021-11-15,COVID vaccine,1,India
+2021-11-16,COVID vaccine,0,India
+2021-11-17,COVID vaccine,0,India
+2021-11-18,COVID vaccine,5,India
+2021-11-19,COVID vaccine,0,India
+2021-11-20,COVID vaccine,21,India
+2021-11-21,COVID vaccine,0,India
+2021-11-22,COVID vaccine,0,India
+2021-11-23,COVID vaccine,12,India
+2021-11-24,COVID vaccine,9,India
+2021-11-25,COVID vaccine,8,India
+2021-11-26,COVID vaccine,8,India
+2021-11-27,COVID vaccine,2,India
+2021-11-28,COVID vaccine,0,India
+2021-11-29,COVID vaccine,4,India
+2021-11-30,COVID vaccine,0,India
+2021-12-01,COVID vaccine,14,India
+2021-12-02,COVID vaccine,3,India
+2021-12-03,COVID vaccine,0,India
+2021-12-04,COVID vaccine,2,India
+2021-12-05,COVID vaccine,10,India
+2021-12-06,COVID vaccine,1,India
+2021-12-07,COVID vaccine,0,India
+2021-12-08,COVID vaccine,10,India
+2021-12-09,COVID vaccine,10,India
+2021-12-10,COVID vaccine,3,India
+2021-12-11,COVID vaccine,4,India
+2021-12-12,COVID vaccine,12,India
+2021-12-13,COVID vaccine,0,India
+2021-12-14,COVID vaccine,0,India
+2021-12-15,COVID vaccine,4,India
+2021-12-16,COVID vaccine,9,India
+2021-12-17,COVID vaccine,15,India
+2021-12-18,COVID vaccine,27,India
+2021-12-19,COVID vaccine,21,India
+2021-12-20,COVID vaccine,12,India
+2021-12-21,COVID vaccine,14,India
+2021-12-22,COVID vaccine,4,India
+2021-12-23,COVID vaccine,15,India
+2021-12-24,COVID vaccine,12,India
+2021-12-25,COVID vaccine,19,India
+2021-12-26,COVID vaccine,8,India
+2021-12-27,COVID vaccine,22,India
+2021-12-28,COVID vaccine,33,India
+2021-12-29,COVID vaccine,17,India
+2021-12-30,COVID vaccine,22,India
+2021-12-31,COVID vaccine,26,India
+2022-01-01,COVID vaccine,15,India
+2022-01-02,COVID vaccine,22,India
+2022-01-03,COVID vaccine,21,India
+2022-01-04,COVID vaccine,22,India
+2022-01-05,COVID vaccine,14,India
+2022-01-06,COVID vaccine,22,India
+2022-01-07,COVID vaccine,28,India
+2022-01-08,COVID vaccine,38,India
+2022-01-09,COVID vaccine,33,India
+2022-01-10,COVID vaccine,46,India
+2022-01-11,COVID vaccine,17,India
+2022-01-12,COVID vaccine,34,India
+2022-01-13,COVID vaccine,27,India
+2022-01-14,COVID vaccine,48,India
+2022-01-15,COVID vaccine,19,India
+2022-01-16,COVID vaccine,19,India
+2022-01-17,COVID vaccine,22,India
+2022-01-18,COVID vaccine,7,India
+2022-01-19,COVID vaccine,23,India
+2022-01-20,COVID vaccine,22,India
+2022-01-21,COVID vaccine,31,India
+2022-01-22,COVID vaccine,34,India
+2022-01-23,COVID vaccine,49,India
+2022-01-24,COVID vaccine,41,India
+2022-01-25,COVID vaccine,26,India
+2022-01-26,COVID vaccine,23,India
+2022-01-27,COVID vaccine,37,India
+2022-01-28,COVID vaccine,20,India
+2022-01-29,COVID vaccine,52,India
+2022-01-30,COVID vaccine,46,India
+2022-01-31,COVID vaccine,30,India
+2022-02-01,COVID vaccine,18,India
+2022-02-02,COVID vaccine,49,India
+2022-02-03,COVID vaccine,34,India
+2022-02-04,COVID vaccine,48,India
+2022-02-05,COVID vaccine,21,India
+2022-02-06,COVID vaccine,31,India
+2022-02-07,COVID vaccine,37,India
+2022-02-08,COVID vaccine,38,India
+2022-02-09,COVID vaccine,34,India
+2022-02-10,COVID vaccine,45,India
+2022-02-11,COVID vaccine,28,India
+2022-02-12,COVID vaccine,38,India
+2022-02-13,COVID vaccine,41,India
+2022-02-14,COVID vaccine,45,India
+2022-02-15,COVID vaccine,48,India
+2022-02-16,COVID vaccine,30,India
+2022-02-17,COVID vaccine,26,India
+2022-02-18,COVID vaccine,54,India
+2022-02-19,COVID vaccine,45,India
+2022-02-20,COVID vaccine,35,India
+2022-02-21,COVID vaccine,58,India
+2022-02-22,COVID vaccine,44,India
+2022-02-23,COVID vaccine,55,India
+2022-02-24,COVID vaccine,44,India
+2022-02-25,COVID vaccine,64,India
+2022-02-26,COVID vaccine,62,India
+2022-02-27,COVID vaccine,42,India
+2022-02-28,COVID vaccine,54,India
+2022-03-01,COVID vaccine,51,India
+2022-03-02,COVID vaccine,59,India
+2022-03-03,COVID vaccine,36,India
+2022-03-04,COVID vaccine,53,India
+2022-03-05,COVID vaccine,57,India
+2022-03-06,COVID vaccine,29,India
+2022-03-07,COVID vaccine,35,India
+2022-03-08,COVID vaccine,26,India
+2022-03-09,COVID vaccine,44,India
+2022-03-10,COVID vaccine,54,India
+2022-03-11,COVID vaccine,62,India
+2022-03-12,COVID vaccine,48,India
+2022-03-13,COVID vaccine,64,India
+2022-03-14,COVID vaccine,34,India
+2022-03-15,COVID vaccine,31,India
+2022-03-16,COVID vaccine,48,India
+2022-03-17,COVID vaccine,52,India
+2022-03-18,COVID vaccine,48,India
+2022-03-19,COVID vaccine,28,India
+2022-03-20,COVID vaccine,48,India
+2022-03-21,COVID vaccine,36,India
+2022-03-22,COVID vaccine,56,India
+2022-03-23,COVID vaccine,53,India
+2022-03-24,COVID vaccine,40,India
+2022-03-25,COVID vaccine,44,India
+2022-03-26,COVID vaccine,39,India
+2022-03-27,COVID vaccine,49,India
+2022-03-28,COVID vaccine,59,India
+2022-03-29,COVID vaccine,40,India
+2022-03-30,COVID vaccine,54,India
+2022-03-31,COVID vaccine,44,India
+2022-04-01,COVID vaccine,42,India
+2022-04-02,COVID vaccine,48,India
+2022-04-03,COVID vaccine,39,India
+2022-04-04,COVID vaccine,44,India
+2022-04-05,COVID vaccine,37,India
+2022-04-06,COVID vaccine,69,India
+2022-04-07,COVID vaccine,50,India
+2022-04-08,COVID vaccine,42,India
+2022-04-09,COVID vaccine,51,India
+2022-04-10,COVID vaccine,48,India
+2022-04-11,COVID vaccine,47,India
+2022-04-12,COVID vaccine,55,India
+2022-04-13,COVID vaccine,57,India
+2022-04-14,COVID vaccine,44,India
+2022-04-15,COVID vaccine,43,India
+2022-04-16,COVID vaccine,46,India
+2022-04-17,COVID vaccine,26,India
+2022-04-18,COVID vaccine,33,India
+2022-04-19,COVID vaccine,62,India
+2022-04-20,COVID vaccine,65,India
+2022-04-21,COVID vaccine,45,India
+2022-04-22,COVID vaccine,54,India
+2022-04-23,COVID vaccine,51,India
+2022-04-24,COVID vaccine,78,India
+2022-04-25,COVID vaccine,58,India
+2022-04-26,COVID vaccine,46,India
+2022-04-27,COVID vaccine,37,India
+2022-04-28,COVID vaccine,31,India
+2022-04-29,COVID vaccine,48,India
+2022-04-30,COVID vaccine,39,India
+2022-05-01,COVID vaccine,32,India
+2022-05-02,COVID vaccine,39,India
+2022-05-03,COVID vaccine,35,India
+2022-05-04,COVID vaccine,62,India
+2022-05-05,COVID vaccine,54,India
+2022-05-06,COVID vaccine,44,India
+2022-05-07,COVID vaccine,59,India
+2022-05-08,COVID vaccine,45,India
+2022-05-09,COVID vaccine,35,India
+2022-05-10,COVID vaccine,59,India
+2022-05-11,COVID vaccine,48,India
+2022-05-12,COVID vaccine,32,India
+2022-05-13,COVID vaccine,41,India
+2022-05-14,COVID vaccine,33,India
+2022-05-15,COVID vaccine,28,India
+2022-05-16,COVID vaccine,51,India
+2022-05-17,COVID vaccine,60,India
+2022-05-18,COVID vaccine,27,India
+2022-05-19,COVID vaccine,46,India
+2022-05-20,COVID vaccine,33,India
+2022-05-21,COVID vaccine,35,India
+2022-05-22,COVID vaccine,33,India
+2022-05-23,COVID vaccine,30,India
+2022-05-24,COVID vaccine,39,India
+2022-05-25,COVID vaccine,30,India
+2022-05-26,COVID vaccine,40,India
+2022-05-27,COVID vaccine,37,India
+2022-05-28,COVID vaccine,34,India
+2022-05-29,COVID vaccine,27,India
+2022-05-30,COVID vaccine,30,India
+2022-05-31,COVID vaccine,43,India
+2022-06-01,COVID vaccine,40,India
+2022-06-02,COVID vaccine,25,India
+2022-06-03,COVID vaccine,35,India
+2022-06-04,COVID vaccine,41,India
+2022-06-05,COVID vaccine,16,India
+2022-06-06,COVID vaccine,38,India
+2022-06-07,COVID vaccine,26,India
+2022-06-08,COVID vaccine,37,India
+2022-06-09,COVID vaccine,24,India
+2022-06-10,COVID vaccine,13,India
+2022-06-11,COVID vaccine,14,India
+2022-06-12,COVID vaccine,30,India
+2022-06-13,COVID vaccine,32,India
+2022-06-14,COVID vaccine,20,India
+2022-06-15,COVID vaccine,35,India
+2022-06-16,COVID vaccine,11,India
+2022-06-17,COVID vaccine,27,India
+2022-06-18,COVID vaccine,15,India
+2022-06-19,COVID vaccine,20,India
+2022-06-20,COVID vaccine,26,India
+2022-06-21,COVID vaccine,17,India
+2022-06-22,COVID vaccine,21,India
+2022-06-23,COVID vaccine,34,India
+2022-06-24,COVID vaccine,18,India
+2022-06-25,COVID vaccine,32,India
+2022-06-26,COVID vaccine,12,India
+2022-06-27,COVID vaccine,28,India
+2022-06-28,COVID vaccine,36,India
+2022-06-29,COVID vaccine,0,India
+2022-06-30,COVID vaccine,13,India
+2022-07-01,COVID vaccine,26,India
+2022-07-02,COVID vaccine,18,India
+2022-07-03,COVID vaccine,23,India
+2022-07-04,COVID vaccine,13,India
+2022-07-05,COVID vaccine,19,India
+2022-07-06,COVID vaccine,16,India
+2022-07-07,COVID vaccine,29,India
+2022-07-08,COVID vaccine,19,India
+2022-07-09,COVID vaccine,20,India
+2022-07-10,COVID vaccine,12,India
+2022-07-11,COVID vaccine,10,India
+2022-07-12,COVID vaccine,10,India
+2022-07-13,COVID vaccine,18,India
+2022-07-14,COVID vaccine,9,India
+2022-07-15,COVID vaccine,16,India
+2022-07-16,COVID vaccine,33,India
+2022-07-17,COVID vaccine,21,India
+2022-07-18,COVID vaccine,8,India
+2022-07-19,COVID vaccine,23,India
+2022-07-20,COVID vaccine,7,India
+2022-07-21,COVID vaccine,0,India
+2022-07-22,COVID vaccine,0,India
+2022-07-23,COVID vaccine,0,India
+2022-07-24,COVID vaccine,5,India
+2022-07-25,COVID vaccine,8,India
+2022-07-26,COVID vaccine,24,India
+2022-07-27,COVID vaccine,10,India
+2022-07-28,COVID vaccine,5,India
+2022-07-29,COVID vaccine,15,India
+2022-07-30,COVID vaccine,0,India
+2022-07-31,COVID vaccine,8,India
+2022-08-01,COVID vaccine,13,India
+2022-08-02,COVID vaccine,0,India
+2022-08-03,COVID vaccine,15,India
+2022-08-04,COVID vaccine,7,India
+2022-08-05,COVID vaccine,0,India
+2022-08-06,COVID vaccine,9,India
+2022-08-07,COVID vaccine,25,India
+2022-08-08,COVID vaccine,4,India
+2022-08-09,COVID vaccine,4,India
+2022-08-10,COVID vaccine,0,India
+2022-08-11,COVID vaccine,0,India
+2022-08-12,COVID vaccine,9,India
+2022-08-13,COVID vaccine,0,India
+2022-08-14,COVID vaccine,0,India
+2022-08-15,COVID vaccine,0,India
+2022-08-16,COVID vaccine,3,India
+2022-08-17,COVID vaccine,2,India
+2022-08-18,COVID vaccine,8,India
+2022-08-19,COVID vaccine,0,India
+2022-08-20,COVID vaccine,0,India
+2022-08-21,COVID vaccine,0,India
+2022-08-22,COVID vaccine,0,India
+2022-08-23,COVID vaccine,0,India
+2022-08-24,COVID vaccine,4,India
+2022-08-25,COVID vaccine,0,India
+2022-08-26,COVID vaccine,4,India
+2022-08-27,COVID vaccine,9,India
+2022-08-28,COVID vaccine,0,India
+2022-08-29,COVID vaccine,13,India
+2022-08-30,COVID vaccine,0,India
+2022-08-31,COVID vaccine,0,India
+2022-09-01,COVID vaccine,0,India
+2022-09-02,COVID vaccine,8,India
+2022-09-03,COVID vaccine,0,India
+2022-09-04,COVID vaccine,0,India
+2022-09-05,COVID vaccine,0,India
+2022-09-06,COVID vaccine,0,India
+2022-09-07,COVID vaccine,17,India
+2022-09-08,COVID vaccine,0,India
+2022-09-09,COVID vaccine,0,India
+2022-09-10,COVID vaccine,0,India
+2022-09-11,COVID vaccine,0,India
+2022-09-12,COVID vaccine,0,India
+2022-09-13,COVID vaccine,0,India
+2022-09-14,COVID vaccine,0,India
+2022-09-15,COVID vaccine,10,India
+2022-09-16,COVID vaccine,4,India
+2022-09-17,COVID vaccine,6,India
+2022-09-18,COVID vaccine,0,India
+2022-09-19,COVID vaccine,0,India
+2022-09-20,COVID vaccine,0,India
+2022-09-21,COVID vaccine,0,India
+2022-09-22,COVID vaccine,1,India
+2022-09-23,COVID vaccine,0,India
+2022-09-24,COVID vaccine,5,India
+2022-09-25,COVID vaccine,0,India
+2022-09-26,COVID vaccine,0,India
+2022-09-27,COVID vaccine,0,India
+2022-09-28,COVID vaccine,0,India
+2022-09-29,COVID vaccine,0,India
+2022-09-30,COVID vaccine,0,India
+2022-10-01,COVID vaccine,0,India
+2022-10-02,COVID vaccine,0,India
+2022-10-03,COVID vaccine,0,India
+2022-10-04,COVID vaccine,6,India
+2022-10-05,COVID vaccine,0,India
+2022-10-06,COVID vaccine,0,India
+2022-10-07,COVID vaccine,0,India
+2022-10-08,COVID vaccine,0,India
+2022-10-09,COVID vaccine,0,India
+2022-10-10,COVID vaccine,0,India
+2022-10-11,COVID vaccine,0,India
+2022-10-12,COVID vaccine,0,India
+2022-10-13,COVID vaccine,9,India
+2022-10-14,COVID vaccine,1,India
+2022-10-15,COVID vaccine,0,India
+2022-10-16,COVID vaccine,0,India
+2022-10-17,COVID vaccine,16,India
+2022-10-18,COVID vaccine,0,India
+2022-10-19,COVID vaccine,0,India
+2022-10-20,COVID vaccine,0,India
+2022-10-21,COVID vaccine,0,India
+2022-10-22,COVID vaccine,0,India
+2022-10-23,COVID vaccine,0,India
+2022-10-24,COVID vaccine,0,India
+2022-10-25,COVID vaccine,0,India
+2022-10-26,COVID vaccine,0,India
+2022-10-27,COVID vaccine,0,India
+2022-10-28,COVID vaccine,0,India
+2022-10-29,COVID vaccine,0,India
+2022-10-30,COVID vaccine,8,India
+2022-10-31,COVID vaccine,0,India
+2022-11-01,COVID vaccine,4,India
+2022-11-02,COVID vaccine,6,India
+2022-11-03,COVID vaccine,0,India
+2022-11-04,COVID vaccine,0,India
+2022-11-05,COVID vaccine,0,India
+2022-11-06,COVID vaccine,0,India
+2022-11-07,COVID vaccine,0,India
+2022-11-08,COVID vaccine,0,India
+2022-11-09,COVID vaccine,13,India
+2022-11-10,COVID vaccine,5,India
+2022-11-11,COVID vaccine,9,India
+2022-11-12,COVID vaccine,4,India
+2022-11-13,COVID vaccine,0,India
+2022-11-14,COVID vaccine,0,India
+2022-11-15,COVID vaccine,3,India
+2022-11-16,COVID vaccine,0,India
+2022-11-17,COVID vaccine,6,India
+2022-11-18,COVID vaccine,0,India
+2022-11-19,COVID vaccine,0,India
+2022-11-20,COVID vaccine,7,India
+2022-11-21,COVID vaccine,4,India
+2022-11-22,COVID vaccine,0,India
+2022-11-23,COVID vaccine,12,India
+2022-11-24,COVID vaccine,0,India
+2022-11-25,COVID vaccine,8,India
+2022-11-26,COVID vaccine,8,India
+2022-11-27,COVID vaccine,0,India
+2022-11-28,COVID vaccine,6,India
+2022-11-29,COVID vaccine,0,India
+2022-11-30,COVID vaccine,13,India
+2022-12-01,COVID vaccine,2,India
+2022-12-02,COVID vaccine,0,India
+2022-12-03,COVID vaccine,16,India
+2022-12-04,COVID vaccine,0,India
+2022-12-05,COVID vaccine,0,India
+2022-12-06,COVID vaccine,0,India
+2022-12-07,COVID vaccine,13,India
+2022-12-08,COVID vaccine,0,India
+2022-12-09,COVID vaccine,25,India
+2022-12-10,COVID vaccine,0,India
+2022-12-11,COVID vaccine,26,India
+2022-12-12,COVID vaccine,11,India
+2022-12-13,COVID vaccine,9,India
+2022-12-14,COVID vaccine,5,India
+2022-12-15,COVID vaccine,15,India
+2022-12-16,COVID vaccine,11,India
+2022-12-17,COVID vaccine,23,India
+2022-12-18,COVID vaccine,13,India
+2022-12-19,COVID vaccine,14,India
+2022-12-20,COVID vaccine,10,India
+2022-12-21,COVID vaccine,13,India
+2022-12-22,COVID vaccine,17,India
+2022-12-23,COVID vaccine,0,India
+2022-12-24,COVID vaccine,2,India
+2022-12-25,COVID vaccine,23,India
+2022-12-26,COVID vaccine,18,India
+2022-12-27,COVID vaccine,15,India
+2022-12-28,COVID vaccine,18,India
+2022-12-29,COVID vaccine,21,India
+2022-12-30,COVID vaccine,13,India
+2022-12-31,COVID vaccine,11,India
+2021-01-01,vaccine registration,21,India
+2021-01-02,vaccine registration,10,India
+2021-01-03,vaccine registration,25,India
+2021-01-04,vaccine registration,4,India
+2021-01-05,vaccine registration,32,India
+2021-01-06,vaccine registration,27,India
+2021-01-07,vaccine registration,25,India
+2021-01-08,vaccine registration,33,India
+2021-01-09,vaccine registration,40,India
+2021-01-10,vaccine registration,34,India
+2021-01-11,vaccine registration,6,India
+2021-01-12,vaccine registration,12,India
+2021-01-13,vaccine registration,19,India
+2021-01-14,vaccine registration,26,India
+2021-01-15,vaccine registration,32,India
+2021-01-16,vaccine registration,20,India
+2021-01-17,vaccine registration,30,India
+2021-01-18,vaccine registration,21,India
+2021-01-19,vaccine registration,23,India
+2021-01-20,vaccine registration,15,India
+2021-01-21,vaccine registration,20,India
+2021-01-22,vaccine registration,17,India
+2021-01-23,vaccine registration,21,India
+2021-01-24,vaccine registration,42,India
+2021-01-25,vaccine registration,22,India
+2021-01-26,vaccine registration,58,India
+2021-01-27,vaccine registration,37,India
+2021-01-28,vaccine registration,35,India
+2021-01-29,vaccine registration,25,India
+2021-01-30,vaccine registration,41,India
+2021-01-31,vaccine registration,29,India
+2021-02-01,vaccine registration,36,India
+2021-02-02,vaccine registration,61,India
+2021-02-03,vaccine registration,35,India
+2021-02-04,vaccine registration,48,India
+2021-02-05,vaccine registration,29,India
+2021-02-06,vaccine registration,37,India
+2021-02-07,vaccine registration,55,India
+2021-02-08,vaccine registration,31,India
+2021-02-09,vaccine registration,56,India
+2021-02-10,vaccine registration,46,India
+2021-02-11,vaccine registration,33,India
+2021-02-12,vaccine registration,46,India
+2021-02-13,vaccine registration,49,India
+2021-02-14,vaccine registration,46,India
+2021-02-15,vaccine registration,25,India
+2021-02-16,vaccine registration,34,India
+2021-02-17,vaccine registration,39,India
+2021-02-18,vaccine registration,41,India
+2021-02-19,vaccine registration,48,India
+2021-02-20,vaccine registration,44,India
+2021-02-21,vaccine registration,29,India
+2021-02-22,vaccine registration,47,India
+2021-02-23,vaccine registration,49,India
+2021-02-24,vaccine registration,49,India
+2021-02-25,vaccine registration,55,India
+2021-02-26,vaccine registration,52,India
+2021-02-27,vaccine registration,49,India
+2021-02-28,vaccine registration,44,India
+2021-03-01,vaccine registration,28,India
+2021-03-02,vaccine registration,50,India
+2021-03-03,vaccine registration,48,India
+2021-03-04,vaccine registration,48,India
+2021-03-05,vaccine registration,33,India
+2021-03-06,vaccine registration,35,India
+2021-03-07,vaccine registration,57,India
+2021-03-08,vaccine registration,46,India
+2021-03-09,vaccine registration,54,India
+2021-03-10,vaccine registration,47,India
+2021-03-11,vaccine registration,48,India
+2021-03-12,vaccine registration,57,India
+2021-03-13,vaccine registration,43,India
+2021-03-14,vaccine registration,49,India
+2021-03-15,vaccine registration,43,India
+2021-03-16,vaccine registration,44,India
+2021-03-17,vaccine registration,45,India
+2021-03-18,vaccine registration,51,India
+2021-03-19,vaccine registration,44,India
+2021-03-20,vaccine registration,61,India
+2021-03-21,vaccine registration,40,India
+2021-03-22,vaccine registration,47,India
+2021-03-23,vaccine registration,45,India
+2021-03-24,vaccine registration,64,India
+2021-03-25,vaccine registration,51,India
+2021-03-26,vaccine registration,60,India
+2021-03-27,vaccine registration,34,India
+2021-03-28,vaccine registration,52,India
+2021-03-29,vaccine registration,58,India
+2021-03-30,vaccine registration,50,India
+2021-03-31,vaccine registration,60,India
+2021-04-01,vaccine registration,44,India
+2021-04-02,vaccine registration,64,India
+2021-04-03,vaccine registration,72,India
+2021-04-04,vaccine registration,46,India
+2021-04-05,vaccine registration,45,India
+2021-04-06,vaccine registration,64,India
+2021-04-07,vaccine registration,65,India
+2021-04-08,vaccine registration,44,India
+2021-04-09,vaccine registration,45,India
+2021-04-10,vaccine registration,46,India
+2021-04-11,vaccine registration,36,India
+2021-04-12,vaccine registration,40,India
+2021-04-13,vaccine registration,39,India
+2021-04-14,vaccine registration,41,India
+2021-04-15,vaccine registration,48,India
+2021-04-16,vaccine registration,51,India
+2021-04-17,vaccine registration,64,India
+2021-04-18,vaccine registration,38,India
+2021-04-19,vaccine registration,58,India
+2021-04-20,vaccine registration,46,India
+2021-04-21,vaccine registration,47,India
+2021-04-22,vaccine registration,55,India
+2021-04-23,vaccine registration,36,India
+2021-04-24,vaccine registration,51,India
+2021-04-25,vaccine registration,49,India
+2021-04-26,vaccine registration,52,India
+2021-04-27,vaccine registration,50,India
+2021-04-28,vaccine registration,71,India
+2021-04-29,vaccine registration,40,India
+2021-04-30,vaccine registration,41,India
+2021-05-01,vaccine registration,40,India
+2021-05-02,vaccine registration,40,India
+2021-05-03,vaccine registration,39,India
+2021-05-04,vaccine registration,57,India
+2021-05-05,vaccine registration,59,India
+2021-05-06,vaccine registration,39,India
+2021-05-07,vaccine registration,36,India
+2021-05-08,vaccine registration,49,India
+2021-05-09,vaccine registration,38,India
+2021-05-10,vaccine registration,50,India
+2021-05-11,vaccine registration,45,India
+2021-05-12,vaccine registration,28,India
+2021-05-13,vaccine registration,58,India
+2021-05-14,vaccine registration,60,India
+2021-05-15,vaccine registration,36,India
+2021-05-16,vaccine registration,38,India
+2021-05-17,vaccine registration,44,India
+2021-05-18,vaccine registration,44,India
+2021-05-19,vaccine registration,47,India
+2021-05-20,vaccine registration,60,India
+2021-05-21,vaccine registration,38,India
+2021-05-22,vaccine registration,31,India
+2021-05-23,vaccine registration,25,India
+2021-05-24,vaccine registration,31,India
+2021-05-25,vaccine registration,38,India
+2021-05-26,vaccine registration,55,India
+2021-05-27,vaccine registration,32,India
+2021-05-28,vaccine registration,39,India
+2021-05-29,vaccine registration,36,India
+2021-05-30,vaccine registration,48,India
+2021-05-31,vaccine registration,61,India
+2021-06-01,vaccine registration,30,India
+2021-06-02,vaccine registration,30,India
+2021-06-03,vaccine registration,45,India
+2021-06-04,vaccine registration,40,India
+2021-06-05,vaccine registration,52,India
+2021-06-06,vaccine registration,39,India
+2021-06-07,vaccine registration,29,India
+2021-06-08,vaccine registration,38,India
+2021-06-09,vaccine registration,42,India
+2021-06-10,vaccine registration,39,India
+2021-06-11,vaccine registration,35,India
+2021-06-12,vaccine registration,41,India
+2021-06-13,vaccine registration,41,India
+2021-06-14,vaccine registration,43,India
+2021-06-15,vaccine registration,35,India
+2021-06-16,vaccine registration,26,India
+2021-06-17,vaccine registration,29,India
+2021-06-18,vaccine registration,39,India
+2021-06-19,vaccine registration,18,India
+2021-06-20,vaccine registration,30,India
+2021-06-21,vaccine registration,21,India
+2021-06-22,vaccine registration,25,India
+2021-06-23,vaccine registration,37,India
+2021-06-24,vaccine registration,26,India
+2021-06-25,vaccine registration,24,India
+2021-06-26,vaccine registration,9,India
+2021-06-27,vaccine registration,30,India
+2021-06-28,vaccine registration,28,India
+2021-06-29,vaccine registration,43,India
+2021-06-30,vaccine registration,18,India
+2021-07-01,vaccine registration,22,India
+2021-07-02,vaccine registration,22,India
+2021-07-03,vaccine registration,35,India
+2021-07-04,vaccine registration,18,India
+2021-07-05,vaccine registration,21,India
+2021-07-06,vaccine registration,24,India
+2021-07-07,vaccine registration,19,India
+2021-07-08,vaccine registration,12,India
+2021-07-09,vaccine registration,18,India
+2021-07-10,vaccine registration,26,India
+2021-07-11,vaccine registration,5,India
+2021-07-12,vaccine registration,16,India
+2021-07-13,vaccine registration,7,India
+2021-07-14,vaccine registration,26,India
+2021-07-15,vaccine registration,0,India
+2021-07-16,vaccine registration,7,India
+2021-07-17,vaccine registration,16,India
+2021-07-18,vaccine registration,27,India
+2021-07-19,vaccine registration,10,India
+2021-07-20,vaccine registration,5,India
+2021-07-21,vaccine registration,29,India
+2021-07-22,vaccine registration,0,India
+2021-07-23,vaccine registration,0,India
+2021-07-24,vaccine registration,13,India
+2021-07-25,vaccine registration,3,India
+2021-07-26,vaccine registration,0,India
+2021-07-27,vaccine registration,14,India
+2021-07-28,vaccine registration,9,India
+2021-07-29,vaccine registration,1,India
+2021-07-30,vaccine registration,0,India
+2021-07-31,vaccine registration,14,India
+2021-08-01,vaccine registration,11,India
+2021-08-02,vaccine registration,3,India
+2021-08-03,vaccine registration,22,India
+2021-08-04,vaccine registration,0,India
+2021-08-05,vaccine registration,0,India
+2021-08-06,vaccine registration,0,India
+2021-08-07,vaccine registration,2,India
+2021-08-08,vaccine registration,4,India
+2021-08-09,vaccine registration,0,India
+2021-08-10,vaccine registration,5,India
+2021-08-11,vaccine registration,0,India
+2021-08-12,vaccine registration,15,India
+2021-08-13,vaccine registration,0,India
+2021-08-14,vaccine registration,11,India
+2021-08-15,vaccine registration,3,India
+2021-08-16,vaccine registration,3,India
+2021-08-17,vaccine registration,4,India
+2021-08-18,vaccine registration,2,India
+2021-08-19,vaccine registration,4,India
+2021-08-20,vaccine registration,11,India
+2021-08-21,vaccine registration,0,India
+2021-08-22,vaccine registration,4,India
+2021-08-23,vaccine registration,0,India
+2021-08-24,vaccine registration,10,India
+2021-08-25,vaccine registration,0,India
+2021-08-26,vaccine registration,13,India
+2021-08-27,vaccine registration,0,India
+2021-08-28,vaccine registration,0,India
+2021-08-29,vaccine registration,0,India
+2021-08-30,vaccine registration,0,India
+2021-08-31,vaccine registration,2,India
+2021-09-01,vaccine registration,0,India
+2021-09-02,vaccine registration,0,India
+2021-09-03,vaccine registration,0,India
+2021-09-04,vaccine registration,0,India
+2021-09-05,vaccine registration,0,India
+2021-09-06,vaccine registration,0,India
+2021-09-07,vaccine registration,0,India
+2021-09-08,vaccine registration,0,India
+2021-09-09,vaccine registration,0,India
+2021-09-10,vaccine registration,0,India
+2021-09-11,vaccine registration,0,India
+2021-09-12,vaccine registration,0,India
+2021-09-13,vaccine registration,0,India
+2021-09-14,vaccine registration,6,India
+2021-09-15,vaccine registration,0,India
+2021-09-16,vaccine registration,0,India
+2021-09-17,vaccine registration,0,India
+2021-09-18,vaccine registration,0,India
+2021-09-19,vaccine registration,0,India
+2021-09-20,vaccine registration,0,India
+2021-09-21,vaccine registration,0,India
+2021-09-22,vaccine registration,0,India
+2021-09-23,vaccine registration,0,India
+2021-09-24,vaccine registration,8,India
+2021-09-25,vaccine registration,0,India
+2021-09-26,vaccine registration,0,India
+2021-09-27,vaccine registration,0,India
+2021-09-28,vaccine registration,4,India
+2021-09-29,vaccine registration,0,India
+2021-09-30,vaccine registration,0,India
+2021-10-01,vaccine registration,0,India
+2021-10-02,vaccine registration,0,India
+2021-10-03,vaccine registration,0,India
+2021-10-04,vaccine registration,0,India
+2021-10-05,vaccine registration,0,India
+2021-10-06,vaccine registration,0,India
+2021-10-07,vaccine registration,0,India
+2021-10-08,vaccine registration,3,India
+2021-10-09,vaccine registration,0,India
+2021-10-10,vaccine registration,11,India
+2021-10-11,vaccine registration,0,India
+2021-10-12,vaccine registration,7,India
+2021-10-13,vaccine registration,0,India
+2021-10-14,vaccine registration,0,India
+2021-10-15,vaccine registration,0,India
+2021-10-16,vaccine registration,0,India
+2021-10-17,vaccine registration,0,India
+2021-10-18,vaccine registration,0,India
+2021-10-19,vaccine registration,0,India
+2021-10-20,vaccine registration,0,India
+2021-10-21,vaccine registration,13,India
+2021-10-22,vaccine registration,9,India
+2021-10-23,vaccine registration,0,India
+2021-10-24,vaccine registration,0,India
+2021-10-25,vaccine registration,0,India
+2021-10-26,vaccine registration,0,India
+2021-10-27,vaccine registration,0,India
+2021-10-28,vaccine registration,0,India
+2021-10-29,vaccine registration,0,India
+2021-10-30,vaccine registration,0,India
+2021-10-31,vaccine registration,0,India
+2021-11-01,vaccine registration,0,India
+2021-11-02,vaccine registration,9,India
+2021-11-03,vaccine registration,0,India
+2021-11-04,vaccine registration,0,India
+2021-11-05,vaccine registration,0,India
+2021-11-06,vaccine registration,5,India
+2021-11-07,vaccine registration,12,India
+2021-11-08,vaccine registration,0,India
+2021-11-09,vaccine registration,7,India
+2021-11-10,vaccine registration,0,India
+2021-11-11,vaccine registration,0,India
+2021-11-12,vaccine registration,6,India
+2021-11-13,vaccine registration,4,India
+2021-11-14,vaccine registration,0,India
+2021-11-15,vaccine registration,13,India
+2021-11-16,vaccine registration,12,India
+2021-11-17,vaccine registration,0,India
+2021-11-18,vaccine registration,3,India
+2021-11-19,vaccine registration,4,India
+2021-11-20,vaccine registration,2,India
+2021-11-21,vaccine registration,0,India
+2021-11-22,vaccine registration,0,India
+2021-11-23,vaccine registration,1,India
+2021-11-24,vaccine registration,13,India
+2021-11-25,vaccine registration,7,India
+2021-11-26,vaccine registration,0,India
+2021-11-27,vaccine registration,10,India
+2021-11-28,vaccine registration,0,India
+2021-11-29,vaccine registration,15,India
+2021-11-30,vaccine registration,0,India
+2021-12-01,vaccine registration,1,India
+2021-12-02,vaccine registration,0,India
+2021-12-03,vaccine registration,0,India
+2021-12-04,vaccine registration,17,India
+2021-12-05,vaccine registration,1,India
+2021-12-06,vaccine registration,10,India
+2021-12-07,vaccine registration,7,India
+2021-12-08,vaccine registration,12,India
+2021-12-09,vaccine registration,9,India
+2021-12-10,vaccine registration,0,India
+2021-12-11,vaccine registration,19,India
+2021-12-12,vaccine registration,4,India
+2021-12-13,vaccine registration,0,India
+2021-12-14,vaccine registration,6,India
+2021-12-15,vaccine registration,26,India
+2021-12-16,vaccine registration,20,India
+2021-12-17,vaccine registration,8,India
+2021-12-18,vaccine registration,9,India
+2021-12-19,vaccine registration,10,India
+2021-12-20,vaccine registration,34,India
+2021-12-21,vaccine registration,18,India
+2021-12-22,vaccine registration,19,India
+2021-12-23,vaccine registration,25,India
+2021-12-24,vaccine registration,18,India
+2021-12-25,vaccine registration,13,India
+2021-12-26,vaccine registration,14,India
+2021-12-27,vaccine registration,16,India
+2021-12-28,vaccine registration,17,India
+2021-12-29,vaccine registration,25,India
+2021-12-30,vaccine registration,19,India
+2021-12-31,vaccine registration,26,India
+2022-01-01,vaccine registration,19,India
+2022-01-02,vaccine registration,21,India
+2022-01-03,vaccine registration,1,India
+2022-01-04,vaccine registration,30,India
+2022-01-05,vaccine registration,25,India
+2022-01-06,vaccine registration,32,India
+2022-01-07,vaccine registration,0,India
+2022-01-08,vaccine registration,44,India
+2022-01-09,vaccine registration,22,India
+2022-01-10,vaccine registration,35,India
+2022-01-11,vaccine registration,14,India
+2022-01-12,vaccine registration,31,India
+2022-01-13,vaccine registration,15,India
+2022-01-14,vaccine registration,20,India
+2022-01-15,vaccine registration,46,India
+2022-01-16,vaccine registration,25,India
+2022-01-17,vaccine registration,30,India
+2022-01-18,vaccine registration,37,India
+2022-01-19,vaccine registration,34,India
+2022-01-20,vaccine registration,31,India
+2022-01-21,vaccine registration,33,India
+2022-01-22,vaccine registration,54,India
+2022-01-23,vaccine registration,30,India
+2022-01-24,vaccine registration,33,India
+2022-01-25,vaccine registration,42,India
+2022-01-26,vaccine registration,43,India
+2022-01-27,vaccine registration,44,India
+2022-01-28,vaccine registration,39,India
+2022-01-29,vaccine registration,22,India
+2022-01-30,vaccine registration,50,India
+2022-01-31,vaccine registration,23,India
+2022-02-01,vaccine registration,38,India
+2022-02-02,vaccine registration,28,India
+2022-02-03,vaccine registration,35,India
+2022-02-04,vaccine registration,39,India
+2022-02-05,vaccine registration,40,India
+2022-02-06,vaccine registration,41,India
+2022-02-07,vaccine registration,53,India
+2022-02-08,vaccine registration,42,India
+2022-02-09,vaccine registration,36,India
+2022-02-10,vaccine registration,48,India
+2022-02-11,vaccine registration,51,India
+2022-02-12,vaccine registration,27,India
+2022-02-13,vaccine registration,46,India
+2022-02-14,vaccine registration,47,India
+2022-02-15,vaccine registration,38,India
+2022-02-16,vaccine registration,55,India
+2022-02-17,vaccine registration,40,India
+2022-02-18,vaccine registration,43,India
+2022-02-19,vaccine registration,40,India
+2022-02-20,vaccine registration,42,India
+2022-02-21,vaccine registration,32,India
+2022-02-22,vaccine registration,29,India
+2022-02-23,vaccine registration,59,India
+2022-02-24,vaccine registration,35,India
+2022-02-25,vaccine registration,34,India
+2022-02-26,vaccine registration,23,India
+2022-02-27,vaccine registration,38,India
+2022-02-28,vaccine registration,31,India
+2022-03-01,vaccine registration,61,India
+2022-03-02,vaccine registration,55,India
+2022-03-03,vaccine registration,39,India
+2022-03-04,vaccine registration,68,India
+2022-03-05,vaccine registration,56,India
+2022-03-06,vaccine registration,43,India
+2022-03-07,vaccine registration,21,India
+2022-03-08,vaccine registration,70,India
+2022-03-09,vaccine registration,33,India
+2022-03-10,vaccine registration,31,India
+2022-03-11,vaccine registration,58,India
+2022-03-12,vaccine registration,72,India
+2022-03-13,vaccine registration,62,India
+2022-03-14,vaccine registration,54,India
+2022-03-15,vaccine registration,54,India
+2022-03-16,vaccine registration,57,India
+2022-03-17,vaccine registration,56,India
+2022-03-18,vaccine registration,51,India
+2022-03-19,vaccine registration,50,India
+2022-03-20,vaccine registration,48,India
+2022-03-21,vaccine registration,41,India
+2022-03-22,vaccine registration,46,India
+2022-03-23,vaccine registration,32,India
+2022-03-24,vaccine registration,48,India
+2022-03-25,vaccine registration,39,India
+2022-03-26,vaccine registration,38,India
+2022-03-27,vaccine registration,51,India
+2022-03-28,vaccine registration,63,India
+2022-03-29,vaccine registration,59,India
+2022-03-30,vaccine registration,34,India
+2022-03-31,vaccine registration,40,India
+2022-04-01,vaccine registration,59,India
+2022-04-02,vaccine registration,40,India
+2022-04-03,vaccine registration,47,India
+2022-04-04,vaccine registration,55,India
+2022-04-05,vaccine registration,40,India
+2022-04-06,vaccine registration,50,India
+2022-04-07,vaccine registration,36,India
+2022-04-08,vaccine registration,43,India
+2022-04-09,vaccine registration,52,India
+2022-04-10,vaccine registration,33,India
+2022-04-11,vaccine registration,54,India
+2022-04-12,vaccine registration,49,India
+2022-04-13,vaccine registration,55,India
+2022-04-14,vaccine registration,51,India
+2022-04-15,vaccine registration,62,India
+2022-04-16,vaccine registration,50,India
+2022-04-17,vaccine registration,44,India
+2022-04-18,vaccine registration,50,India
+2022-04-19,vaccine registration,54,India
+2022-04-20,vaccine registration,49,India
+2022-04-21,vaccine registration,48,India
+2022-04-22,vaccine registration,41,India
+2022-04-23,vaccine registration,41,India
+2022-04-24,vaccine registration,33,India
+2022-04-25,vaccine registration,65,India
+2022-04-26,vaccine registration,35,India
+2022-04-27,vaccine registration,40,India
+2022-04-28,vaccine registration,39,India
+2022-04-29,vaccine registration,55,India
+2022-04-30,vaccine registration,43,India
+2022-05-01,vaccine registration,58,India
+2022-05-02,vaccine registration,39,India
+2022-05-03,vaccine registration,48,India
+2022-05-04,vaccine registration,37,India
+2022-05-05,vaccine registration,66,India
+2022-05-06,vaccine registration,33,India
+2022-05-07,vaccine registration,47,India
+2022-05-08,vaccine registration,50,India
+2022-05-09,vaccine registration,48,India
+2022-05-10,vaccine registration,42,India
+2022-05-11,vaccine registration,42,India
+2022-05-12,vaccine registration,43,India
+2022-05-13,vaccine registration,41,India
+2022-05-14,vaccine registration,52,India
+2022-05-15,vaccine registration,64,India
+2022-05-16,vaccine registration,36,India
+2022-05-17,vaccine registration,27,India
+2022-05-18,vaccine registration,40,India
+2022-05-19,vaccine registration,66,India
+2022-05-20,vaccine registration,32,India
+2022-05-21,vaccine registration,56,India
+2022-05-22,vaccine registration,56,India
+2022-05-23,vaccine registration,33,India
+2022-05-24,vaccine registration,44,India
+2022-05-25,vaccine registration,54,India
+2022-05-26,vaccine registration,34,India
+2022-05-27,vaccine registration,35,India
+2022-05-28,vaccine registration,31,India
+2022-05-29,vaccine registration,26,India
+2022-05-30,vaccine registration,29,India
+2022-05-31,vaccine registration,23,India
+2022-06-01,vaccine registration,35,India
+2022-06-02,vaccine registration,27,India
+2022-06-03,vaccine registration,36,India
+2022-06-04,vaccine registration,18,India
+2022-06-05,vaccine registration,36,India
+2022-06-06,vaccine registration,41,India
+2022-06-07,vaccine registration,12,India
+2022-06-08,vaccine registration,36,India
+2022-06-09,vaccine registration,44,India
+2022-06-10,vaccine registration,19,India
+2022-06-11,vaccine registration,47,India
+2022-06-12,vaccine registration,34,India
+2022-06-13,vaccine registration,22,India
+2022-06-14,vaccine registration,28,India
+2022-06-15,vaccine registration,34,India
+2022-06-16,vaccine registration,29,India
+2022-06-17,vaccine registration,33,India
+2022-06-18,vaccine registration,18,India
+2022-06-19,vaccine registration,28,India
+2022-06-20,vaccine registration,12,India
+2022-06-21,vaccine registration,24,India
+2022-06-22,vaccine registration,16,India
+2022-06-23,vaccine registration,17,India
+2022-06-24,vaccine registration,36,India
+2022-06-25,vaccine registration,34,India
+2022-06-26,vaccine registration,29,India
+2022-06-27,vaccine registration,11,India
+2022-06-28,vaccine registration,19,India
+2022-06-29,vaccine registration,33,India
+2022-06-30,vaccine registration,22,India
+2022-07-01,vaccine registration,43,India
+2022-07-02,vaccine registration,24,India
+2022-07-03,vaccine registration,21,India
+2022-07-04,vaccine registration,16,India
+2022-07-05,vaccine registration,20,India
+2022-07-06,vaccine registration,16,India
+2022-07-07,vaccine registration,24,India
+2022-07-08,vaccine registration,26,India
+2022-07-09,vaccine registration,8,India
+2022-07-10,vaccine registration,2,India
+2022-07-11,vaccine registration,0,India
+2022-07-12,vaccine registration,20,India
+2022-07-13,vaccine registration,3,India
+2022-07-14,vaccine registration,0,India
+2022-07-15,vaccine registration,17,India
+2022-07-16,vaccine registration,38,India
+2022-07-17,vaccine registration,12,India
+2022-07-18,vaccine registration,20,India
+2022-07-19,vaccine registration,12,India
+2022-07-20,vaccine registration,10,India
+2022-07-21,vaccine registration,19,India
+2022-07-22,vaccine registration,7,India
+2022-07-23,vaccine registration,12,India
+2022-07-24,vaccine registration,12,India
+2022-07-25,vaccine registration,1,India
+2022-07-26,vaccine registration,18,India
+2022-07-27,vaccine registration,5,India
+2022-07-28,vaccine registration,0,India
+2022-07-29,vaccine registration,12,India
+2022-07-30,vaccine registration,0,India
+2022-07-31,vaccine registration,6,India
+2022-08-01,vaccine registration,5,India
+2022-08-02,vaccine registration,15,India
+2022-08-03,vaccine registration,9,India
+2022-08-04,vaccine registration,3,India
+2022-08-05,vaccine registration,11,India
+2022-08-06,vaccine registration,17,India
+2022-08-07,vaccine registration,8,India
+2022-08-08,vaccine registration,2,India
+2022-08-09,vaccine registration,0,India
+2022-08-10,vaccine registration,0,India
+2022-08-11,vaccine registration,0,India
+2022-08-12,vaccine registration,0,India
+2022-08-13,vaccine registration,0,India
+2022-08-14,vaccine registration,0,India
+2022-08-15,vaccine registration,4,India
+2022-08-16,vaccine registration,0,India
+2022-08-17,vaccine registration,3,India
+2022-08-18,vaccine registration,0,India
+2022-08-19,vaccine registration,0,India
+2022-08-20,vaccine registration,0,India
+2022-08-21,vaccine registration,0,India
+2022-08-22,vaccine registration,0,India
+2022-08-23,vaccine registration,2,India
+2022-08-24,vaccine registration,11,India
+2022-08-25,vaccine registration,8,India
+2022-08-26,vaccine registration,0,India
+2022-08-27,vaccine registration,10,India
+2022-08-28,vaccine registration,0,India
+2022-08-29,vaccine registration,0,India
+2022-08-30,vaccine registration,0,India
+2022-08-31,vaccine registration,0,India
+2022-09-01,vaccine registration,0,India
+2022-09-02,vaccine registration,0,India
+2022-09-03,vaccine registration,0,India
+2022-09-04,vaccine registration,0,India
+2022-09-05,vaccine registration,0,India
+2022-09-06,vaccine registration,4,India
+2022-09-07,vaccine registration,2,India
+2022-09-08,vaccine registration,0,India
+2022-09-09,vaccine registration,0,India
+2022-09-10,vaccine registration,1,India
+2022-09-11,vaccine registration,0,India
+2022-09-12,vaccine registration,0,India
+2022-09-13,vaccine registration,0,India
+2022-09-14,vaccine registration,0,India
+2022-09-15,vaccine registration,0,India
+2022-09-16,vaccine registration,0,India
+2022-09-17,vaccine registration,0,India
+2022-09-18,vaccine registration,0,India
+2022-09-19,vaccine registration,0,India
+2022-09-20,vaccine registration,0,India
+2022-09-21,vaccine registration,0,India
+2022-09-22,vaccine registration,0,India
+2022-09-23,vaccine registration,0,India
+2022-09-24,vaccine registration,0,India
+2022-09-25,vaccine registration,0,India
+2022-09-26,vaccine registration,0,India
+2022-09-27,vaccine registration,2,India
+2022-09-28,vaccine registration,0,India
+2022-09-29,vaccine registration,0,India
+2022-09-30,vaccine registration,0,India
+2022-10-01,vaccine registration,0,India
+2022-10-02,vaccine registration,0,India
+2022-10-03,vaccine registration,0,India
+2022-10-04,vaccine registration,7,India
+2022-10-05,vaccine registration,0,India
+2022-10-06,vaccine registration,0,India
+2022-10-07,vaccine registration,4,India
+2022-10-08,vaccine registration,0,India
+2022-10-09,vaccine registration,0,India
+2022-10-10,vaccine registration,0,India
+2022-10-11,vaccine registration,0,India
+2022-10-12,vaccine registration,8,India
+2022-10-13,vaccine registration,0,India
+2022-10-14,vaccine registration,0,India
+2022-10-15,vaccine registration,12,India
+2022-10-16,vaccine registration,0,India
+2022-10-17,vaccine registration,0,India
+2022-10-18,vaccine registration,0,India
+2022-10-19,vaccine registration,4,India
+2022-10-20,vaccine registration,7,India
+2022-10-21,vaccine registration,0,India
+2022-10-22,vaccine registration,0,India
+2022-10-23,vaccine registration,0,India
+2022-10-24,vaccine registration,0,India
+2022-10-25,vaccine registration,12,India
+2022-10-26,vaccine registration,0,India
+2022-10-27,vaccine registration,0,India
+2022-10-28,vaccine registration,0,India
+2022-10-29,vaccine registration,0,India
+2022-10-30,vaccine registration,0,India
+2022-10-31,vaccine registration,5,India
+2022-11-01,vaccine registration,0,India
+2022-11-02,vaccine registration,0,India
+2022-11-03,vaccine registration,0,India
+2022-11-04,vaccine registration,6,India
+2022-11-05,vaccine registration,2,India
+2022-11-06,vaccine registration,5,India
+2022-11-07,vaccine registration,0,India
+2022-11-08,vaccine registration,0,India
+2022-11-09,vaccine registration,11,India
+2022-11-10,vaccine registration,0,India
+2022-11-11,vaccine registration,0,India
+2022-11-12,vaccine registration,10,India
+2022-11-13,vaccine registration,3,India
+2022-11-14,vaccine registration,2,India
+2022-11-15,vaccine registration,19,India
+2022-11-16,vaccine registration,0,India
+2022-11-17,vaccine registration,8,India
+2022-11-18,vaccine registration,0,India
+2022-11-19,vaccine registration,2,India
+2022-11-20,vaccine registration,15,India
+2022-11-21,vaccine registration,5,India
+2022-11-22,vaccine registration,6,India
+2022-11-23,vaccine registration,12,India
+2022-11-24,vaccine registration,0,India
+2022-11-25,vaccine registration,0,India
+2022-11-26,vaccine registration,0,India
+2022-11-27,vaccine registration,0,India
+2022-11-28,vaccine registration,23,India
+2022-11-29,vaccine registration,0,India
+2022-11-30,vaccine registration,2,India
+2022-12-01,vaccine registration,1,India
+2022-12-02,vaccine registration,8,India
+2022-12-03,vaccine registration,13,India
+2022-12-04,vaccine registration,14,India
+2022-12-05,vaccine registration,0,India
+2022-12-06,vaccine registration,5,India
+2022-12-07,vaccine registration,10,India
+2022-12-08,vaccine registration,5,India
+2022-12-09,vaccine registration,24,India
+2022-12-10,vaccine registration,13,India
+2022-12-11,vaccine registration,16,India
+2022-12-12,vaccine registration,16,India
+2022-12-13,vaccine registration,22,India
+2022-12-14,vaccine registration,12,India
+2022-12-15,vaccine registration,0,India
+2022-12-16,vaccine registration,15,India
+2022-12-17,vaccine registration,5,India
+2022-12-18,vaccine registration,7,India
+2022-12-19,vaccine registration,19,India
+2022-12-20,vaccine registration,26,India
+2022-12-21,vaccine registration,14,India
+2022-12-22,vaccine registration,17,India
+2022-12-23,vaccine registration,32,India
+2022-12-24,vaccine registration,18,India
+2022-12-25,vaccine registration,42,India
+2022-12-26,vaccine registration,22,India
+2022-12-27,vaccine registration,0,India
+2022-12-28,vaccine registration,25,India
+2022-12-29,vaccine registration,22,India
+2022-12-30,vaccine registration,31,India
+2022-12-31,vaccine registration,26,India
+2021-01-01,vaccine side effects,18,India
+2021-01-02,vaccine side effects,8,India
+2021-01-03,vaccine side effects,18,India
+2021-01-04,vaccine side effects,13,India
+2021-01-05,vaccine side effects,16,India
+2021-01-06,vaccine side effects,28,India
+2021-01-07,vaccine side effects,39,India
+2021-01-08,vaccine side effects,27,India
+2021-01-09,vaccine side effects,12,India
+2021-01-10,vaccine side effects,29,India
+2021-01-11,vaccine side effects,37,India
+2021-01-12,vaccine side effects,19,India
+2021-01-13,vaccine side effects,24,India
+2021-01-14,vaccine side effects,26,India
+2021-01-15,vaccine side effects,19,India
+2021-01-16,vaccine side effects,34,India
+2021-01-17,vaccine side effects,26,India
+2021-01-18,vaccine side effects,32,India
+2021-01-19,vaccine side effects,20,India
+2021-01-20,vaccine side effects,25,India
+2021-01-21,vaccine side effects,37,India
+2021-01-22,vaccine side effects,26,India
+2021-01-23,vaccine side effects,48,India
+2021-01-24,vaccine side effects,27,India
+2021-01-25,vaccine side effects,34,India
+2021-01-26,vaccine side effects,41,India
+2021-01-27,vaccine side effects,18,India
+2021-01-28,vaccine side effects,15,India
+2021-01-29,vaccine side effects,18,India
+2021-01-30,vaccine side effects,46,India
+2021-01-31,vaccine side effects,29,India
+2021-02-01,vaccine side effects,60,India
+2021-02-02,vaccine side effects,30,India
+2021-02-03,vaccine side effects,37,India
+2021-02-04,vaccine side effects,51,India
+2021-02-05,vaccine side effects,57,India
+2021-02-06,vaccine side effects,58,India
+2021-02-07,vaccine side effects,49,India
+2021-02-08,vaccine side effects,48,India
+2021-02-09,vaccine side effects,44,India
+2021-02-10,vaccine side effects,46,India
+2021-02-11,vaccine side effects,33,India
+2021-02-12,vaccine side effects,31,India
+2021-02-13,vaccine side effects,40,India
+2021-02-14,vaccine side effects,38,India
+2021-02-15,vaccine side effects,36,India
+2021-02-16,vaccine side effects,48,India
+2021-02-17,vaccine side effects,51,India
+2021-02-18,vaccine side effects,42,India
+2021-02-19,vaccine side effects,57,India
+2021-02-20,vaccine side effects,31,India
+2021-02-21,vaccine side effects,41,India
+2021-02-22,vaccine side effects,36,India
+2021-02-23,vaccine side effects,25,India
+2021-02-24,vaccine side effects,43,India
+2021-02-25,vaccine side effects,43,India
+2021-02-26,vaccine side effects,59,India
+2021-02-27,vaccine side effects,51,India
+2021-02-28,vaccine side effects,34,India
+2021-03-01,vaccine side effects,64,India
+2021-03-02,vaccine side effects,57,India
+2021-03-03,vaccine side effects,51,India
+2021-03-04,vaccine side effects,44,India
+2021-03-05,vaccine side effects,36,India
+2021-03-06,vaccine side effects,43,India
+2021-03-07,vaccine side effects,57,India
+2021-03-08,vaccine side effects,66,India
+2021-03-09,vaccine side effects,62,India
+2021-03-10,vaccine side effects,42,India
+2021-03-11,vaccine side effects,36,India
+2021-03-12,vaccine side effects,49,India
+2021-03-13,vaccine side effects,30,India
+2021-03-14,vaccine side effects,51,India
+2021-03-15,vaccine side effects,47,India
+2021-03-16,vaccine side effects,44,India
+2021-03-17,vaccine side effects,32,India
+2021-03-18,vaccine side effects,54,India
+2021-03-19,vaccine side effects,43,India
+2021-03-20,vaccine side effects,37,India
+2021-03-21,vaccine side effects,20,India
+2021-03-22,vaccine side effects,49,India
+2021-03-23,vaccine side effects,67,India
+2021-03-24,vaccine side effects,66,India
+2021-03-25,vaccine side effects,45,India
+2021-03-26,vaccine side effects,43,India
+2021-03-27,vaccine side effects,54,India
+2021-03-28,vaccine side effects,39,India
+2021-03-29,vaccine side effects,52,India
+2021-03-30,vaccine side effects,57,India
+2021-03-31,vaccine side effects,62,India
+2021-04-01,vaccine side effects,48,India
+2021-04-02,vaccine side effects,47,India
+2021-04-03,vaccine side effects,41,India
+2021-04-04,vaccine side effects,41,India
+2021-04-05,vaccine side effects,47,India
+2021-04-06,vaccine side effects,53,India
+2021-04-07,vaccine side effects,59,India
+2021-04-08,vaccine side effects,41,India
+2021-04-09,vaccine side effects,64,India
+2021-04-10,vaccine side effects,47,India
+2021-04-11,vaccine side effects,49,India
+2021-04-12,vaccine side effects,42,India
+2021-04-13,vaccine side effects,25,India
+2021-04-14,vaccine side effects,58,India
+2021-04-15,vaccine side effects,56,India
+2021-04-16,vaccine side effects,46,India
+2021-04-17,vaccine side effects,49,India
+2021-04-18,vaccine side effects,54,India
+2021-04-19,vaccine side effects,33,India
+2021-04-20,vaccine side effects,43,India
+2021-04-21,vaccine side effects,56,India
+2021-04-22,vaccine side effects,35,India
+2021-04-23,vaccine side effects,51,India
+2021-04-24,vaccine side effects,34,India
+2021-04-25,vaccine side effects,52,India
+2021-04-26,vaccine side effects,47,India
+2021-04-27,vaccine side effects,31,India
+2021-04-28,vaccine side effects,58,India
+2021-04-29,vaccine side effects,39,India
+2021-04-30,vaccine side effects,38,India
+2021-05-01,vaccine side effects,48,India
+2021-05-02,vaccine side effects,57,India
+2021-05-03,vaccine side effects,35,India
+2021-05-04,vaccine side effects,46,India
+2021-05-05,vaccine side effects,49,India
+2021-05-06,vaccine side effects,52,India
+2021-05-07,vaccine side effects,46,India
+2021-05-08,vaccine side effects,40,India
+2021-05-09,vaccine side effects,35,India
+2021-05-10,vaccine side effects,44,India
+2021-05-11,vaccine side effects,32,India
+2021-05-12,vaccine side effects,14,India
+2021-05-13,vaccine side effects,47,India
+2021-05-14,vaccine side effects,51,India
+2021-05-15,vaccine side effects,18,India
+2021-05-16,vaccine side effects,31,India
+2021-05-17,vaccine side effects,47,India
+2021-05-18,vaccine side effects,61,India
+2021-05-19,vaccine side effects,41,India
+2021-05-20,vaccine side effects,33,India
+2021-05-21,vaccine side effects,38,India
+2021-05-22,vaccine side effects,53,India
+2021-05-23,vaccine side effects,32,India
+2021-05-24,vaccine side effects,30,India
+2021-05-25,vaccine side effects,33,India
+2021-05-26,vaccine side effects,28,India
+2021-05-27,vaccine side effects,38,India
+2021-05-28,vaccine side effects,53,India
+2021-05-29,vaccine side effects,40,India
+2021-05-30,vaccine side effects,33,India
+2021-05-31,vaccine side effects,33,India
+2021-06-01,vaccine side effects,19,India
+2021-06-02,vaccine side effects,43,India
+2021-06-03,vaccine side effects,33,India
+2021-06-04,vaccine side effects,32,India
+2021-06-05,vaccine side effects,65,India
+2021-06-06,vaccine side effects,36,India
+2021-06-07,vaccine side effects,25,India
+2021-06-08,vaccine side effects,28,India
+2021-06-09,vaccine side effects,43,India
+2021-06-10,vaccine side effects,32,India
+2021-06-11,vaccine side effects,16,India
+2021-06-12,vaccine side effects,39,India
+2021-06-13,vaccine side effects,23,India
+2021-06-14,vaccine side effects,48,India
+2021-06-15,vaccine side effects,39,India
+2021-06-16,vaccine side effects,23,India
+2021-06-17,vaccine side effects,40,India
+2021-06-18,vaccine side effects,28,India
+2021-06-19,vaccine side effects,35,India
+2021-06-20,vaccine side effects,31,India
+2021-06-21,vaccine side effects,17,India
+2021-06-22,vaccine side effects,18,India
+2021-06-23,vaccine side effects,35,India
+2021-06-24,vaccine side effects,21,India
+2021-06-25,vaccine side effects,19,India
+2021-06-26,vaccine side effects,13,India
+2021-06-27,vaccine side effects,27,India
+2021-06-28,vaccine side effects,42,India
+2021-06-29,vaccine side effects,11,India
+2021-06-30,vaccine side effects,21,India
+2021-07-01,vaccine side effects,34,India
+2021-07-02,vaccine side effects,19,India
+2021-07-03,vaccine side effects,24,India
+2021-07-04,vaccine side effects,8,India
+2021-07-05,vaccine side effects,22,India
+2021-07-06,vaccine side effects,16,India
+2021-07-07,vaccine side effects,27,India
+2021-07-08,vaccine side effects,29,India
+2021-07-09,vaccine side effects,42,India
+2021-07-10,vaccine side effects,21,India
+2021-07-11,vaccine side effects,18,India
+2021-07-12,vaccine side effects,17,India
+2021-07-13,vaccine side effects,11,India
+2021-07-14,vaccine side effects,17,India
+2021-07-15,vaccine side effects,10,India
+2021-07-16,vaccine side effects,14,India
+2021-07-17,vaccine side effects,25,India
+2021-07-18,vaccine side effects,2,India
+2021-07-19,vaccine side effects,22,India
+2021-07-20,vaccine side effects,24,India
+2021-07-21,vaccine side effects,9,India
+2021-07-22,vaccine side effects,0,India
+2021-07-23,vaccine side effects,3,India
+2021-07-24,vaccine side effects,22,India
+2021-07-25,vaccine side effects,8,India
+2021-07-26,vaccine side effects,0,India
+2021-07-27,vaccine side effects,2,India
+2021-07-28,vaccine side effects,15,India
+2021-07-29,vaccine side effects,12,India
+2021-07-30,vaccine side effects,3,India
+2021-07-31,vaccine side effects,2,India
+2021-08-01,vaccine side effects,1,India
+2021-08-02,vaccine side effects,0,India
+2021-08-03,vaccine side effects,20,India
+2021-08-04,vaccine side effects,0,India
+2021-08-05,vaccine side effects,15,India
+2021-08-06,vaccine side effects,18,India
+2021-08-07,vaccine side effects,12,India
+2021-08-08,vaccine side effects,0,India
+2021-08-09,vaccine side effects,5,India
+2021-08-10,vaccine side effects,1,India
+2021-08-11,vaccine side effects,0,India
+2021-08-12,vaccine side effects,3,India
+2021-08-13,vaccine side effects,0,India
+2021-08-14,vaccine side effects,11,India
+2021-08-15,vaccine side effects,0,India
+2021-08-16,vaccine side effects,1,India
+2021-08-17,vaccine side effects,1,India
+2021-08-18,vaccine side effects,0,India
+2021-08-19,vaccine side effects,3,India
+2021-08-20,vaccine side effects,0,India
+2021-08-21,vaccine side effects,6,India
+2021-08-22,vaccine side effects,0,India
+2021-08-23,vaccine side effects,0,India
+2021-08-24,vaccine side effects,15,India
+2021-08-25,vaccine side effects,0,India
+2021-08-26,vaccine side effects,0,India
+2021-08-27,vaccine side effects,0,India
+2021-08-28,vaccine side effects,0,India
+2021-08-29,vaccine side effects,0,India
+2021-08-30,vaccine side effects,0,India
+2021-08-31,vaccine side effects,0,India
+2021-09-01,vaccine side effects,5,India
+2021-09-02,vaccine side effects,0,India
+2021-09-03,vaccine side effects,0,India
+2021-09-04,vaccine side effects,0,India
+2021-09-05,vaccine side effects,12,India
+2021-09-06,vaccine side effects,0,India
+2021-09-07,vaccine side effects,0,India
+2021-09-08,vaccine side effects,3,India
+2021-09-09,vaccine side effects,0,India
+2021-09-10,vaccine side effects,0,India
+2021-09-11,vaccine side effects,0,India
+2021-09-12,vaccine side effects,0,India
+2021-09-13,vaccine side effects,0,India
+2021-09-14,vaccine side effects,0,India
+2021-09-15,vaccine side effects,0,India
+2021-09-16,vaccine side effects,0,India
+2021-09-17,vaccine side effects,0,India
+2021-09-18,vaccine side effects,0,India
+2021-09-19,vaccine side effects,0,India
+2021-09-20,vaccine side effects,0,India
+2021-09-21,vaccine side effects,0,India
+2021-09-22,vaccine side effects,0,India
+2021-09-23,vaccine side effects,1,India
+2021-09-24,vaccine side effects,0,India
+2021-09-25,vaccine side effects,0,India
+2021-09-26,vaccine side effects,0,India
+2021-09-27,vaccine side effects,8,India
+2021-09-28,vaccine side effects,0,India
+2021-09-29,vaccine side effects,0,India
+2021-09-30,vaccine side effects,0,India
+2021-10-01,vaccine side effects,0,India
+2021-10-02,vaccine side effects,0,India
+2021-10-03,vaccine side effects,0,India
+2021-10-04,vaccine side effects,0,India
+2021-10-05,vaccine side effects,0,India
+2021-10-06,vaccine side effects,0,India
+2021-10-07,vaccine side effects,7,India
+2021-10-08,vaccine side effects,0,India
+2021-10-09,vaccine side effects,0,India
+2021-10-10,vaccine side effects,0,India
+2021-10-11,vaccine side effects,1,India
+2021-10-12,vaccine side effects,0,India
+2021-10-13,vaccine side effects,0,India
+2021-10-14,vaccine side effects,0,India
+2021-10-15,vaccine side effects,0,India
+2021-10-16,vaccine side effects,0,India
+2021-10-17,vaccine side effects,1,India
+2021-10-18,vaccine side effects,0,India
+2021-10-19,vaccine side effects,0,India
+2021-10-20,vaccine side effects,0,India
+2021-10-21,vaccine side effects,0,India
+2021-10-22,vaccine side effects,0,India
+2021-10-23,vaccine side effects,5,India
+2021-10-24,vaccine side effects,0,India
+2021-10-25,vaccine side effects,1,India
+2021-10-26,vaccine side effects,8,India
+2021-10-27,vaccine side effects,5,India
+2021-10-28,vaccine side effects,9,India
+2021-10-29,vaccine side effects,0,India
+2021-10-30,vaccine side effects,0,India
+2021-10-31,vaccine side effects,0,India
+2021-11-01,vaccine side effects,0,India
+2021-11-02,vaccine side effects,0,India
+2021-11-03,vaccine side effects,16,India
+2021-11-04,vaccine side effects,0,India
+2021-11-05,vaccine side effects,0,India
+2021-11-06,vaccine side effects,0,India
+2021-11-07,vaccine side effects,0,India
+2021-11-08,vaccine side effects,12,India
+2021-11-09,vaccine side effects,0,India
+2021-11-10,vaccine side effects,0,India
+2021-11-11,vaccine side effects,0,India
+2021-11-12,vaccine side effects,0,India
+2021-11-13,vaccine side effects,0,India
+2021-11-14,vaccine side effects,0,India
+2021-11-15,vaccine side effects,0,India
+2021-11-16,vaccine side effects,0,India
+2021-11-17,vaccine side effects,0,India
+2021-11-18,vaccine side effects,0,India
+2021-11-19,vaccine side effects,0,India
+2021-11-20,vaccine side effects,7,India
+2021-11-21,vaccine side effects,1,India
+2021-11-22,vaccine side effects,0,India
+2021-11-23,vaccine side effects,0,India
+2021-11-24,vaccine side effects,0,India
+2021-11-25,vaccine side effects,5,India
+2021-11-26,vaccine side effects,15,India
+2021-11-27,vaccine side effects,0,India
+2021-11-28,vaccine side effects,4,India
+2021-11-29,vaccine side effects,2,India
+2021-11-30,vaccine side effects,11,India
+2021-12-01,vaccine side effects,6,India
+2021-12-02,vaccine side effects,0,India
+2021-12-03,vaccine side effects,2,India
+2021-12-04,vaccine side effects,0,India
+2021-12-05,vaccine side effects,17,India
+2021-12-06,vaccine side effects,7,India
+2021-12-07,vaccine side effects,26,India
+2021-12-08,vaccine side effects,7,India
+2021-12-09,vaccine side effects,1,India
+2021-12-10,vaccine side effects,0,India
+2021-12-11,vaccine side effects,0,India
+2021-12-12,vaccine side effects,0,India
+2021-12-13,vaccine side effects,13,India
+2021-12-14,vaccine side effects,15,India
+2021-12-15,vaccine side effects,0,India
+2021-12-16,vaccine side effects,20,India
+2021-12-17,vaccine side effects,7,India
+2021-12-18,vaccine side effects,14,India
+2021-12-19,vaccine side effects,29,India
+2021-12-20,vaccine side effects,22,India
+2021-12-21,vaccine side effects,11,India
+2021-12-22,vaccine side effects,5,India
+2021-12-23,vaccine side effects,0,India
+2021-12-24,vaccine side effects,8,India
+2021-12-25,vaccine side effects,14,India
+2021-12-26,vaccine side effects,7,India
+2021-12-27,vaccine side effects,16,India
+2021-12-28,vaccine side effects,18,India
+2021-12-29,vaccine side effects,16,India
+2021-12-30,vaccine side effects,12,India
+2021-12-31,vaccine side effects,21,India
+2022-01-01,vaccine side effects,24,India
+2022-01-02,vaccine side effects,9,India
+2022-01-03,vaccine side effects,35,India
+2022-01-04,vaccine side effects,20,India
+2022-01-05,vaccine side effects,22,India
+2022-01-06,vaccine side effects,29,India
+2022-01-07,vaccine side effects,25,India
+2022-01-08,vaccine side effects,33,India
+2022-01-09,vaccine side effects,26,India
+2022-01-10,vaccine side effects,18,India
+2022-01-11,vaccine side effects,28,India
+2022-01-12,vaccine side effects,14,India
+2022-01-13,vaccine side effects,27,India
+2022-01-14,vaccine side effects,26,India
+2022-01-15,vaccine side effects,25,India
+2022-01-16,vaccine side effects,26,India
+2022-01-17,vaccine side effects,9,India
+2022-01-18,vaccine side effects,23,India
+2022-01-19,vaccine side effects,30,India
+2022-01-20,vaccine side effects,31,India
+2022-01-21,vaccine side effects,19,India
+2022-01-22,vaccine side effects,43,India
+2022-01-23,vaccine side effects,22,India
+2022-01-24,vaccine side effects,41,India
+2022-01-25,vaccine side effects,36,India
+2022-01-26,vaccine side effects,26,India
+2022-01-27,vaccine side effects,50,India
+2022-01-28,vaccine side effects,21,India
+2022-01-29,vaccine side effects,43,India
+2022-01-30,vaccine side effects,44,India
+2022-01-31,vaccine side effects,28,India
+2022-02-01,vaccine side effects,49,India
+2022-02-02,vaccine side effects,33,India
+2022-02-03,vaccine side effects,39,India
+2022-02-04,vaccine side effects,39,India
+2022-02-05,vaccine side effects,35,India
+2022-02-06,vaccine side effects,45,India
+2022-02-07,vaccine side effects,45,India
+2022-02-08,vaccine side effects,20,India
+2022-02-09,vaccine side effects,51,India
+2022-02-10,vaccine side effects,22,India
+2022-02-11,vaccine side effects,49,India
+2022-02-12,vaccine side effects,51,India
+2022-02-13,vaccine side effects,29,India
+2022-02-14,vaccine side effects,36,India
+2022-02-15,vaccine side effects,29,India
+2022-02-16,vaccine side effects,39,India
+2022-02-17,vaccine side effects,38,India
+2022-02-18,vaccine side effects,49,India
+2022-02-19,vaccine side effects,55,India
+2022-02-20,vaccine side effects,56,India
+2022-02-21,vaccine side effects,37,India
+2022-02-22,vaccine side effects,41,India
+2022-02-23,vaccine side effects,26,India
+2022-02-24,vaccine side effects,35,India
+2022-02-25,vaccine side effects,53,India
+2022-02-26,vaccine side effects,60,India
+2022-02-27,vaccine side effects,32,India
+2022-02-28,vaccine side effects,39,India
+2022-03-01,vaccine side effects,45,India
+2022-03-02,vaccine side effects,48,India
+2022-03-03,vaccine side effects,37,India
+2022-03-04,vaccine side effects,50,India
+2022-03-05,vaccine side effects,41,India
+2022-03-06,vaccine side effects,46,India
+2022-03-07,vaccine side effects,52,India
+2022-03-08,vaccine side effects,47,India
+2022-03-09,vaccine side effects,43,India
+2022-03-10,vaccine side effects,46,India
+2022-03-11,vaccine side effects,46,India
+2022-03-12,vaccine side effects,44,India
+2022-03-13,vaccine side effects,45,India
+2022-03-14,vaccine side effects,64,India
+2022-03-15,vaccine side effects,54,India
+2022-03-16,vaccine side effects,45,India
+2022-03-17,vaccine side effects,55,India
+2022-03-18,vaccine side effects,45,India
+2022-03-19,vaccine side effects,60,India
+2022-03-20,vaccine side effects,52,India
+2022-03-21,vaccine side effects,48,India
+2022-03-22,vaccine side effects,53,India
+2022-03-23,vaccine side effects,33,India
+2022-03-24,vaccine side effects,38,India
+2022-03-25,vaccine side effects,37,India
+2022-03-26,vaccine side effects,51,India
+2022-03-27,vaccine side effects,67,India
+2022-03-28,vaccine side effects,72,India
+2022-03-29,vaccine side effects,56,India
+2022-03-30,vaccine side effects,54,India
+2022-03-31,vaccine side effects,31,India
+2022-04-01,vaccine side effects,44,India
+2022-04-02,vaccine side effects,42,India
+2022-04-03,vaccine side effects,43,India
+2022-04-04,vaccine side effects,48,India
+2022-04-05,vaccine side effects,45,India
+2022-04-06,vaccine side effects,30,India
+2022-04-07,vaccine side effects,57,India
+2022-04-08,vaccine side effects,39,India
+2022-04-09,vaccine side effects,52,India
+2022-04-10,vaccine side effects,70,India
+2022-04-11,vaccine side effects,40,India
+2022-04-12,vaccine side effects,24,India
+2022-04-13,vaccine side effects,46,India
+2022-04-14,vaccine side effects,60,India
+2022-04-15,vaccine side effects,68,India
+2022-04-16,vaccine side effects,36,India
+2022-04-17,vaccine side effects,54,India
+2022-04-18,vaccine side effects,44,India
+2022-04-19,vaccine side effects,47,India
+2022-04-20,vaccine side effects,75,India
+2022-04-21,vaccine side effects,33,India
+2022-04-22,vaccine side effects,50,India
+2022-04-23,vaccine side effects,52,India
+2022-04-24,vaccine side effects,58,India
+2022-04-25,vaccine side effects,48,India
+2022-04-26,vaccine side effects,50,India
+2022-04-27,vaccine side effects,43,India
+2022-04-28,vaccine side effects,49,India
+2022-04-29,vaccine side effects,43,India
+2022-04-30,vaccine side effects,52,India
+2022-05-01,vaccine side effects,42,India
+2022-05-02,vaccine side effects,49,India
+2022-05-03,vaccine side effects,45,India
+2022-05-04,vaccine side effects,56,India
+2022-05-05,vaccine side effects,44,India
+2022-05-06,vaccine side effects,27,India
+2022-05-07,vaccine side effects,57,India
+2022-05-08,vaccine side effects,35,India
+2022-05-09,vaccine side effects,37,India
+2022-05-10,vaccine side effects,37,India
+2022-05-11,vaccine side effects,57,India
+2022-05-12,vaccine side effects,21,India
+2022-05-13,vaccine side effects,74,India
+2022-05-14,vaccine side effects,53,India
+2022-05-15,vaccine side effects,44,India
+2022-05-16,vaccine side effects,41,India
+2022-05-17,vaccine side effects,44,India
+2022-05-18,vaccine side effects,46,India
+2022-05-19,vaccine side effects,47,India
+2022-05-20,vaccine side effects,45,India
+2022-05-21,vaccine side effects,40,India
+2022-05-22,vaccine side effects,37,India
+2022-05-23,vaccine side effects,37,India
+2022-05-24,vaccine side effects,36,India
+2022-05-25,vaccine side effects,49,India
+2022-05-26,vaccine side effects,43,India
+2022-05-27,vaccine side effects,8,India
+2022-05-28,vaccine side effects,43,India
+2022-05-29,vaccine side effects,38,India
+2022-05-30,vaccine side effects,36,India
+2022-05-31,vaccine side effects,32,India
+2022-06-01,vaccine side effects,46,India
+2022-06-02,vaccine side effects,44,India
+2022-06-03,vaccine side effects,26,India
+2022-06-04,vaccine side effects,38,India
+2022-06-05,vaccine side effects,23,India
+2022-06-06,vaccine side effects,19,India
+2022-06-07,vaccine side effects,26,India
+2022-06-08,vaccine side effects,40,India
+2022-06-09,vaccine side effects,41,India
+2022-06-10,vaccine side effects,36,India
+2022-06-11,vaccine side effects,38,India
+2022-06-12,vaccine side effects,35,India
+2022-06-13,vaccine side effects,23,India
+2022-06-14,vaccine side effects,33,India
+2022-06-15,vaccine side effects,36,India
+2022-06-16,vaccine side effects,35,India
+2022-06-17,vaccine side effects,39,India
+2022-06-18,vaccine side effects,34,India
+2022-06-19,vaccine side effects,30,India
+2022-06-20,vaccine side effects,37,India
+2022-06-21,vaccine side effects,25,India
+2022-06-22,vaccine side effects,16,India
+2022-06-23,vaccine side effects,23,India
+2022-06-24,vaccine side effects,16,India
+2022-06-25,vaccine side effects,17,India
+2022-06-26,vaccine side effects,21,India
+2022-06-27,vaccine side effects,14,India
+2022-06-28,vaccine side effects,19,India
+2022-06-29,vaccine side effects,2,India
+2022-06-30,vaccine side effects,23,India
+2022-07-01,vaccine side effects,20,India
+2022-07-02,vaccine side effects,12,India
+2022-07-03,vaccine side effects,26,India
+2022-07-04,vaccine side effects,28,India
+2022-07-05,vaccine side effects,2,India
+2022-07-06,vaccine side effects,10,India
+2022-07-07,vaccine side effects,9,India
+2022-07-08,vaccine side effects,7,India
+2022-07-09,vaccine side effects,24,India
+2022-07-10,vaccine side effects,14,India
+2022-07-11,vaccine side effects,12,India
+2022-07-12,vaccine side effects,0,India
+2022-07-13,vaccine side effects,20,India
+2022-07-14,vaccine side effects,1,India
+2022-07-15,vaccine side effects,14,India
+2022-07-16,vaccine side effects,15,India
+2022-07-17,vaccine side effects,26,India
+2022-07-18,vaccine side effects,0,India
+2022-07-19,vaccine side effects,0,India
+2022-07-20,vaccine side effects,12,India
+2022-07-21,vaccine side effects,28,India
+2022-07-22,vaccine side effects,22,India
+2022-07-23,vaccine side effects,11,India
+2022-07-24,vaccine side effects,4,India
+2022-07-25,vaccine side effects,16,India
+2022-07-26,vaccine side effects,0,India
+2022-07-27,vaccine side effects,12,India
+2022-07-28,vaccine side effects,12,India
+2022-07-29,vaccine side effects,17,India
+2022-07-30,vaccine side effects,33,India
+2022-07-31,vaccine side effects,9,India
+2022-08-01,vaccine side effects,0,India
+2022-08-02,vaccine side effects,4,India
+2022-08-03,vaccine side effects,0,India
+2022-08-04,vaccine side effects,0,India
+2022-08-05,vaccine side effects,0,India
+2022-08-06,vaccine side effects,0,India
+2022-08-07,vaccine side effects,4,India
+2022-08-08,vaccine side effects,0,India
+2022-08-09,vaccine side effects,13,India
+2022-08-10,vaccine side effects,1,India
+2022-08-11,vaccine side effects,1,India
+2022-08-12,vaccine side effects,0,India
+2022-08-13,vaccine side effects,1,India
+2022-08-14,vaccine side effects,8,India
+2022-08-15,vaccine side effects,0,India
+2022-08-16,vaccine side effects,0,India
+2022-08-17,vaccine side effects,0,India
+2022-08-18,vaccine side effects,0,India
+2022-08-19,vaccine side effects,0,India
+2022-08-20,vaccine side effects,0,India
+2022-08-21,vaccine side effects,6,India
+2022-08-22,vaccine side effects,0,India
+2022-08-23,vaccine side effects,0,India
+2022-08-24,vaccine side effects,4,India
+2022-08-25,vaccine side effects,0,India
+2022-08-26,vaccine side effects,0,India
+2022-08-27,vaccine side effects,0,India
+2022-08-28,vaccine side effects,0,India
+2022-08-29,vaccine side effects,0,India
+2022-08-30,vaccine side effects,0,India
+2022-08-31,vaccine side effects,0,India
+2022-09-01,vaccine side effects,8,India
+2022-09-02,vaccine side effects,3,India
+2022-09-03,vaccine side effects,3,India
+2022-09-04,vaccine side effects,5,India
+2022-09-05,vaccine side effects,0,India
+2022-09-06,vaccine side effects,0,India
+2022-09-07,vaccine side effects,0,India
+2022-09-08,vaccine side effects,0,India
+2022-09-09,vaccine side effects,0,India
+2022-09-10,vaccine side effects,4,India
+2022-09-11,vaccine side effects,0,India
+2022-09-12,vaccine side effects,0,India
+2022-09-13,vaccine side effects,0,India
+2022-09-14,vaccine side effects,0,India
+2022-09-15,vaccine side effects,0,India
+2022-09-16,vaccine side effects,0,India
+2022-09-17,vaccine side effects,0,India
+2022-09-18,vaccine side effects,0,India
+2022-09-19,vaccine side effects,0,India
+2022-09-20,vaccine side effects,0,India
+2022-09-21,vaccine side effects,0,India
+2022-09-22,vaccine side effects,4,India
+2022-09-23,vaccine side effects,0,India
+2022-09-24,vaccine side effects,0,India
+2022-09-25,vaccine side effects,0,India
+2022-09-26,vaccine side effects,0,India
+2022-09-27,vaccine side effects,0,India
+2022-09-28,vaccine side effects,0,India
+2022-09-29,vaccine side effects,0,India
+2022-09-30,vaccine side effects,0,India
+2022-10-01,vaccine side effects,0,India
+2022-10-02,vaccine side effects,0,India
+2022-10-03,vaccine side effects,0,India
+2022-10-04,vaccine side effects,0,India
+2022-10-05,vaccine side effects,0,India
+2022-10-06,vaccine side effects,1,India
+2022-10-07,vaccine side effects,0,India
+2022-10-08,vaccine side effects,6,India
+2022-10-09,vaccine side effects,0,India
+2022-10-10,vaccine side effects,0,India
+2022-10-11,vaccine side effects,0,India
+2022-10-12,vaccine side effects,0,India
+2022-10-13,vaccine side effects,0,India
+2022-10-14,vaccine side effects,0,India
+2022-10-15,vaccine side effects,0,India
+2022-10-16,vaccine side effects,0,India
+2022-10-17,vaccine side effects,0,India
+2022-10-18,vaccine side effects,0,India
+2022-10-19,vaccine side effects,0,India
+2022-10-20,vaccine side effects,0,India
+2022-10-21,vaccine side effects,0,India
+2022-10-22,vaccine side effects,0,India
+2022-10-23,vaccine side effects,16,India
+2022-10-24,vaccine side effects,0,India
+2022-10-25,vaccine side effects,0,India
+2022-10-26,vaccine side effects,0,India
+2022-10-27,vaccine side effects,0,India
+2022-10-28,vaccine side effects,0,India
+2022-10-29,vaccine side effects,0,India
+2022-10-30,vaccine side effects,4,India
+2022-10-31,vaccine side effects,0,India
+2022-11-01,vaccine side effects,1,India
+2022-11-02,vaccine side effects,0,India
+2022-11-03,vaccine side effects,0,India
+2022-11-04,vaccine side effects,1,India
+2022-11-05,vaccine side effects,0,India
+2022-11-06,vaccine side effects,0,India
+2022-11-07,vaccine side effects,0,India
+2022-11-08,vaccine side effects,0,India
+2022-11-09,vaccine side effects,11,India
+2022-11-10,vaccine side effects,0,India
+2022-11-11,vaccine side effects,0,India
+2022-11-12,vaccine side effects,0,India
+2022-11-13,vaccine side effects,0,India
+2022-11-14,vaccine side effects,0,India
+2022-11-15,vaccine side effects,0,India
+2022-11-16,vaccine side effects,0,India
+2022-11-17,vaccine side effects,13,India
+2022-11-18,vaccine side effects,0,India
+2022-11-19,vaccine side effects,0,India
+2022-11-20,vaccine side effects,0,India
+2022-11-21,vaccine side effects,0,India
+2022-11-22,vaccine side effects,0,India
+2022-11-23,vaccine side effects,17,India
+2022-11-24,vaccine side effects,1,India
+2022-11-25,vaccine side effects,4,India
+2022-11-26,vaccine side effects,0,India
+2022-11-27,vaccine side effects,0,India
+2022-11-28,vaccine side effects,0,India
+2022-11-29,vaccine side effects,0,India
+2022-11-30,vaccine side effects,17,India
+2022-12-01,vaccine side effects,10,India
+2022-12-02,vaccine side effects,0,India
+2022-12-03,vaccine side effects,8,India
+2022-12-04,vaccine side effects,11,India
+2022-12-05,vaccine side effects,17,India
+2022-12-06,vaccine side effects,22,India
+2022-12-07,vaccine side effects,0,India
+2022-12-08,vaccine side effects,0,India
+2022-12-09,vaccine side effects,0,India
+2022-12-10,vaccine side effects,6,India
+2022-12-11,vaccine side effects,14,India
+2022-12-12,vaccine side effects,19,India
+2022-12-13,vaccine side effects,9,India
+2022-12-14,vaccine side effects,7,India
+2022-12-15,vaccine side effects,12,India
+2022-12-16,vaccine side effects,3,India
+2022-12-17,vaccine side effects,33,India
+2022-12-18,vaccine side effects,0,India
+2022-12-19,vaccine side effects,15,India
+2022-12-20,vaccine side effects,34,India
+2022-12-21,vaccine side effects,14,India
+2022-12-22,vaccine side effects,12,India
+2022-12-23,vaccine side effects,11,India
+2022-12-24,vaccine side effects,14,India
+2022-12-25,vaccine side effects,30,India
+2022-12-26,vaccine side effects,0,India
+2022-12-27,vaccine side effects,32,India
+2022-12-28,vaccine side effects,3,India
+2022-12-29,vaccine side effects,15,India
+2022-12-30,vaccine side effects,14,India
+2022-12-31,vaccine side effects,25,India
+2021-01-01,vaccine for children,4,India
+2021-01-02,vaccine for children,25,India
+2021-01-03,vaccine for children,41,India
+2021-01-04,vaccine for children,7,India
+2021-01-05,vaccine for children,23,India
+2021-01-06,vaccine for children,15,India
+2021-01-07,vaccine for children,27,India
+2021-01-08,vaccine for children,23,India
+2021-01-09,vaccine for children,17,India
+2021-01-10,vaccine for children,29,India
+2021-01-11,vaccine for children,43,India
+2021-01-12,vaccine for children,23,India
+2021-01-13,vaccine for children,33,India
+2021-01-14,vaccine for children,13,India
+2021-01-15,vaccine for children,17,India
+2021-01-16,vaccine for children,32,India
+2021-01-17,vaccine for children,42,India
+2021-01-18,vaccine for children,32,India
+2021-01-19,vaccine for children,26,India
+2021-01-20,vaccine for children,29,India
+2021-01-21,vaccine for children,17,India
+2021-01-22,vaccine for children,36,India
+2021-01-23,vaccine for children,39,India
+2021-01-24,vaccine for children,27,India
+2021-01-25,vaccine for children,27,India
+2021-01-26,vaccine for children,35,India
+2021-01-27,vaccine for children,28,India
+2021-01-28,vaccine for children,32,India
+2021-01-29,vaccine for children,54,India
+2021-01-30,vaccine for children,31,India
+2021-01-31,vaccine for children,31,India
+2021-02-01,vaccine for children,28,India
+2021-02-02,vaccine for children,43,India
+2021-02-03,vaccine for children,34,India
+2021-02-04,vaccine for children,30,India
+2021-02-05,vaccine for children,50,India
+2021-02-06,vaccine for children,51,India
+2021-02-07,vaccine for children,31,India
+2021-02-08,vaccine for children,19,India
+2021-02-09,vaccine for children,48,India
+2021-02-10,vaccine for children,32,India
+2021-02-11,vaccine for children,47,India
+2021-02-12,vaccine for children,20,India
+2021-02-13,vaccine for children,49,India
+2021-02-14,vaccine for children,28,India
+2021-02-15,vaccine for children,48,India
+2021-02-16,vaccine for children,41,India
+2021-02-17,vaccine for children,32,India
+2021-02-18,vaccine for children,37,India
+2021-02-19,vaccine for children,49,India
+2021-02-20,vaccine for children,43,India
+2021-02-21,vaccine for children,48,India
+2021-02-22,vaccine for children,63,India
+2021-02-23,vaccine for children,28,India
+2021-02-24,vaccine for children,60,India
+2021-02-25,vaccine for children,45,India
+2021-02-26,vaccine for children,35,India
+2021-02-27,vaccine for children,31,India
+2021-02-28,vaccine for children,43,India
+2021-03-01,vaccine for children,54,India
+2021-03-02,vaccine for children,44,India
+2021-03-03,vaccine for children,61,India
+2021-03-04,vaccine for children,31,India
+2021-03-05,vaccine for children,46,India
+2021-03-06,vaccine for children,34,India
+2021-03-07,vaccine for children,50,India
+2021-03-08,vaccine for children,56,India
+2021-03-09,vaccine for children,43,India
+2021-03-10,vaccine for children,21,India
+2021-03-11,vaccine for children,49,India
+2021-03-12,vaccine for children,52,India
+2021-03-13,vaccine for children,52,India
+2021-03-14,vaccine for children,60,India
+2021-03-15,vaccine for children,37,India
+2021-03-16,vaccine for children,55,India
+2021-03-17,vaccine for children,60,India
+2021-03-18,vaccine for children,31,India
+2021-03-19,vaccine for children,52,India
+2021-03-20,vaccine for children,44,India
+2021-03-21,vaccine for children,48,India
+2021-03-22,vaccine for children,52,India
+2021-03-23,vaccine for children,44,India
+2021-03-24,vaccine for children,42,India
+2021-03-25,vaccine for children,50,India
+2021-03-26,vaccine for children,38,India
+2021-03-27,vaccine for children,38,India
+2021-03-28,vaccine for children,56,India
+2021-03-29,vaccine for children,38,India
+2021-03-30,vaccine for children,56,India
+2021-03-31,vaccine for children,54,India
+2021-04-01,vaccine for children,32,India
+2021-04-02,vaccine for children,43,India
+2021-04-03,vaccine for children,61,India
+2021-04-04,vaccine for children,40,India
+2021-04-05,vaccine for children,45,India
+2021-04-06,vaccine for children,54,India
+2021-04-07,vaccine for children,57,India
+2021-04-08,vaccine for children,47,India
+2021-04-09,vaccine for children,43,India
+2021-04-10,vaccine for children,63,India
+2021-04-11,vaccine for children,67,India
+2021-04-12,vaccine for children,59,India
+2021-04-13,vaccine for children,50,India
+2021-04-14,vaccine for children,41,India
+2021-04-15,vaccine for children,40,India
+2021-04-16,vaccine for children,54,India
+2021-04-17,vaccine for children,53,India
+2021-04-18,vaccine for children,62,India
+2021-04-19,vaccine for children,55,India
+2021-04-20,vaccine for children,33,India
+2021-04-21,vaccine for children,58,India
+2021-04-22,vaccine for children,38,India
+2021-04-23,vaccine for children,44,India
+2021-04-24,vaccine for children,50,India
+2021-04-25,vaccine for children,67,India
+2021-04-26,vaccine for children,78,India
+2021-04-27,vaccine for children,53,India
+2021-04-28,vaccine for children,45,India
+2021-04-29,vaccine for children,52,India
+2021-04-30,vaccine for children,55,India
+2021-05-01,vaccine for children,43,India
+2021-05-02,vaccine for children,64,India
+2021-05-03,vaccine for children,48,India
+2021-05-04,vaccine for children,50,India
+2021-05-05,vaccine for children,52,India
+2021-05-06,vaccine for children,49,India
+2021-05-07,vaccine for children,53,India
+2021-05-08,vaccine for children,38,India
+2021-05-09,vaccine for children,38,India
+2021-05-10,vaccine for children,32,India
+2021-05-11,vaccine for children,47,India
+2021-05-12,vaccine for children,51,India
+2021-05-13,vaccine for children,47,India
+2021-05-14,vaccine for children,59,India
+2021-05-15,vaccine for children,42,India
+2021-05-16,vaccine for children,48,India
+2021-05-17,vaccine for children,30,India
+2021-05-18,vaccine for children,37,India
+2021-05-19,vaccine for children,47,India
+2021-05-20,vaccine for children,48,India
+2021-05-21,vaccine for children,37,India
+2021-05-22,vaccine for children,38,India
+2021-05-23,vaccine for children,24,India
+2021-05-24,vaccine for children,35,India
+2021-05-25,vaccine for children,47,India
+2021-05-26,vaccine for children,43,India
+2021-05-27,vaccine for children,42,India
+2021-05-28,vaccine for children,37,India
+2021-05-29,vaccine for children,36,India
+2021-05-30,vaccine for children,29,India
+2021-05-31,vaccine for children,42,India
+2021-06-01,vaccine for children,39,India
+2021-06-02,vaccine for children,39,India
+2021-06-03,vaccine for children,29,India
+2021-06-04,vaccine for children,12,India
+2021-06-05,vaccine for children,44,India
+2021-06-06,vaccine for children,28,India
+2021-06-07,vaccine for children,24,India
+2021-06-08,vaccine for children,39,India
+2021-06-09,vaccine for children,27,India
+2021-06-10,vaccine for children,41,India
+2021-06-11,vaccine for children,37,India
+2021-06-12,vaccine for children,37,India
+2021-06-13,vaccine for children,16,India
+2021-06-14,vaccine for children,41,India
+2021-06-15,vaccine for children,31,India
+2021-06-16,vaccine for children,24,India
+2021-06-17,vaccine for children,29,India
+2021-06-18,vaccine for children,9,India
+2021-06-19,vaccine for children,30,India
+2021-06-20,vaccine for children,16,India
+2021-06-21,vaccine for children,12,India
+2021-06-22,vaccine for children,10,India
+2021-06-23,vaccine for children,36,India
+2021-06-24,vaccine for children,18,India
+2021-06-25,vaccine for children,39,India
+2021-06-26,vaccine for children,17,India
+2021-06-27,vaccine for children,5,India
+2021-06-28,vaccine for children,11,India
+2021-06-29,vaccine for children,34,India
+2021-06-30,vaccine for children,19,India
+2021-07-01,vaccine for children,15,India
+2021-07-02,vaccine for children,21,India
+2021-07-03,vaccine for children,24,India
+2021-07-04,vaccine for children,30,India
+2021-07-05,vaccine for children,33,India
+2021-07-06,vaccine for children,14,India
+2021-07-07,vaccine for children,4,India
+2021-07-08,vaccine for children,13,India
+2021-07-09,vaccine for children,19,India
+2021-07-10,vaccine for children,6,India
+2021-07-11,vaccine for children,6,India
+2021-07-12,vaccine for children,18,India
+2021-07-13,vaccine for children,14,India
+2021-07-14,vaccine for children,14,India
+2021-07-15,vaccine for children,6,India
+2021-07-16,vaccine for children,10,India
+2021-07-17,vaccine for children,3,India
+2021-07-18,vaccine for children,20,India
+2021-07-19,vaccine for children,21,India
+2021-07-20,vaccine for children,0,India
+2021-07-21,vaccine for children,1,India
+2021-07-22,vaccine for children,0,India
+2021-07-23,vaccine for children,3,India
+2021-07-24,vaccine for children,8,India
+2021-07-25,vaccine for children,0,India
+2021-07-26,vaccine for children,0,India
+2021-07-27,vaccine for children,0,India
+2021-07-28,vaccine for children,9,India
+2021-07-29,vaccine for children,7,India
+2021-07-30,vaccine for children,0,India
+2021-07-31,vaccine for children,7,India
+2021-08-01,vaccine for children,0,India
+2021-08-02,vaccine for children,2,India
+2021-08-03,vaccine for children,21,India
+2021-08-04,vaccine for children,17,India
+2021-08-05,vaccine for children,0,India
+2021-08-06,vaccine for children,11,India
+2021-08-07,vaccine for children,10,India
+2021-08-08,vaccine for children,0,India
+2021-08-09,vaccine for children,10,India
+2021-08-10,vaccine for children,16,India
+2021-08-11,vaccine for children,0,India
+2021-08-12,vaccine for children,0,India
+2021-08-13,vaccine for children,10,India
+2021-08-14,vaccine for children,2,India
+2021-08-15,vaccine for children,5,India
+2021-08-16,vaccine for children,2,India
+2021-08-17,vaccine for children,2,India
+2021-08-18,vaccine for children,0,India
+2021-08-19,vaccine for children,8,India
+2021-08-20,vaccine for children,9,India
+2021-08-21,vaccine for children,0,India
+2021-08-22,vaccine for children,0,India
+2021-08-23,vaccine for children,0,India
+2021-08-24,vaccine for children,1,India
+2021-08-25,vaccine for children,1,India
+2021-08-26,vaccine for children,0,India
+2021-08-27,vaccine for children,6,India
+2021-08-28,vaccine for children,0,India
+2021-08-29,vaccine for children,0,India
+2021-08-30,vaccine for children,0,India
+2021-08-31,vaccine for children,0,India
+2021-09-01,vaccine for children,0,India
+2021-09-02,vaccine for children,0,India
+2021-09-03,vaccine for children,0,India
+2021-09-04,vaccine for children,0,India
+2021-09-05,vaccine for children,1,India
+2021-09-06,vaccine for children,0,India
+2021-09-07,vaccine for children,0,India
+2021-09-08,vaccine for children,9,India
+2021-09-09,vaccine for children,6,India
+2021-09-10,vaccine for children,0,India
+2021-09-11,vaccine for children,0,India
+2021-09-12,vaccine for children,0,India
+2021-09-13,vaccine for children,0,India
+2021-09-14,vaccine for children,0,India
+2021-09-15,vaccine for children,0,India
+2021-09-16,vaccine for children,0,India
+2021-09-17,vaccine for children,0,India
+2021-09-18,vaccine for children,0,India
+2021-09-19,vaccine for children,0,India
+2021-09-20,vaccine for children,0,India
+2021-09-21,vaccine for children,0,India
+2021-09-22,vaccine for children,0,India
+2021-09-23,vaccine for children,5,India
+2021-09-24,vaccine for children,0,India
+2021-09-25,vaccine for children,0,India
+2021-09-26,vaccine for children,0,India
+2021-09-27,vaccine for children,0,India
+2021-09-28,vaccine for children,0,India
+2021-09-29,vaccine for children,0,India
+2021-09-30,vaccine for children,0,India
+2021-10-01,vaccine for children,0,India
+2021-10-02,vaccine for children,0,India
+2021-10-03,vaccine for children,0,India
+2021-10-04,vaccine for children,0,India
+2021-10-05,vaccine for children,0,India
+2021-10-06,vaccine for children,0,India
+2021-10-07,vaccine for children,0,India
+2021-10-08,vaccine for children,0,India
+2021-10-09,vaccine for children,13,India
+2021-10-10,vaccine for children,0,India
+2021-10-11,vaccine for children,0,India
+2021-10-12,vaccine for children,0,India
+2021-10-13,vaccine for children,0,India
+2021-10-14,vaccine for children,0,India
+2021-10-15,vaccine for children,5,India
+2021-10-16,vaccine for children,0,India
+2021-10-17,vaccine for children,0,India
+2021-10-18,vaccine for children,0,India
+2021-10-19,vaccine for children,8,India
+2021-10-20,vaccine for children,11,India
+2021-10-21,vaccine for children,0,India
+2021-10-22,vaccine for children,0,India
+2021-10-23,vaccine for children,0,India
+2021-10-24,vaccine for children,0,India
+2021-10-25,vaccine for children,0,India
+2021-10-26,vaccine for children,0,India
+2021-10-27,vaccine for children,0,India
+2021-10-28,vaccine for children,0,India
+2021-10-29,vaccine for children,0,India
+2021-10-30,vaccine for children,0,India
+2021-10-31,vaccine for children,8,India
+2021-11-01,vaccine for children,0,India
+2021-11-02,vaccine for children,2,India
+2021-11-03,vaccine for children,0,India
+2021-11-04,vaccine for children,0,India
+2021-11-05,vaccine for children,2,India
+2021-11-06,vaccine for children,0,India
+2021-11-07,vaccine for children,1,India
+2021-11-08,vaccine for children,5,India
+2021-11-09,vaccine for children,0,India
+2021-11-10,vaccine for children,0,India
+2021-11-11,vaccine for children,0,India
+2021-11-12,vaccine for children,0,India
+2021-11-13,vaccine for children,27,India
+2021-11-14,vaccine for children,10,India
+2021-11-15,vaccine for children,0,India
+2021-11-16,vaccine for children,0,India
+2021-11-17,vaccine for children,3,India
+2021-11-18,vaccine for children,4,India
+2021-11-19,vaccine for children,5,India
+2021-11-20,vaccine for children,0,India
+2021-11-21,vaccine for children,0,India
+2021-11-22,vaccine for children,4,India
+2021-11-23,vaccine for children,2,India
+2021-11-24,vaccine for children,0,India
+2021-11-25,vaccine for children,0,India
+2021-11-26,vaccine for children,0,India
+2021-11-27,vaccine for children,4,India
+2021-11-28,vaccine for children,33,India
+2021-11-29,vaccine for children,7,India
+2021-11-30,vaccine for children,1,India
+2021-12-01,vaccine for children,13,India
+2021-12-02,vaccine for children,10,India
+2021-12-03,vaccine for children,9,India
+2021-12-04,vaccine for children,12,India
+2021-12-05,vaccine for children,27,India
+2021-12-06,vaccine for children,0,India
+2021-12-07,vaccine for children,12,India
+2021-12-08,vaccine for children,0,India
+2021-12-09,vaccine for children,13,India
+2021-12-10,vaccine for children,0,India
+2021-12-11,vaccine for children,5,India
+2021-12-12,vaccine for children,6,India
+2021-12-13,vaccine for children,20,India
+2021-12-14,vaccine for children,20,India
+2021-12-15,vaccine for children,0,India
+2021-12-16,vaccine for children,12,India
+2021-12-17,vaccine for children,5,India
+2021-12-18,vaccine for children,0,India
+2021-12-19,vaccine for children,11,India
+2021-12-20,vaccine for children,10,India
+2021-12-21,vaccine for children,38,India
+2021-12-22,vaccine for children,19,India
+2021-12-23,vaccine for children,1,India
+2021-12-24,vaccine for children,10,India
+2021-12-25,vaccine for children,26,India
+2021-12-26,vaccine for children,37,India
+2021-12-27,vaccine for children,1,India
+2021-12-28,vaccine for children,0,India
+2021-12-29,vaccine for children,37,India
+2021-12-30,vaccine for children,22,India
+2021-12-31,vaccine for children,10,India
+2022-01-01,vaccine for children,25,India
+2022-01-02,vaccine for children,0,India
+2022-01-03,vaccine for children,21,India
+2022-01-04,vaccine for children,24,India
+2022-01-05,vaccine for children,31,India
+2022-01-06,vaccine for children,12,India
+2022-01-07,vaccine for children,23,India
+2022-01-08,vaccine for children,14,India
+2022-01-09,vaccine for children,26,India
+2022-01-10,vaccine for children,15,India
+2022-01-11,vaccine for children,21,India
+2022-01-12,vaccine for children,15,India
+2022-01-13,vaccine for children,32,India
+2022-01-14,vaccine for children,35,India
+2022-01-15,vaccine for children,24,India
+2022-01-16,vaccine for children,28,India
+2022-01-17,vaccine for children,13,India
+2022-01-18,vaccine for children,25,India
+2022-01-19,vaccine for children,28,India
+2022-01-20,vaccine for children,55,India
+2022-01-21,vaccine for children,19,India
+2022-01-22,vaccine for children,45,India
+2022-01-23,vaccine for children,41,India
+2022-01-24,vaccine for children,34,India
+2022-01-25,vaccine for children,49,India
+2022-01-26,vaccine for children,36,India
+2022-01-27,vaccine for children,36,India
+2022-01-28,vaccine for children,32,India
+2022-01-29,vaccine for children,46,India
+2022-01-30,vaccine for children,45,India
+2022-01-31,vaccine for children,28,India
+2022-02-01,vaccine for children,22,India
+2022-02-02,vaccine for children,33,India
+2022-02-03,vaccine for children,28,India
+2022-02-04,vaccine for children,35,India
+2022-02-05,vaccine for children,49,India
+2022-02-06,vaccine for children,32,India
+2022-02-07,vaccine for children,37,India
+2022-02-08,vaccine for children,38,India
+2022-02-09,vaccine for children,47,India
+2022-02-10,vaccine for children,16,India
+2022-02-11,vaccine for children,33,India
+2022-02-12,vaccine for children,41,India
+2022-02-13,vaccine for children,52,India
+2022-02-14,vaccine for children,35,India
+2022-02-15,vaccine for children,22,India
+2022-02-16,vaccine for children,47,India
+2022-02-17,vaccine for children,35,India
+2022-02-18,vaccine for children,30,India
+2022-02-19,vaccine for children,36,India
+2022-02-20,vaccine for children,40,India
+2022-02-21,vaccine for children,37,India
+2022-02-22,vaccine for children,21,India
+2022-02-23,vaccine for children,52,India
+2022-02-24,vaccine for children,56,India
+2022-02-25,vaccine for children,50,India
+2022-02-26,vaccine for children,33,India
+2022-02-27,vaccine for children,42,India
+2022-02-28,vaccine for children,45,India
+2022-03-01,vaccine for children,51,India
+2022-03-02,vaccine for children,52,India
+2022-03-03,vaccine for children,38,India
+2022-03-04,vaccine for children,47,India
+2022-03-05,vaccine for children,51,India
+2022-03-06,vaccine for children,61,India
+2022-03-07,vaccine for children,54,India
+2022-03-08,vaccine for children,55,India
+2022-03-09,vaccine for children,48,India
+2022-03-10,vaccine for children,61,India
+2022-03-11,vaccine for children,51,India
+2022-03-12,vaccine for children,39,India
+2022-03-13,vaccine for children,62,India
+2022-03-14,vaccine for children,55,India
+2022-03-15,vaccine for children,44,India
+2022-03-16,vaccine for children,43,India
+2022-03-17,vaccine for children,51,India
+2022-03-18,vaccine for children,53,India
+2022-03-19,vaccine for children,51,India
+2022-03-20,vaccine for children,52,India
+2022-03-21,vaccine for children,66,India
+2022-03-22,vaccine for children,60,India
+2022-03-23,vaccine for children,51,India
+2022-03-24,vaccine for children,59,India
+2022-03-25,vaccine for children,39,India
+2022-03-26,vaccine for children,53,India
+2022-03-27,vaccine for children,67,India
+2022-03-28,vaccine for children,47,India
+2022-03-29,vaccine for children,41,India
+2022-03-30,vaccine for children,43,India
+2022-03-31,vaccine for children,39,India
+2022-04-01,vaccine for children,42,India
+2022-04-02,vaccine for children,46,India
+2022-04-03,vaccine for children,35,India
+2022-04-04,vaccine for children,50,India
+2022-04-05,vaccine for children,58,India
+2022-04-06,vaccine for children,40,India
+2022-04-07,vaccine for children,65,India
+2022-04-08,vaccine for children,54,India
+2022-04-09,vaccine for children,60,India
+2022-04-10,vaccine for children,43,India
+2022-04-11,vaccine for children,58,India
+2022-04-12,vaccine for children,38,India
+2022-04-13,vaccine for children,58,India
+2022-04-14,vaccine for children,51,India
+2022-04-15,vaccine for children,54,India
+2022-04-16,vaccine for children,37,India
+2022-04-17,vaccine for children,40,India
+2022-04-18,vaccine for children,54,India
+2022-04-19,vaccine for children,39,India
+2022-04-20,vaccine for children,53,India
+2022-04-21,vaccine for children,34,India
+2022-04-22,vaccine for children,56,India
+2022-04-23,vaccine for children,35,India
+2022-04-24,vaccine for children,53,India
+2022-04-25,vaccine for children,53,India
+2022-04-26,vaccine for children,40,India
+2022-04-27,vaccine for children,53,India
+2022-04-28,vaccine for children,49,India
+2022-04-29,vaccine for children,41,India
+2022-04-30,vaccine for children,36,India
+2022-05-01,vaccine for children,26,India
+2022-05-02,vaccine for children,49,India
+2022-05-03,vaccine for children,30,India
+2022-05-04,vaccine for children,46,India
+2022-05-05,vaccine for children,42,India
+2022-05-06,vaccine for children,51,India
+2022-05-07,vaccine for children,41,India
+2022-05-08,vaccine for children,41,India
+2022-05-09,vaccine for children,51,India
+2022-05-10,vaccine for children,47,India
+2022-05-11,vaccine for children,46,India
+2022-05-12,vaccine for children,47,India
+2022-05-13,vaccine for children,27,India
+2022-05-14,vaccine for children,50,India
+2022-05-15,vaccine for children,48,India
+2022-05-16,vaccine for children,31,India
+2022-05-17,vaccine for children,39,India
+2022-05-18,vaccine for children,40,India
+2022-05-19,vaccine for children,39,India
+2022-05-20,vaccine for children,43,India
+2022-05-21,vaccine for children,54,India
+2022-05-22,vaccine for children,50,India
+2022-05-23,vaccine for children,26,India
+2022-05-24,vaccine for children,45,India
+2022-05-25,vaccine for children,51,India
+2022-05-26,vaccine for children,41,India
+2022-05-27,vaccine for children,48,India
+2022-05-28,vaccine for children,57,India
+2022-05-29,vaccine for children,47,India
+2022-05-30,vaccine for children,38,India
+2022-05-31,vaccine for children,46,India
+2022-06-01,vaccine for children,36,India
+2022-06-02,vaccine for children,35,India
+2022-06-03,vaccine for children,31,India
+2022-06-04,vaccine for children,49,India
+2022-06-05,vaccine for children,25,India
+2022-06-06,vaccine for children,48,India
+2022-06-07,vaccine for children,37,India
+2022-06-08,vaccine for children,18,India
+2022-06-09,vaccine for children,35,India
+2022-06-10,vaccine for children,10,India
+2022-06-11,vaccine for children,37,India
+2022-06-12,vaccine for children,39,India
+2022-06-13,vaccine for children,23,India
+2022-06-14,vaccine for children,30,India
+2022-06-15,vaccine for children,48,India
+2022-06-16,vaccine for children,23,India
+2022-06-17,vaccine for children,17,India
+2022-06-18,vaccine for children,42,India
+2022-06-19,vaccine for children,46,India
+2022-06-20,vaccine for children,26,India
+2022-06-21,vaccine for children,36,India
+2022-06-22,vaccine for children,38,India
+2022-06-23,vaccine for children,17,India
+2022-06-24,vaccine for children,19,India
+2022-06-25,vaccine for children,36,India
+2022-06-26,vaccine for children,40,India
+2022-06-27,vaccine for children,28,India
+2022-06-28,vaccine for children,13,India
+2022-06-29,vaccine for children,41,India
+2022-06-30,vaccine for children,15,India
+2022-07-01,vaccine for children,17,India
+2022-07-02,vaccine for children,23,India
+2022-07-03,vaccine for children,35,India
+2022-07-04,vaccine for children,27,India
+2022-07-05,vaccine for children,22,India
+2022-07-06,vaccine for children,22,India
+2022-07-07,vaccine for children,18,India
+2022-07-08,vaccine for children,22,India
+2022-07-09,vaccine for children,0,India
+2022-07-10,vaccine for children,13,India
+2022-07-11,vaccine for children,18,India
+2022-07-12,vaccine for children,3,India
+2022-07-13,vaccine for children,18,India
+2022-07-14,vaccine for children,12,India
+2022-07-15,vaccine for children,31,India
+2022-07-16,vaccine for children,28,India
+2022-07-17,vaccine for children,7,India
+2022-07-18,vaccine for children,10,India
+2022-07-19,vaccine for children,10,India
+2022-07-20,vaccine for children,6,India
+2022-07-21,vaccine for children,12,India
+2022-07-22,vaccine for children,2,India
+2022-07-23,vaccine for children,0,India
+2022-07-24,vaccine for children,15,India
+2022-07-25,vaccine for children,14,India
+2022-07-26,vaccine for children,0,India
+2022-07-27,vaccine for children,16,India
+2022-07-28,vaccine for children,0,India
+2022-07-29,vaccine for children,9,India
+2022-07-30,vaccine for children,14,India
+2022-07-31,vaccine for children,5,India
+2022-08-01,vaccine for children,9,India
+2022-08-02,vaccine for children,0,India
+2022-08-03,vaccine for children,2,India
+2022-08-04,vaccine for children,2,India
+2022-08-05,vaccine for children,0,India
+2022-08-06,vaccine for children,1,India
+2022-08-07,vaccine for children,0,India
+2022-08-08,vaccine for children,0,India
+2022-08-09,vaccine for children,0,India
+2022-08-10,vaccine for children,0,India
+2022-08-11,vaccine for children,0,India
+2022-08-12,vaccine for children,0,India
+2022-08-13,vaccine for children,5,India
+2022-08-14,vaccine for children,8,India
+2022-08-15,vaccine for children,0,India
+2022-08-16,vaccine for children,0,India
+2022-08-17,vaccine for children,0,India
+2022-08-18,vaccine for children,0,India
+2022-08-19,vaccine for children,0,India
+2022-08-20,vaccine for children,0,India
+2022-08-21,vaccine for children,0,India
+2022-08-22,vaccine for children,0,India
+2022-08-23,vaccine for children,0,India
+2022-08-24,vaccine for children,2,India
+2022-08-25,vaccine for children,0,India
+2022-08-26,vaccine for children,0,India
+2022-08-27,vaccine for children,0,India
+2022-08-28,vaccine for children,0,India
+2022-08-29,vaccine for children,0,India
+2022-08-30,vaccine for children,0,India
+2022-08-31,vaccine for children,0,India
+2022-09-01,vaccine for children,0,India
+2022-09-02,vaccine for children,0,India
+2022-09-03,vaccine for children,0,India
+2022-09-04,vaccine for children,20,India
+2022-09-05,vaccine for children,0,India
+2022-09-06,vaccine for children,0,India
+2022-09-07,vaccine for children,0,India
+2022-09-08,vaccine for children,0,India
+2022-09-09,vaccine for children,0,India
+2022-09-10,vaccine for children,0,India
+2022-09-11,vaccine for children,1,India
+2022-09-12,vaccine for children,0,India
+2022-09-13,vaccine for children,0,India
+2022-09-14,vaccine for children,0,India
+2022-09-15,vaccine for children,8,India
+2022-09-16,vaccine for children,0,India
+2022-09-17,vaccine for children,9,India
+2022-09-18,vaccine for children,0,India
+2022-09-19,vaccine for children,0,India
+2022-09-20,vaccine for children,0,India
+2022-09-21,vaccine for children,0,India
+2022-09-22,vaccine for children,0,India
+2022-09-23,vaccine for children,0,India
+2022-09-24,vaccine for children,0,India
+2022-09-25,vaccine for children,0,India
+2022-09-26,vaccine for children,0,India
+2022-09-27,vaccine for children,0,India
+2022-09-28,vaccine for children,7,India
+2022-09-29,vaccine for children,2,India
+2022-09-30,vaccine for children,0,India
+2022-10-01,vaccine for children,0,India
+2022-10-02,vaccine for children,0,India
+2022-10-03,vaccine for children,0,India
+2022-10-04,vaccine for children,0,India
+2022-10-05,vaccine for children,5,India
+2022-10-06,vaccine for children,0,India
+2022-10-07,vaccine for children,0,India
+2022-10-08,vaccine for children,0,India
+2022-10-09,vaccine for children,9,India
+2022-10-10,vaccine for children,6,India
+2022-10-11,vaccine for children,12,India
+2022-10-12,vaccine for children,0,India
+2022-10-13,vaccine for children,0,India
+2022-10-14,vaccine for children,0,India
+2022-10-15,vaccine for children,5,India
+2022-10-16,vaccine for children,0,India
+2022-10-17,vaccine for children,0,India
+2022-10-18,vaccine for children,0,India
+2022-10-19,vaccine for children,0,India
+2022-10-20,vaccine for children,0,India
+2022-10-21,vaccine for children,0,India
+2022-10-22,vaccine for children,0,India
+2022-10-23,vaccine for children,0,India
+2022-10-24,vaccine for children,0,India
+2022-10-25,vaccine for children,0,India
+2022-10-26,vaccine for children,0,India
+2022-10-27,vaccine for children,4,India
+2022-10-28,vaccine for children,0,India
+2022-10-29,vaccine for children,0,India
+2022-10-30,vaccine for children,0,India
+2022-10-31,vaccine for children,5,India
+2022-11-01,vaccine for children,0,India
+2022-11-02,vaccine for children,0,India
+2022-11-03,vaccine for children,0,India
+2022-11-04,vaccine for children,0,India
+2022-11-05,vaccine for children,1,India
+2022-11-06,vaccine for children,0,India
+2022-11-07,vaccine for children,0,India
+2022-11-08,vaccine for children,0,India
+2022-11-09,vaccine for children,0,India
+2022-11-10,vaccine for children,1,India
+2022-11-11,vaccine for children,9,India
+2022-11-12,vaccine for children,0,India
+2022-11-13,vaccine for children,2,India
+2022-11-14,vaccine for children,0,India
+2022-11-15,vaccine for children,0,India
+2022-11-16,vaccine for children,0,India
+2022-11-17,vaccine for children,0,India
+2022-11-18,vaccine for children,0,India
+2022-11-19,vaccine for children,0,India
+2022-11-20,vaccine for children,3,India
+2022-11-21,vaccine for children,0,India
+2022-11-22,vaccine for children,0,India
+2022-11-23,vaccine for children,0,India
+2022-11-24,vaccine for children,0,India
+2022-11-25,vaccine for children,6,India
+2022-11-26,vaccine for children,0,India
+2022-11-27,vaccine for children,0,India
+2022-11-28,vaccine for children,0,India
+2022-11-29,vaccine for children,17,India
+2022-11-30,vaccine for children,0,India
+2022-12-01,vaccine for children,8,India
+2022-12-02,vaccine for children,6,India
+2022-12-03,vaccine for children,0,India
+2022-12-04,vaccine for children,13,India
+2022-12-05,vaccine for children,8,India
+2022-12-06,vaccine for children,12,India
+2022-12-07,vaccine for children,46,India
+2022-12-08,vaccine for children,0,India
+2022-12-09,vaccine for children,25,India
+2022-12-10,vaccine for children,6,India
+2022-12-11,vaccine for children,12,India
+2022-12-12,vaccine for children,9,India
+2022-12-13,vaccine for children,6,India
+2022-12-14,vaccine for children,5,India
+2022-12-15,vaccine for children,14,India
+2022-12-16,vaccine for children,0,India
+2022-12-17,vaccine for children,19,India
+2022-12-18,vaccine for children,8,India
+2022-12-19,vaccine for children,2,India
+2022-12-20,vaccine for children,9,India
+2022-12-21,vaccine for children,26,India
+2022-12-22,vaccine for children,9,India
+2022-12-23,vaccine for children,18,India
+2022-12-24,vaccine for children,8,India
+2022-12-25,vaccine for children,23,India
+2022-12-26,vaccine for children,23,India
+2022-12-27,vaccine for children,35,India
+2022-12-28,vaccine for children,16,India
+2022-12-29,vaccine for children,25,India
+2022-12-30,vaccine for children,19,India
+2022-12-31,vaccine for children,32,India
+2021-01-01,COVID vaccine booking,12,India
+2021-01-02,COVID vaccine booking,27,India
+2021-01-03,COVID vaccine booking,19,India
+2021-01-04,COVID vaccine booking,20,India
+2021-01-05,COVID vaccine booking,22,India
+2021-01-06,COVID vaccine booking,25,India
+2021-01-07,COVID vaccine booking,21,India
+2021-01-08,COVID vaccine booking,25,India
+2021-01-09,COVID vaccine booking,39,India
+2021-01-10,COVID vaccine booking,34,India
+2021-01-11,COVID vaccine booking,33,India
+2021-01-12,COVID vaccine booking,21,India
+2021-01-13,COVID vaccine booking,17,India
+2021-01-14,COVID vaccine booking,36,India
+2021-01-15,COVID vaccine booking,35,India
+2021-01-16,COVID vaccine booking,42,India
+2021-01-17,COVID vaccine booking,22,India
+2021-01-18,COVID vaccine booking,26,India
+2021-01-19,COVID vaccine booking,12,India
+2021-01-20,COVID vaccine booking,25,India
+2021-01-21,COVID vaccine booking,40,India
+2021-01-22,COVID vaccine booking,25,India
+2021-01-23,COVID vaccine booking,37,India
+2021-01-24,COVID vaccine booking,29,India
+2021-01-25,COVID vaccine booking,35,India
+2021-01-26,COVID vaccine booking,21,India
+2021-01-27,COVID vaccine booking,33,India
+2021-01-28,COVID vaccine booking,3,India
+2021-01-29,COVID vaccine booking,32,India
+2021-01-30,COVID vaccine booking,18,India
+2021-01-31,COVID vaccine booking,46,India
+2021-02-01,COVID vaccine booking,43,India
+2021-02-02,COVID vaccine booking,40,India
+2021-02-03,COVID vaccine booking,51,India
+2021-02-04,COVID vaccine booking,27,India
+2021-02-05,COVID vaccine booking,54,India
+2021-02-06,COVID vaccine booking,46,India
+2021-02-07,COVID vaccine booking,35,India
+2021-02-08,COVID vaccine booking,49,India
+2021-02-09,COVID vaccine booking,27,India
+2021-02-10,COVID vaccine booking,30,India
+2021-02-11,COVID vaccine booking,33,India
+2021-02-12,COVID vaccine booking,34,India
+2021-02-13,COVID vaccine booking,29,India
+2021-02-14,COVID vaccine booking,52,India
+2021-02-15,COVID vaccine booking,38,India
+2021-02-16,COVID vaccine booking,44,India
+2021-02-17,COVID vaccine booking,36,India
+2021-02-18,COVID vaccine booking,23,India
+2021-02-19,COVID vaccine booking,45,India
+2021-02-20,COVID vaccine booking,23,India
+2021-02-21,COVID vaccine booking,42,India
+2021-02-22,COVID vaccine booking,29,India
+2021-02-23,COVID vaccine booking,63,India
+2021-02-24,COVID vaccine booking,53,India
+2021-02-25,COVID vaccine booking,45,India
+2021-02-26,COVID vaccine booking,57,India
+2021-02-27,COVID vaccine booking,36,India
+2021-02-28,COVID vaccine booking,50,India
+2021-03-01,COVID vaccine booking,47,India
+2021-03-02,COVID vaccine booking,48,India
+2021-03-03,COVID vaccine booking,58,India
+2021-03-04,COVID vaccine booking,53,India
+2021-03-05,COVID vaccine booking,49,India
+2021-03-06,COVID vaccine booking,30,India
+2021-03-07,COVID vaccine booking,37,India
+2021-03-08,COVID vaccine booking,45,India
+2021-03-09,COVID vaccine booking,48,India
+2021-03-10,COVID vaccine booking,36,India
+2021-03-11,COVID vaccine booking,71,India
+2021-03-12,COVID vaccine booking,63,India
+2021-03-13,COVID vaccine booking,54,India
+2021-03-14,COVID vaccine booking,49,India
+2021-03-15,COVID vaccine booking,46,India
+2021-03-16,COVID vaccine booking,39,India
+2021-03-17,COVID vaccine booking,49,India
+2021-03-18,COVID vaccine booking,51,India
+2021-03-19,COVID vaccine booking,36,India
+2021-03-20,COVID vaccine booking,52,India
+2021-03-21,COVID vaccine booking,47,India
+2021-03-22,COVID vaccine booking,30,India
+2021-03-23,COVID vaccine booking,40,India
+2021-03-24,COVID vaccine booking,45,India
+2021-03-25,COVID vaccine booking,68,India
+2021-03-26,COVID vaccine booking,55,India
+2021-03-27,COVID vaccine booking,36,India
+2021-03-28,COVID vaccine booking,54,India
+2021-03-29,COVID vaccine booking,34,India
+2021-03-30,COVID vaccine booking,60,India
+2021-03-31,COVID vaccine booking,45,India
+2021-04-01,COVID vaccine booking,49,India
+2021-04-02,COVID vaccine booking,63,India
+2021-04-03,COVID vaccine booking,37,India
+2021-04-04,COVID vaccine booking,36,India
+2021-04-05,COVID vaccine booking,44,India
+2021-04-06,COVID vaccine booking,60,India
+2021-04-07,COVID vaccine booking,34,India
+2021-04-08,COVID vaccine booking,21,India
+2021-04-09,COVID vaccine booking,45,India
+2021-04-10,COVID vaccine booking,55,India
+2021-04-11,COVID vaccine booking,61,India
+2021-04-12,COVID vaccine booking,44,India
+2021-04-13,COVID vaccine booking,45,India
+2021-04-14,COVID vaccine booking,60,India
+2021-04-15,COVID vaccine booking,30,India
+2021-04-16,COVID vaccine booking,45,India
+2021-04-17,COVID vaccine booking,50,India
+2021-04-18,COVID vaccine booking,53,India
+2021-04-19,COVID vaccine booking,43,India
+2021-04-20,COVID vaccine booking,48,India
+2021-04-21,COVID vaccine booking,23,India
+2021-04-22,COVID vaccine booking,41,India
+2021-04-23,COVID vaccine booking,52,India
+2021-04-24,COVID vaccine booking,38,India
+2021-04-25,COVID vaccine booking,48,India
+2021-04-26,COVID vaccine booking,51,India
+2021-04-27,COVID vaccine booking,43,India
+2021-04-28,COVID vaccine booking,48,India
+2021-04-29,COVID vaccine booking,37,India
+2021-04-30,COVID vaccine booking,44,India
+2021-05-01,COVID vaccine booking,52,India
+2021-05-02,COVID vaccine booking,47,India
+2021-05-03,COVID vaccine booking,40,India
+2021-05-04,COVID vaccine booking,47,India
+2021-05-05,COVID vaccine booking,52,India
+2021-05-06,COVID vaccine booking,24,India
+2021-05-07,COVID vaccine booking,56,India
+2021-05-08,COVID vaccine booking,41,India
+2021-05-09,COVID vaccine booking,48,India
+2021-05-10,COVID vaccine booking,55,India
+2021-05-11,COVID vaccine booking,29,India
+2021-05-12,COVID vaccine booking,36,India
+2021-05-13,COVID vaccine booking,40,India
+2021-05-14,COVID vaccine booking,34,India
+2021-05-15,COVID vaccine booking,59,India
+2021-05-16,COVID vaccine booking,33,India
+2021-05-17,COVID vaccine booking,35,India
+2021-05-18,COVID vaccine booking,43,India
+2021-05-19,COVID vaccine booking,28,India
+2021-05-20,COVID vaccine booking,36,India
+2021-05-21,COVID vaccine booking,43,India
+2021-05-22,COVID vaccine booking,36,India
+2021-05-23,COVID vaccine booking,38,India
+2021-05-24,COVID vaccine booking,33,India
+2021-05-25,COVID vaccine booking,23,India
+2021-05-26,COVID vaccine booking,41,India
+2021-05-27,COVID vaccine booking,55,India
+2021-05-28,COVID vaccine booking,37,India
+2021-05-29,COVID vaccine booking,39,India
+2021-05-30,COVID vaccine booking,43,India
+2021-05-31,COVID vaccine booking,23,India
+2021-06-01,COVID vaccine booking,52,India
+2021-06-02,COVID vaccine booking,37,India
+2021-06-03,COVID vaccine booking,50,India
+2021-06-04,COVID vaccine booking,26,India
+2021-06-05,COVID vaccine booking,51,India
+2021-06-06,COVID vaccine booking,40,India
+2021-06-07,COVID vaccine booking,38,India
+2021-06-08,COVID vaccine booking,34,India
+2021-06-09,COVID vaccine booking,29,India
+2021-06-10,COVID vaccine booking,43,India
+2021-06-11,COVID vaccine booking,32,India
+2021-06-12,COVID vaccine booking,10,India
+2021-06-13,COVID vaccine booking,18,India
+2021-06-14,COVID vaccine booking,27,India
+2021-06-15,COVID vaccine booking,32,India
+2021-06-16,COVID vaccine booking,27,India
+2021-06-17,COVID vaccine booking,40,India
+2021-06-18,COVID vaccine booking,7,India
+2021-06-19,COVID vaccine booking,28,India
+2021-06-20,COVID vaccine booking,8,India
+2021-06-21,COVID vaccine booking,33,India
+2021-06-22,COVID vaccine booking,24,India
+2021-06-23,COVID vaccine booking,29,India
+2021-06-24,COVID vaccine booking,15,India
+2021-06-25,COVID vaccine booking,36,India
+2021-06-26,COVID vaccine booking,33,India
+2021-06-27,COVID vaccine booking,28,India
+2021-06-28,COVID vaccine booking,21,India
+2021-06-29,COVID vaccine booking,27,India
+2021-06-30,COVID vaccine booking,14,India
+2021-07-01,COVID vaccine booking,29,India
+2021-07-02,COVID vaccine booking,36,India
+2021-07-03,COVID vaccine booking,30,India
+2021-07-04,COVID vaccine booking,11,India
+2021-07-05,COVID vaccine booking,22,India
+2021-07-06,COVID vaccine booking,5,India
+2021-07-07,COVID vaccine booking,23,India
+2021-07-08,COVID vaccine booking,21,India
+2021-07-09,COVID vaccine booking,0,India
+2021-07-10,COVID vaccine booking,4,India
+2021-07-11,COVID vaccine booking,12,India
+2021-07-12,COVID vaccine booking,12,India
+2021-07-13,COVID vaccine booking,2,India
+2021-07-14,COVID vaccine booking,17,India
+2021-07-15,COVID vaccine booking,16,India
+2021-07-16,COVID vaccine booking,11,India
+2021-07-17,COVID vaccine booking,5,India
+2021-07-18,COVID vaccine booking,22,India
+2021-07-19,COVID vaccine booking,28,India
+2021-07-20,COVID vaccine booking,6,India
+2021-07-21,COVID vaccine booking,4,India
+2021-07-22,COVID vaccine booking,15,India
+2021-07-23,COVID vaccine booking,6,India
+2021-07-24,COVID vaccine booking,7,India
+2021-07-25,COVID vaccine booking,16,India
+2021-07-26,COVID vaccine booking,0,India
+2021-07-27,COVID vaccine booking,20,India
+2021-07-28,COVID vaccine booking,7,India
+2021-07-29,COVID vaccine booking,2,India
+2021-07-30,COVID vaccine booking,5,India
+2021-07-31,COVID vaccine booking,5,India
+2021-08-01,COVID vaccine booking,0,India
+2021-08-02,COVID vaccine booking,19,India
+2021-08-03,COVID vaccine booking,4,India
+2021-08-04,COVID vaccine booking,8,India
+2021-08-05,COVID vaccine booking,13,India
+2021-08-06,COVID vaccine booking,0,India
+2021-08-07,COVID vaccine booking,7,India
+2021-08-08,COVID vaccine booking,0,India
+2021-08-09,COVID vaccine booking,10,India
+2021-08-10,COVID vaccine booking,0,India
+2021-08-11,COVID vaccine booking,0,India
+2021-08-12,COVID vaccine booking,0,India
+2021-08-13,COVID vaccine booking,4,India
+2021-08-14,COVID vaccine booking,4,India
+2021-08-15,COVID vaccine booking,0,India
+2021-08-16,COVID vaccine booking,0,India
+2021-08-17,COVID vaccine booking,0,India
+2021-08-18,COVID vaccine booking,0,India
+2021-08-19,COVID vaccine booking,6,India
+2021-08-20,COVID vaccine booking,0,India
+2021-08-21,COVID vaccine booking,0,India
+2021-08-22,COVID vaccine booking,0,India
+2021-08-23,COVID vaccine booking,0,India
+2021-08-24,COVID vaccine booking,0,India
+2021-08-25,COVID vaccine booking,0,India
+2021-08-26,COVID vaccine booking,0,India
+2021-08-27,COVID vaccine booking,8,India
+2021-08-28,COVID vaccine booking,0,India
+2021-08-29,COVID vaccine booking,0,India
+2021-08-30,COVID vaccine booking,0,India
+2021-08-31,COVID vaccine booking,0,India
+2021-09-01,COVID vaccine booking,0,India
+2021-09-02,COVID vaccine booking,0,India
+2021-09-03,COVID vaccine booking,0,India
+2021-09-04,COVID vaccine booking,0,India
+2021-09-05,COVID vaccine booking,0,India
+2021-09-06,COVID vaccine booking,0,India
+2021-09-07,COVID vaccine booking,0,India
+2021-09-08,COVID vaccine booking,0,India
+2021-09-09,COVID vaccine booking,0,India
+2021-09-10,COVID vaccine booking,0,India
+2021-09-11,COVID vaccine booking,0,India
+2021-09-12,COVID vaccine booking,0,India
+2021-09-13,COVID vaccine booking,0,India
+2021-09-14,COVID vaccine booking,0,India
+2021-09-15,COVID vaccine booking,0,India
+2021-09-16,COVID vaccine booking,0,India
+2021-09-17,COVID vaccine booking,0,India
+2021-09-18,COVID vaccine booking,0,India
+2021-09-19,COVID vaccine booking,0,India
+2021-09-20,COVID vaccine booking,0,India
+2021-09-21,COVID vaccine booking,0,India
+2021-09-22,COVID vaccine booking,0,India
+2021-09-23,COVID vaccine booking,3,India
+2021-09-24,COVID vaccine booking,0,India
+2021-09-25,COVID vaccine booking,0,India
+2021-09-26,COVID vaccine booking,0,India
+2021-09-27,COVID vaccine booking,8,India
+2021-09-28,COVID vaccine booking,0,India
+2021-09-29,COVID vaccine booking,0,India
+2021-09-30,COVID vaccine booking,12,India
+2021-10-01,COVID vaccine booking,0,India
+2021-10-02,COVID vaccine booking,0,India
+2021-10-03,COVID vaccine booking,0,India
+2021-10-04,COVID vaccine booking,0,India
+2021-10-05,COVID vaccine booking,0,India
+2021-10-06,COVID vaccine booking,0,India
+2021-10-07,COVID vaccine booking,0,India
+2021-10-08,COVID vaccine booking,0,India
+2021-10-09,COVID vaccine booking,0,India
+2021-10-10,COVID vaccine booking,0,India
+2021-10-11,COVID vaccine booking,3,India
+2021-10-12,COVID vaccine booking,0,India
+2021-10-13,COVID vaccine booking,0,India
+2021-10-14,COVID vaccine booking,0,India
+2021-10-15,COVID vaccine booking,0,India
+2021-10-16,COVID vaccine booking,0,India
+2021-10-17,COVID vaccine booking,0,India
+2021-10-18,COVID vaccine booking,3,India
+2021-10-19,COVID vaccine booking,0,India
+2021-10-20,COVID vaccine booking,8,India
+2021-10-21,COVID vaccine booking,6,India
+2021-10-22,COVID vaccine booking,0,India
+2021-10-23,COVID vaccine booking,9,India
+2021-10-24,COVID vaccine booking,0,India
+2021-10-25,COVID vaccine booking,0,India
+2021-10-26,COVID vaccine booking,0,India
+2021-10-27,COVID vaccine booking,0,India
+2021-10-28,COVID vaccine booking,0,India
+2021-10-29,COVID vaccine booking,0,India
+2021-10-30,COVID vaccine booking,7,India
+2021-10-31,COVID vaccine booking,0,India
+2021-11-01,COVID vaccine booking,0,India
+2021-11-02,COVID vaccine booking,0,India
+2021-11-03,COVID vaccine booking,0,India
+2021-11-04,COVID vaccine booking,7,India
+2021-11-05,COVID vaccine booking,2,India
+2021-11-06,COVID vaccine booking,0,India
+2021-11-07,COVID vaccine booking,0,India
+2021-11-08,COVID vaccine booking,0,India
+2021-11-09,COVID vaccine booking,0,India
+2021-11-10,COVID vaccine booking,15,India
+2021-11-11,COVID vaccine booking,0,India
+2021-11-12,COVID vaccine booking,0,India
+2021-11-13,COVID vaccine booking,7,India
+2021-11-14,COVID vaccine booking,0,India
+2021-11-15,COVID vaccine booking,0,India
+2021-11-16,COVID vaccine booking,8,India
+2021-11-17,COVID vaccine booking,0,India
+2021-11-18,COVID vaccine booking,28,India
+2021-11-19,COVID vaccine booking,0,India
+2021-11-20,COVID vaccine booking,10,India
+2021-11-21,COVID vaccine booking,0,India
+2021-11-22,COVID vaccine booking,8,India
+2021-11-23,COVID vaccine booking,5,India
+2021-11-24,COVID vaccine booking,0,India
+2021-11-25,COVID vaccine booking,4,India
+2021-11-26,COVID vaccine booking,0,India
+2021-11-27,COVID vaccine booking,9,India
+2021-11-28,COVID vaccine booking,6,India
+2021-11-29,COVID vaccine booking,10,India
+2021-11-30,COVID vaccine booking,14,India
+2021-12-01,COVID vaccine booking,8,India
+2021-12-02,COVID vaccine booking,6,India
+2021-12-03,COVID vaccine booking,0,India
+2021-12-04,COVID vaccine booking,0,India
+2021-12-05,COVID vaccine booking,18,India
+2021-12-06,COVID vaccine booking,21,India
+2021-12-07,COVID vaccine booking,5,India
+2021-12-08,COVID vaccine booking,8,India
+2021-12-09,COVID vaccine booking,0,India
+2021-12-10,COVID vaccine booking,20,India
+2021-12-11,COVID vaccine booking,16,India
+2021-12-12,COVID vaccine booking,29,India
+2021-12-13,COVID vaccine booking,1,India
+2021-12-14,COVID vaccine booking,7,India
+2021-12-15,COVID vaccine booking,13,India
+2021-12-16,COVID vaccine booking,18,India
+2021-12-17,COVID vaccine booking,10,India
+2021-12-18,COVID vaccine booking,4,India
+2021-12-19,COVID vaccine booking,22,India
+2021-12-20,COVID vaccine booking,21,India
+2021-12-21,COVID vaccine booking,5,India
+2021-12-22,COVID vaccine booking,28,India
+2021-12-23,COVID vaccine booking,27,India
+2021-12-24,COVID vaccine booking,17,India
+2021-12-25,COVID vaccine booking,17,India
+2021-12-26,COVID vaccine booking,22,India
+2021-12-27,COVID vaccine booking,8,India
+2021-12-28,COVID vaccine booking,18,India
+2021-12-29,COVID vaccine booking,0,India
+2021-12-30,COVID vaccine booking,27,India
+2021-12-31,COVID vaccine booking,3,India
+2022-01-01,COVID vaccine booking,35,India
+2022-01-02,COVID vaccine booking,17,India
+2022-01-03,COVID vaccine booking,18,India
+2022-01-04,COVID vaccine booking,15,India
+2022-01-05,COVID vaccine booking,19,India
+2022-01-06,COVID vaccine booking,36,India
+2022-01-07,COVID vaccine booking,0,India
+2022-01-08,COVID vaccine booking,36,India
+2022-01-09,COVID vaccine booking,27,India
+2022-01-10,COVID vaccine booking,12,India
+2022-01-11,COVID vaccine booking,14,India
+2022-01-12,COVID vaccine booking,42,India
+2022-01-13,COVID vaccine booking,16,India
+2022-01-14,COVID vaccine booking,15,India
+2022-01-15,COVID vaccine booking,38,India
+2022-01-16,COVID vaccine booking,31,India
+2022-01-17,COVID vaccine booking,18,India
+2022-01-18,COVID vaccine booking,30,India
+2022-01-19,COVID vaccine booking,18,India
+2022-01-20,COVID vaccine booking,40,India
+2022-01-21,COVID vaccine booking,40,India
+2022-01-22,COVID vaccine booking,35,India
+2022-01-23,COVID vaccine booking,34,India
+2022-01-24,COVID vaccine booking,49,India
+2022-01-25,COVID vaccine booking,32,India
+2022-01-26,COVID vaccine booking,20,India
+2022-01-27,COVID vaccine booking,37,India
+2022-01-28,COVID vaccine booking,54,India
+2022-01-29,COVID vaccine booking,23,India
+2022-01-30,COVID vaccine booking,30,India
+2022-01-31,COVID vaccine booking,38,India
+2022-02-01,COVID vaccine booking,34,India
+2022-02-02,COVID vaccine booking,25,India
+2022-02-03,COVID vaccine booking,47,India
+2022-02-04,COVID vaccine booking,59,India
+2022-02-05,COVID vaccine booking,38,India
+2022-02-06,COVID vaccine booking,28,India
+2022-02-07,COVID vaccine booking,22,India
+2022-02-08,COVID vaccine booking,40,India
+2022-02-09,COVID vaccine booking,49,India
+2022-02-10,COVID vaccine booking,43,India
+2022-02-11,COVID vaccine booking,39,India
+2022-02-12,COVID vaccine booking,33,India
+2022-02-13,COVID vaccine booking,29,India
+2022-02-14,COVID vaccine booking,48,India
+2022-02-15,COVID vaccine booking,50,India
+2022-02-16,COVID vaccine booking,25,India
+2022-02-17,COVID vaccine booking,57,India
+2022-02-18,COVID vaccine booking,47,India
+2022-02-19,COVID vaccine booking,56,India
+2022-02-20,COVID vaccine booking,29,India
+2022-02-21,COVID vaccine booking,29,India
+2022-02-22,COVID vaccine booking,41,India
+2022-02-23,COVID vaccine booking,48,India
+2022-02-24,COVID vaccine booking,62,India
+2022-02-25,COVID vaccine booking,51,India
+2022-02-26,COVID vaccine booking,42,India
+2022-02-27,COVID vaccine booking,34,India
+2022-02-28,COVID vaccine booking,57,India
+2022-03-01,COVID vaccine booking,35,India
+2022-03-02,COVID vaccine booking,62,India
+2022-03-03,COVID vaccine booking,43,India
+2022-03-04,COVID vaccine booking,62,India
+2022-03-05,COVID vaccine booking,53,India
+2022-03-06,COVID vaccine booking,45,India
+2022-03-07,COVID vaccine booking,41,India
+2022-03-08,COVID vaccine booking,43,India
+2022-03-09,COVID vaccine booking,51,India
+2022-03-10,COVID vaccine booking,48,India
+2022-03-11,COVID vaccine booking,41,India
+2022-03-12,COVID vaccine booking,46,India
+2022-03-13,COVID vaccine booking,48,India
+2022-03-14,COVID vaccine booking,27,India
+2022-03-15,COVID vaccine booking,53,India
+2022-03-16,COVID vaccine booking,38,India
+2022-03-17,COVID vaccine booking,37,India
+2022-03-18,COVID vaccine booking,32,India
+2022-03-19,COVID vaccine booking,31,India
+2022-03-20,COVID vaccine booking,35,India
+2022-03-21,COVID vaccine booking,42,India
+2022-03-22,COVID vaccine booking,68,India
+2022-03-23,COVID vaccine booking,44,India
+2022-03-24,COVID vaccine booking,51,India
+2022-03-25,COVID vaccine booking,53,India
+2022-03-26,COVID vaccine booking,51,India
+2022-03-27,COVID vaccine booking,49,India
+2022-03-28,COVID vaccine booking,37,India
+2022-03-29,COVID vaccine booking,64,India
+2022-03-30,COVID vaccine booking,68,India
+2022-03-31,COVID vaccine booking,33,India
+2022-04-01,COVID vaccine booking,39,India
+2022-04-02,COVID vaccine booking,47,India
+2022-04-03,COVID vaccine booking,40,India
+2022-04-04,COVID vaccine booking,55,India
+2022-04-05,COVID vaccine booking,42,India
+2022-04-06,COVID vaccine booking,71,India
+2022-04-07,COVID vaccine booking,61,India
+2022-04-08,COVID vaccine booking,51,India
+2022-04-09,COVID vaccine booking,60,India
+2022-04-10,COVID vaccine booking,60,India
+2022-04-11,COVID vaccine booking,44,India
+2022-04-12,COVID vaccine booking,41,India
+2022-04-13,COVID vaccine booking,50,India
+2022-04-14,COVID vaccine booking,58,India
+2022-04-15,COVID vaccine booking,50,India
+2022-04-16,COVID vaccine booking,33,India
+2022-04-17,COVID vaccine booking,41,India
+2022-04-18,COVID vaccine booking,48,India
+2022-04-19,COVID vaccine booking,48,India
+2022-04-20,COVID vaccine booking,68,India
+2022-04-21,COVID vaccine booking,34,India
+2022-04-22,COVID vaccine booking,53,India
+2022-04-23,COVID vaccine booking,62,India
+2022-04-24,COVID vaccine booking,70,India
+2022-04-25,COVID vaccine booking,43,India
+2022-04-26,COVID vaccine booking,52,India
+2022-04-27,COVID vaccine booking,53,India
+2022-04-28,COVID vaccine booking,49,India
+2022-04-29,COVID vaccine booking,45,India
+2022-04-30,COVID vaccine booking,51,India
+2022-05-01,COVID vaccine booking,21,India
+2022-05-02,COVID vaccine booking,52,India
+2022-05-03,COVID vaccine booking,47,India
+2022-05-04,COVID vaccine booking,43,India
+2022-05-05,COVID vaccine booking,65,India
+2022-05-06,COVID vaccine booking,38,India
+2022-05-07,COVID vaccine booking,40,India
+2022-05-08,COVID vaccine booking,64,India
+2022-05-09,COVID vaccine booking,35,India
+2022-05-10,COVID vaccine booking,38,India
+2022-05-11,COVID vaccine booking,42,India
+2022-05-12,COVID vaccine booking,51,India
+2022-05-13,COVID vaccine booking,44,India
+2022-05-14,COVID vaccine booking,29,India
+2022-05-15,COVID vaccine booking,36,India
+2022-05-16,COVID vaccine booking,35,India
+2022-05-17,COVID vaccine booking,40,India
+2022-05-18,COVID vaccine booking,45,India
+2022-05-19,COVID vaccine booking,44,India
+2022-05-20,COVID vaccine booking,22,India
+2022-05-21,COVID vaccine booking,50,India
+2022-05-22,COVID vaccine booking,42,India
+2022-05-23,COVID vaccine booking,53,India
+2022-05-24,COVID vaccine booking,43,India
+2022-05-25,COVID vaccine booking,49,India
+2022-05-26,COVID vaccine booking,42,India
+2022-05-27,COVID vaccine booking,51,India
+2022-05-28,COVID vaccine booking,42,India
+2022-05-29,COVID vaccine booking,35,India
+2022-05-30,COVID vaccine booking,59,India
+2022-05-31,COVID vaccine booking,44,India
+2022-06-01,COVID vaccine booking,41,India
+2022-06-02,COVID vaccine booking,22,India
+2022-06-03,COVID vaccine booking,21,India
+2022-06-04,COVID vaccine booking,37,India
+2022-06-05,COVID vaccine booking,35,India
+2022-06-06,COVID vaccine booking,27,India
+2022-06-07,COVID vaccine booking,34,India
+2022-06-08,COVID vaccine booking,48,India
+2022-06-09,COVID vaccine booking,38,India
+2022-06-10,COVID vaccine booking,19,India
+2022-06-11,COVID vaccine booking,29,India
+2022-06-12,COVID vaccine booking,22,India
+2022-06-13,COVID vaccine booking,26,India
+2022-06-14,COVID vaccine booking,25,India
+2022-06-15,COVID vaccine booking,24,India
+2022-06-16,COVID vaccine booking,15,India
+2022-06-17,COVID vaccine booking,26,India
+2022-06-18,COVID vaccine booking,21,India
+2022-06-19,COVID vaccine booking,0,India
+2022-06-20,COVID vaccine booking,46,India
+2022-06-21,COVID vaccine booking,36,India
+2022-06-22,COVID vaccine booking,21,India
+2022-06-23,COVID vaccine booking,25,India
+2022-06-24,COVID vaccine booking,12,India
+2022-06-25,COVID vaccine booking,40,India
+2022-06-26,COVID vaccine booking,42,India
+2022-06-27,COVID vaccine booking,24,India
+2022-06-28,COVID vaccine booking,32,India
+2022-06-29,COVID vaccine booking,23,India
+2022-06-30,COVID vaccine booking,7,India
+2022-07-01,COVID vaccine booking,16,India
+2022-07-02,COVID vaccine booking,21,India
+2022-07-03,COVID vaccine booking,15,India
+2022-07-04,COVID vaccine booking,17,India
+2022-07-05,COVID vaccine booking,17,India
+2022-07-06,COVID vaccine booking,17,India
+2022-07-07,COVID vaccine booking,18,India
+2022-07-08,COVID vaccine booking,6,India
+2022-07-09,COVID vaccine booking,9,India
+2022-07-10,COVID vaccine booking,3,India
+2022-07-11,COVID vaccine booking,25,India
+2022-07-12,COVID vaccine booking,0,India
+2022-07-13,COVID vaccine booking,26,India
+2022-07-14,COVID vaccine booking,27,India
+2022-07-15,COVID vaccine booking,10,India
+2022-07-16,COVID vaccine booking,0,India
+2022-07-17,COVID vaccine booking,8,India
+2022-07-18,COVID vaccine booking,11,India
+2022-07-19,COVID vaccine booking,1,India
+2022-07-20,COVID vaccine booking,5,India
+2022-07-21,COVID vaccine booking,25,India
+2022-07-22,COVID vaccine booking,16,India
+2022-07-23,COVID vaccine booking,0,India
+2022-07-24,COVID vaccine booking,0,India
+2022-07-25,COVID vaccine booking,5,India
+2022-07-26,COVID vaccine booking,6,India
+2022-07-27,COVID vaccine booking,12,India
+2022-07-28,COVID vaccine booking,1,India
+2022-07-29,COVID vaccine booking,11,India
+2022-07-30,COVID vaccine booking,25,India
+2022-07-31,COVID vaccine booking,14,India
+2022-08-01,COVID vaccine booking,4,India
+2022-08-02,COVID vaccine booking,3,India
+2022-08-03,COVID vaccine booking,0,India
+2022-08-04,COVID vaccine booking,15,India
+2022-08-05,COVID vaccine booking,0,India
+2022-08-06,COVID vaccine booking,3,India
+2022-08-07,COVID vaccine booking,3,India
+2022-08-08,COVID vaccine booking,0,India
+2022-08-09,COVID vaccine booking,0,India
+2022-08-10,COVID vaccine booking,4,India
+2022-08-11,COVID vaccine booking,0,India
+2022-08-12,COVID vaccine booking,5,India
+2022-08-13,COVID vaccine booking,0,India
+2022-08-14,COVID vaccine booking,12,India
+2022-08-15,COVID vaccine booking,0,India
+2022-08-16,COVID vaccine booking,16,India
+2022-08-17,COVID vaccine booking,0,India
+2022-08-18,COVID vaccine booking,2,India
+2022-08-19,COVID vaccine booking,2,India
+2022-08-20,COVID vaccine booking,0,India
+2022-08-21,COVID vaccine booking,1,India
+2022-08-22,COVID vaccine booking,9,India
+2022-08-23,COVID vaccine booking,0,India
+2022-08-24,COVID vaccine booking,1,India
+2022-08-25,COVID vaccine booking,0,India
+2022-08-26,COVID vaccine booking,0,India
+2022-08-27,COVID vaccine booking,11,India
+2022-08-28,COVID vaccine booking,0,India
+2022-08-29,COVID vaccine booking,0,India
+2022-08-30,COVID vaccine booking,0,India
+2022-08-31,COVID vaccine booking,15,India
+2022-09-01,COVID vaccine booking,0,India
+2022-09-02,COVID vaccine booking,0,India
+2022-09-03,COVID vaccine booking,8,India
+2022-09-04,COVID vaccine booking,11,India
+2022-09-05,COVID vaccine booking,0,India
+2022-09-06,COVID vaccine booking,0,India
+2022-09-07,COVID vaccine booking,13,India
+2022-09-08,COVID vaccine booking,8,India
+2022-09-09,COVID vaccine booking,0,India
+2022-09-10,COVID vaccine booking,0,India
+2022-09-11,COVID vaccine booking,0,India
+2022-09-12,COVID vaccine booking,0,India
+2022-09-13,COVID vaccine booking,0,India
+2022-09-14,COVID vaccine booking,5,India
+2022-09-15,COVID vaccine booking,0,India
+2022-09-16,COVID vaccine booking,0,India
+2022-09-17,COVID vaccine booking,4,India
+2022-09-18,COVID vaccine booking,0,India
+2022-09-19,COVID vaccine booking,0,India
+2022-09-20,COVID vaccine booking,5,India
+2022-09-21,COVID vaccine booking,0,India
+2022-09-22,COVID vaccine booking,0,India
+2022-09-23,COVID vaccine booking,0,India
+2022-09-24,COVID vaccine booking,0,India
+2022-09-25,COVID vaccine booking,0,India
+2022-09-26,COVID vaccine booking,15,India
+2022-09-27,COVID vaccine booking,0,India
+2022-09-28,COVID vaccine booking,0,India
+2022-09-29,COVID vaccine booking,0,India
+2022-09-30,COVID vaccine booking,0,India
+2022-10-01,COVID vaccine booking,0,India
+2022-10-02,COVID vaccine booking,0,India
+2022-10-03,COVID vaccine booking,0,India
+2022-10-04,COVID vaccine booking,0,India
+2022-10-05,COVID vaccine booking,0,India
+2022-10-06,COVID vaccine booking,2,India
+2022-10-07,COVID vaccine booking,0,India
+2022-10-08,COVID vaccine booking,0,India
+2022-10-09,COVID vaccine booking,0,India
+2022-10-10,COVID vaccine booking,1,India
+2022-10-11,COVID vaccine booking,0,India
+2022-10-12,COVID vaccine booking,0,India
+2022-10-13,COVID vaccine booking,0,India
+2022-10-14,COVID vaccine booking,3,India
+2022-10-15,COVID vaccine booking,0,India
+2022-10-16,COVID vaccine booking,0,India
+2022-10-17,COVID vaccine booking,0,India
+2022-10-18,COVID vaccine booking,0,India
+2022-10-19,COVID vaccine booking,0,India
+2022-10-20,COVID vaccine booking,0,India
+2022-10-21,COVID vaccine booking,0,India
+2022-10-22,COVID vaccine booking,0,India
+2022-10-23,COVID vaccine booking,13,India
+2022-10-24,COVID vaccine booking,5,India
+2022-10-25,COVID vaccine booking,11,India
+2022-10-26,COVID vaccine booking,0,India
+2022-10-27,COVID vaccine booking,0,India
+2022-10-28,COVID vaccine booking,0,India
+2022-10-29,COVID vaccine booking,0,India
+2022-10-30,COVID vaccine booking,0,India
+2022-10-31,COVID vaccine booking,6,India
+2022-11-01,COVID vaccine booking,0,India
+2022-11-02,COVID vaccine booking,4,India
+2022-11-03,COVID vaccine booking,0,India
+2022-11-04,COVID vaccine booking,17,India
+2022-11-05,COVID vaccine booking,0,India
+2022-11-06,COVID vaccine booking,7,India
+2022-11-07,COVID vaccine booking,7,India
+2022-11-08,COVID vaccine booking,0,India
+2022-11-09,COVID vaccine booking,6,India
+2022-11-10,COVID vaccine booking,0,India
+2022-11-11,COVID vaccine booking,0,India
+2022-11-12,COVID vaccine booking,0,India
+2022-11-13,COVID vaccine booking,0,India
+2022-11-14,COVID vaccine booking,18,India
+2022-11-15,COVID vaccine booking,0,India
+2022-11-16,COVID vaccine booking,6,India
+2022-11-17,COVID vaccine booking,0,India
+2022-11-18,COVID vaccine booking,0,India
+2022-11-19,COVID vaccine booking,10,India
+2022-11-20,COVID vaccine booking,0,India
+2022-11-21,COVID vaccine booking,0,India
+2022-11-22,COVID vaccine booking,1,India
+2022-11-23,COVID vaccine booking,2,India
+2022-11-24,COVID vaccine booking,0,India
+2022-11-25,COVID vaccine booking,6,India
+2022-11-26,COVID vaccine booking,9,India
+2022-11-27,COVID vaccine booking,10,India
+2022-11-28,COVID vaccine booking,0,India
+2022-11-29,COVID vaccine booking,1,India
+2022-11-30,COVID vaccine booking,16,India
+2022-12-01,COVID vaccine booking,13,India
+2022-12-02,COVID vaccine booking,0,India
+2022-12-03,COVID vaccine booking,9,India
+2022-12-04,COVID vaccine booking,0,India
+2022-12-05,COVID vaccine booking,7,India
+2022-12-06,COVID vaccine booking,25,India
+2022-12-07,COVID vaccine booking,0,India
+2022-12-08,COVID vaccine booking,0,India
+2022-12-09,COVID vaccine booking,16,India
+2022-12-10,COVID vaccine booking,0,India
+2022-12-11,COVID vaccine booking,3,India
+2022-12-12,COVID vaccine booking,15,India
+2022-12-13,COVID vaccine booking,4,India
+2022-12-14,COVID vaccine booking,8,India
+2022-12-15,COVID vaccine booking,18,India
+2022-12-16,COVID vaccine booking,16,India
+2022-12-17,COVID vaccine booking,15,India
+2022-12-18,COVID vaccine booking,9,India
+2022-12-19,COVID vaccine booking,17,India
+2022-12-20,COVID vaccine booking,12,India
+2022-12-21,COVID vaccine booking,18,India
+2022-12-22,COVID vaccine booking,9,India
+2022-12-23,COVID vaccine booking,13,India
+2022-12-24,COVID vaccine booking,5,India
+2022-12-25,COVID vaccine booking,16,India
+2022-12-26,COVID vaccine booking,8,India
+2022-12-27,COVID vaccine booking,6,India
+2022-12-28,COVID vaccine booking,20,India
+2022-12-29,COVID vaccine booking,20,India
+2022-12-30,COVID vaccine booking,26,India
+2022-12-31,COVID vaccine booking,15,India

@@ -1,0 +1,6 @@
+VACCINE HESITANCY SUMMARY STATISTICS
+========================================
+
+total_respondents: 1000
+hesitancy_rate: 0.28
+vaccination_rate: 0.72

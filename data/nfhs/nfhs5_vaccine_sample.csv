@@ -1,0 +1,1001 @@
+state,gender,education,income,religion,age,vaccine_hesitant,vaccination_status,rural_urban,wealth_index
+Karnataka,Male,Primary,Low,Other,43,0,1,Urban,Middle
+West Bengal,Male,Primary,Low,Muslim,20,0,1,Urban,Middle
+Gujarat,Female,Secondary,High,Christian,24,0,1,Urban,Poorest
+Tamil Nadu,Female,Primary,High,Other,56,1,1,Rural,Richer
+Karnataka,Male,Primary,Low,Sikh,18,0,1,Urban,Poorer
+Odisha,Female,Secondary,Low,Other,34,0,1,Rural,Middle
+Bihar,Female,Higher,High,Christian,60,1,1,Urban,Middle
+Karnataka,Female,No Education,High,Sikh,42,0,1,Urban,Poorest
+Gujarat,Female,Higher,Low,Other,20,1,1,Urban,Poorer
+Tamil Nadu,Female,Secondary,Low,Hindu,32,0,0,Urban,Richer
+West Bengal,Male,No Education,Low,Sikh,46,0,1,Urban,Richest
+Gujarat,Female,Secondary,Middle,Hindu,60,0,0,Rural,Poorest
+Gujarat,Male,Secondary,High,Muslim,49,0,0,Urban,Richer
+Bihar,Female,Primary,Middle,Sikh,43,1,1,Rural,Richest
+Rajasthan,Male,No Education,High,Hindu,33,1,1,Rural,Middle
+Tamil Nadu,Female,Primary,High,Christian,42,0,1,Rural,Middle
+Uttar Pradesh,Male,No Education,High,Christian,45,0,1,Rural,Poorer
+Gujarat,Female,Secondary,High,Muslim,26,1,1,Rural,Richest
+Rajasthan,Male,Secondary,High,Sikh,18,1,0,Rural,Middle
+Uttar Pradesh,Female,Higher,High,Sikh,46,0,1,Rural,Middle
+Tamil Nadu,Male,No Education,High,Sikh,39,0,1,Rural,Poorer
+Maharashtra,Female,Primary,Middle,Muslim,33,0,1,Urban,Richer
+Odisha,Male,Higher,Low,Sikh,58,1,1,Urban,Middle
+Rajasthan,Male,Higher,Low,Christian,61,0,1,Rural,Poorest
+Andhra Pradesh,Female,Higher,Middle,Hindu,58,0,1,Rural,Poorest
+Maharashtra,Female,Primary,Middle,Christian,24,1,1,Rural,Richer
+Odisha,Male,Higher,Middle,Christian,31,0,1,Urban,Richest
+Bihar,Female,Primary,Middle,Hindu,46,0,0,Urban,Poorer
+Karnataka,Male,Higher,High,Christian,36,0,1,Rural,Poorest
+West Bengal,Male,Primary,Low,Muslim,36,0,0,Rural,Poorest
+Andhra Pradesh,Male,Secondary,High,Hindu,19,0,1,Urban,Richer
+Bihar,Female,Secondary,Low,Christian,58,0,1,Urban,Richest
+Tamil Nadu,Male,Secondary,Low,Other,62,0,1,Rural,Richest
+Bihar,Male,Secondary,Middle,Christian,32,0,1,Rural,Richer
+Karnataka,Female,Secondary,High,Muslim,20,1,1,Rural,Poorest
+Tamil Nadu,Female,Higher,Middle,Sikh,28,1,1,Rural,Poorer
+Andhra Pradesh,Female,Higher,High,Christian,63,0,1,Urban,Poorest
+Karnataka,Female,Higher,Low,Sikh,47,0,1,Urban,Richest
+Uttar Pradesh,Male,Primary,Middle,Other,57,0,0,Rural,Poorest
+West Bengal,Male,Primary,Middle,Christian,35,0,1,Rural,Poorer
+Andhra Pradesh,Male,Primary,Low,Hindu,19,0,1,Rural,Middle
+Uttar Pradesh,Male,Primary,Low,Sikh,49,0,0,Urban,Poorest
+Odisha,Female,Secondary,Low,Other,25,0,1,Rural,Richer
+Andhra Pradesh,Male,Secondary,Middle,Hindu,39,0,0,Rural,Middle
+Odisha,Male,Secondary,High,Hindu,23,0,1,Rural,Richer
+Tamil Nadu,Female,No Education,Middle,Hindu,29,0,1,Urban,Richer
+Uttar Pradesh,Male,Higher,High,Hindu,64,0,1,Rural,Richer
+West Bengal,Male,Primary,Middle,Christian,57,0,0,Urban,Poorest
+Karnataka,Male,Primary,Middle,Christian,53,0,1,Rural,Richest
+Gujarat,Male,Secondary,Low,Christian,32,1,0,Rural,Middle
+Bihar,Male,Primary,High,Other,45,1,1,Rural,Poorer
+Maharashtra,Male,Primary,Middle,Other,62,0,1,Urban,Richest
+West Bengal,Female,Higher,Middle,Other,35,0,1,Rural,Poorest
+Uttar Pradesh,Female,Secondary,Low,Muslim,19,0,1,Rural,Richer
+Gujarat,Male,Higher,Low,Other,30,0,1,Urban,Poorer
+West Bengal,Male,No Education,High,Christian,62,0,1,Urban,Middle
+Uttar Pradesh,Female,No Education,Middle,Christian,32,1,1,Urban,Richest
+Rajasthan,Male,No Education,High,Muslim,37,0,1,Rural,Richest
+Rajasthan,Male,Secondary,Middle,Muslim,46,1,1,Urban,Poorer
+Odisha,Male,Primary,High,Other,59,0,1,Rural,Poorest
+West Bengal,Female,Secondary,Low,Sikh,46,0,0,Urban,Middle
+Rajasthan,Male,Secondary,Middle,Muslim,20,1,1,Urban,Poorer
+Uttar Pradesh,Female,Primary,High,Hindu,36,0,0,Urban,Richer
+Odisha,Male,Higher,Low,Christian,20,0,1,Rural,Middle
+Uttar Pradesh,Female,No Education,Low,Hindu,31,0,1,Rural,Richest
+Odisha,Female,Higher,High,Christian,57,0,1,Rural,Poorer
+West Bengal,Male,No Education,Middle,Christian,21,1,1,Rural,Richest
+Gujarat,Female,Secondary,Middle,Muslim,28,0,0,Rural,Richest
+Karnataka,Male,No Education,Low,Muslim,48,1,1,Rural,Richest
+Andhra Pradesh,Female,Secondary,Middle,Hindu,60,1,1,Rural,Poorest
+Gujarat,Male,Higher,Middle,Christian,49,1,1,Rural,Richest
+Tamil Nadu,Male,Secondary,Middle,Hindu,44,0,1,Rural,Richer
+Uttar Pradesh,Female,Higher,Low,Sikh,47,0,1,Urban,Richer
+Tamil Nadu,Male,Primary,High,Hindu,60,1,1,Urban,Middle
+Gujarat,Male,Primary,Middle,Other,19,0,1,Rural,Richest
+Odisha,Female,Primary,Low,Hindu,26,0,0,Rural,Richest
+Andhra Pradesh,Male,Secondary,Low,Other,45,0,1,Rural,Poorer
+Andhra Pradesh,Male,Primary,High,Other,48,0,1,Rural,Poorest
+Maharashtra,Female,No Education,Middle,Other,51,0,1,Urban,Middle
+Andhra Pradesh,Female,Higher,Middle,Sikh,32,0,1,Urban,Richest
+Karnataka,Male,Higher,High,Hindu,42,0,1,Rural,Poorer
+Andhra Pradesh,Male,No Education,High,Hindu,53,1,1,Urban,Poorest
+Gujarat,Female,Secondary,Low,Sikh,25,0,1,Urban,Middle
+Maharashtra,Female,Secondary,Low,Christian,26,1,0,Rural,Middle
+Gujarat,Male,Higher,High,Muslim,54,0,1,Rural,Richest
+Gujarat,Female,Primary,Middle,Hindu,62,1,0,Rural,Middle
+Bihar,Male,Secondary,Low,Muslim,56,0,0,Rural,Poorer
+Maharashtra,Male,Secondary,Low,Sikh,49,1,1,Urban,Middle
+Gujarat,Male,No Education,Middle,Christian,34,0,1,Rural,Richer
+Bihar,Male,No Education,Low,Christian,52,1,1,Urban,Poorer
+Bihar,Male,Primary,Middle,Christian,54,0,1,Rural,Poorest
+Maharashtra,Female,Secondary,Middle,Sikh,36,1,1,Urban,Poorest
+Tamil Nadu,Female,Secondary,Middle,Other,61,1,1,Rural,Richest
+Odisha,Female,No Education,High,Other,46,0,1,Rural,Richest
+Karnataka,Female,Secondary,High,Muslim,24,0,1,Urban,Richer
+Odisha,Male,Higher,High,Other,45,1,1,Urban,Poorest
+Andhra Pradesh,Male,No Education,Middle,Other,26,0,1,Urban,Poorest
+Karnataka,Male,Primary,Middle,Christian,45,1,1,Rural,Poorest
+Andhra Pradesh,Male,No Education,High,Christian,23,0,0,Urban,Poorest
+Gujarat,Female,Secondary,Low,Muslim,46,0,1,Urban,Middle
+Uttar Pradesh,Male,Primary,Middle,Hindu,34,1,1,Urban,Poorer
+Maharashtra,Male,No Education,Low,Muslim,33,0,1,Urban,Poorer
+Karnataka,Female,Higher,Low,Muslim,40,1,0,Urban,Richer
+Karnataka,Female,Higher,Middle,Sikh,48,0,1,Urban,Middle
+Gujarat,Female,No Education,Middle,Sikh,20,0,1,Urban,Poorest
+Tamil Nadu,Female,Higher,Low,Muslim,38,0,1,Urban,Poorest
+Bihar,Male,Higher,Low,Muslim,43,0,0,Urban,Richest
+Gujarat,Male,Higher,High,Muslim,53,0,1,Rural,Richest
+Rajasthan,Female,Primary,High,Other,59,0,1,Rural,Richer
+Bihar,Male,Higher,Middle,Sikh,54,0,1,Urban,Poorest
+Maharashtra,Male,Higher,High,Muslim,39,0,1,Rural,Richer
+Bihar,Male,Higher,High,Christian,59,1,1,Rural,Middle
+Tamil Nadu,Female,Primary,High,Christian,29,0,1,Urban,Poorer
+Bihar,Male,No Education,High,Other,59,0,0,Urban,Poorest
+Maharashtra,Female,Secondary,Low,Other,30,0,0,Urban,Middle
+Tamil Nadu,Male,Higher,Middle,Hindu,28,0,1,Urban,Poorest
+Odisha,Male,No Education,High,Hindu,33,1,1,Urban,Richest
+Karnataka,Male,Higher,Low,Hindu,25,0,0,Urban,Richer
+Karnataka,Female,Primary,Low,Other,57,0,1,Rural,Richest
+Andhra Pradesh,Male,No Education,Low,Other,57,0,1,Urban,Poorer
+Odisha,Female,Primary,High,Other,62,0,0,Rural,Richest
+Odisha,Female,Higher,High,Christian,19,1,1,Urban,Poorest
+Bihar,Female,Higher,Middle,Other,47,0,0,Urban,Richest
+Karnataka,Male,Primary,High,Christian,47,1,0,Rural,Poorest
+Maharashtra,Male,Secondary,High,Hindu,29,0,0,Urban,Poorer
+West Bengal,Male,Primary,Low,Hindu,27,0,1,Urban,Richest
+West Bengal,Male,Higher,Middle,Hindu,61,1,0,Rural,Richer
+Tamil Nadu,Female,Primary,High,Muslim,28,0,0,Urban,Richer
+Karnataka,Female,Secondary,High,Muslim,32,0,1,Rural,Richer
+Karnataka,Female,Primary,Low,Sikh,33,0,1,Urban,Richest
+West Bengal,Male,Secondary,Low,Sikh,34,0,1,Urban,Richest
+Karnataka,Female,Secondary,High,Sikh,43,0,1,Rural,Richest
+Bihar,Male,Primary,Middle,Muslim,19,0,0,Urban,Poorest
+Rajasthan,Female,Primary,Middle,Muslim,29,0,1,Rural,Poorer
+Uttar Pradesh,Male,No Education,Low,Sikh,43,0,1,Rural,Richer
+Odisha,Male,Higher,Low,Sikh,40,0,1,Rural,Poorest
+Andhra Pradesh,Female,Secondary,High,Other,35,0,1,Urban,Richer
+Tamil Nadu,Female,No Education,Low,Sikh,49,0,1,Urban,Poorest
+Rajasthan,Female,Primary,High,Other,55,0,0,Rural,Richest
+West Bengal,Female,Higher,Middle,Christian,64,1,1,Urban,Richer
+Odisha,Male,No Education,Middle,Muslim,20,0,0,Urban,Richest
+Karnataka,Female,Secondary,High,Sikh,55,1,1,Urban,Richer
+Andhra Pradesh,Female,No Education,Low,Muslim,20,0,1,Rural,Middle
+Karnataka,Female,Secondary,Middle,Muslim,47,0,1,Urban,Poorest
+Maharashtra,Male,Primary,Low,Muslim,18,0,1,Rural,Middle
+Maharashtra,Male,Higher,Middle,Christian,47,0,1,Urban,Poorest
+Andhra Pradesh,Female,Higher,High,Hindu,62,0,1,Urban,Poorer
+Andhra Pradesh,Male,Higher,High,Sikh,49,0,1,Rural,Richer
+West Bengal,Female,Primary,High,Hindu,45,0,1,Urban,Poorer
+Andhra Pradesh,Male,Secondary,Middle,Hindu,38,1,1,Rural,Poorer
+Bihar,Male,Primary,Low,Hindu,63,0,1,Urban,Poorest
+Karnataka,Male,Higher,Low,Muslim,30,0,1,Rural,Middle
+Rajasthan,Male,Primary,Low,Other,44,1,1,Urban,Richest
+Gujarat,Female,Primary,Middle,Muslim,53,0,1,Urban,Poorest
+Andhra Pradesh,Female,Primary,Middle,Muslim,24,0,1,Urban,Richest
+Tamil Nadu,Female,Secondary,Middle,Hindu,39,0,0,Rural,Poorer
+Maharashtra,Male,No Education,Middle,Muslim,27,1,1,Rural,Richest
+Bihar,Female,No Education,Middle,Hindu,56,1,1,Rural,Middle
+Odisha,Female,Primary,Low,Other,32,0,1,Urban,Poorest
+Gujarat,Female,No Education,Middle,Sikh,32,0,1,Rural,Middle
+Rajasthan,Male,No Education,Middle,Hindu,21,1,1,Rural,Middle
+Gujarat,Male,Primary,Low,Other,49,0,1,Rural,Poorest
+Andhra Pradesh,Male,Primary,Middle,Sikh,40,0,1,Rural,Middle
+West Bengal,Female,Higher,Low,Christian,23,0,1,Rural,Richer
+Maharashtra,Female,No Education,Low,Hindu,41,0,1,Rural,Richer
+Maharashtra,Female,Secondary,High,Hindu,37,0,0,Rural,Richer
+Odisha,Male,Primary,High,Christian,54,0,0,Rural,Richest
+West Bengal,Male,Higher,High,Christian,37,0,1,Rural,Middle
+Karnataka,Female,Secondary,High,Hindu,29,0,1,Rural,Poorest
+Uttar Pradesh,Male,No Education,Middle,Christian,50,1,1,Urban,Poorest
+Bihar,Male,Higher,High,Muslim,45,0,0,Urban,Richest
+Maharashtra,Male,Primary,Low,Sikh,25,0,1,Rural,Poorest
+Tamil Nadu,Male,Secondary,Middle,Sikh,18,0,1,Urban,Richer
+Maharashtra,Female,Primary,High,Sikh,54,0,1,Urban,Middle
+Gujarat,Male,No Education,Low,Muslim,39,0,0,Rural,Poorest
+Maharashtra,Male,Secondary,Middle,Christian,23,0,1,Rural,Poorest
+Maharashtra,Male,No Education,Middle,Other,38,1,1,Rural,Poorer
+Uttar Pradesh,Male,No Education,High,Christian,49,1,1,Urban,Poorer
+Uttar Pradesh,Female,Higher,Middle,Hindu,52,0,1,Rural,Poorer
+Rajasthan,Female,Primary,Low,Sikh,32,0,1,Urban,Middle
+Karnataka,Male,Secondary,Middle,Christian,22,0,1,Rural,Richer
+Tamil Nadu,Male,No Education,Low,Other,63,1,1,Urban,Richer
+Maharashtra,Male,No Education,Middle,Hindu,23,1,0,Urban,Richer
+Maharashtra,Male,Secondary,High,Muslim,42,0,1,Rural,Middle
+Bihar,Male,No Education,Low,Muslim,63,0,1,Rural,Middle
+Uttar Pradesh,Male,Higher,Middle,Other,57,1,1,Urban,Poorer
+Tamil Nadu,Female,Higher,Middle,Hindu,46,0,1,Urban,Poorest
+Odisha,Male,Higher,Middle,Sikh,24,0,1,Rural,Richest
+Rajasthan,Female,Higher,Low,Christian,57,0,1,Rural,Richest
+Karnataka,Female,No Education,Low,Hindu,30,0,0,Urban,Poorest
+West Bengal,Male,Secondary,Low,Muslim,55,1,1,Rural,Poorer
+Karnataka,Female,Secondary,High,Other,35,1,1,Urban,Poorest
+Gujarat,Female,Secondary,High,Other,19,0,1,Rural,Poorest
+Maharashtra,Female,Secondary,Low,Christian,25,0,1,Rural,Richest
+Rajasthan,Female,Primary,Middle,Other,28,0,0,Rural,Poorer
+Gujarat,Female,Secondary,High,Other,50,0,1,Urban,Middle
+Tamil Nadu,Female,Primary,Low,Hindu,55,0,1,Rural,Richest
+West Bengal,Male,Primary,Middle,Sikh,44,0,0,Urban,Middle
+Uttar Pradesh,Female,Higher,High,Christian,37,0,1,Rural,Poorer
+Rajasthan,Female,Primary,Middle,Hindu,29,0,1,Urban,Poorest
+Rajasthan,Female,No Education,Middle,Sikh,60,0,0,Urban,Richer
+Maharashtra,Male,Primary,Middle,Hindu,48,0,1,Rural,Richer
+Andhra Pradesh,Female,Higher,Middle,Hindu,44,0,1,Urban,Poorer
+Rajasthan,Male,Primary,High,Other,49,0,1,Urban,Richer
+Bihar,Female,No Education,High,Sikh,27,1,1,Urban,Middle
+West Bengal,Male,No Education,High,Christian,20,0,0,Urban,Richer
+West Bengal,Male,No Education,Low,Christian,62,0,0,Rural,Poorer
+Bihar,Female,Higher,High,Sikh,44,1,1,Rural,Poorer
+Odisha,Female,Higher,Middle,Other,52,1,1,Rural,Middle
+Bihar,Male,Secondary,High,Muslim,48,0,1,Urban,Richer
+Bihar,Female,Higher,Middle,Hindu,32,1,0,Urban,Richer
+West Bengal,Male,No Education,Low,Other,33,0,1,Rural,Poorest
+Karnataka,Male,No Education,Middle,Sikh,30,0,1,Rural,Richest
+West Bengal,Male,Higher,Middle,Hindu,52,0,1,Urban,Poorer
+Andhra Pradesh,Male,Primary,Middle,Christian,28,0,1,Rural,Poorest
+Maharashtra,Male,Higher,Low,Muslim,38,0,0,Rural,Poorer
+Gujarat,Female,Higher,High,Christian,28,0,1,Urban,Poorest
+Karnataka,Male,No Education,High,Sikh,47,0,1,Rural,Richest
+Uttar Pradesh,Male,Secondary,Low,Hindu,52,0,1,Urban,Poorest
+Gujarat,Female,No Education,Middle,Sikh,39,0,1,Rural,Poorer
+Maharashtra,Male,Secondary,High,Hindu,55,0,1,Urban,Richer
+Andhra Pradesh,Female,No Education,Low,Other,48,0,1,Urban,Poorer
+Andhra Pradesh,Female,Higher,High,Muslim,31,1,1,Urban,Middle
+Uttar Pradesh,Female,No Education,Low,Other,41,1,1,Urban,Middle
+Karnataka,Male,No Education,Middle,Other,49,1,1,Urban,Middle
+Odisha,Male,No Education,High,Sikh,53,0,1,Rural,Middle
+Bihar,Male,Higher,Low,Muslim,49,1,1,Rural,Richest
+Karnataka,Female,Higher,High,Hindu,32,0,1,Rural,Richer
+Odisha,Male,Higher,High,Hindu,60,0,1,Urban,Richer
+Andhra Pradesh,Female,Higher,High,Christian,52,0,1,Rural,Poorer
+West Bengal,Male,Secondary,High,Hindu,20,0,0,Urban,Poorest
+Maharashtra,Female,Secondary,Low,Sikh,33,0,1,Urban,Poorer
+Uttar Pradesh,Male,Primary,Middle,Other,22,0,1,Rural,Poorer
+Maharashtra,Male,Higher,Low,Other,38,1,1,Urban,Poorer
+Tamil Nadu,Male,Secondary,Low,Other,27,0,1,Rural,Poorer
+Tamil Nadu,Female,No Education,Low,Muslim,36,0,1,Urban,Richer
+Karnataka,Female,Higher,Middle,Hindu,42,1,1,Urban,Poorest
+Andhra Pradesh,Male,Primary,High,Sikh,21,0,1,Rural,Poorer
+Andhra Pradesh,Male,Primary,High,Muslim,46,0,1,Urban,Richer
+Bihar,Female,Primary,High,Christian,36,0,1,Rural,Poorer
+Bihar,Female,No Education,Middle,Sikh,60,0,1,Urban,Middle
+Bihar,Female,Secondary,High,Sikh,19,0,1,Rural,Poorer
+West Bengal,Male,No Education,Middle,Sikh,27,0,0,Urban,Poorer
+Gujarat,Female,Higher,High,Other,60,0,1,Rural,Richest
+Rajasthan,Male,Primary,High,Sikh,42,0,1,Rural,Middle
+Gujarat,Female,No Education,Low,Hindu,37,0,1,Urban,Poorest
+Maharashtra,Male,No Education,Middle,Sikh,36,0,1,Rural,Poorer
+Gujarat,Female,Secondary,Low,Other,40,0,1,Urban,Poorest
+West Bengal,Female,Secondary,Low,Sikh,41,1,1,Urban,Middle
+Maharashtra,Female,Primary,Low,Christian,28,0,1,Rural,Poorer
+Gujarat,Female,No Education,Middle,Christian,63,0,1,Rural,Richest
+West Bengal,Female,No Education,Middle,Other,51,0,1,Rural,Richer
+Rajasthan,Male,Secondary,High,Hindu,45,0,0,Rural,Richest
+Gujarat,Female,No Education,Low,Hindu,22,0,1,Rural,Richest
+West Bengal,Female,No Education,High,Muslim,22,0,1,Urban,Richer
+Bihar,Female,No Education,Low,Other,38,1,0,Rural,Richer
+Andhra Pradesh,Male,Secondary,Middle,Sikh,29,1,1,Urban,Richer
+Bihar,Female,Primary,Middle,Other,21,0,1,Rural,Poorer
+Andhra Pradesh,Male,Higher,Middle,Muslim,59,1,0,Rural,Poorest
+Uttar Pradesh,Female,Primary,Low,Other,37,0,1,Rural,Poorest
+Uttar Pradesh,Female,Higher,Middle,Other,55,0,1,Urban,Richer
+Uttar Pradesh,Male,No Education,Low,Muslim,42,0,0,Rural,Richest
+Rajasthan,Female,Primary,High,Hindu,31,0,1,Urban,Middle
+Bihar,Male,Higher,Low,Sikh,28,1,1,Urban,Richer
+Andhra Pradesh,Male,Secondary,High,Muslim,49,0,1,Urban,Richest
+West Bengal,Female,Secondary,Low,Christian,28,0,1,Rural,Richest
+Maharashtra,Male,Primary,High,Hindu,35,1,1,Urban,Poorer
+West Bengal,Female,Primary,Middle,Christian,44,0,1,Rural,Poorer
+Maharashtra,Female,No Education,High,Hindu,35,0,0,Urban,Poorest
+Tamil Nadu,Male,Primary,Middle,Sikh,40,0,1,Rural,Poorest
+West Bengal,Male,No Education,Middle,Sikh,28,1,1,Urban,Middle
+Gujarat,Male,No Education,High,Other,38,1,0,Rural,Middle
+Gujarat,Male,Secondary,Low,Christian,61,0,1,Rural,Middle
+Karnataka,Female,Secondary,Low,Hindu,22,0,1,Rural,Middle
+Bihar,Female,Higher,Low,Sikh,40,0,1,Urban,Richest
+Maharashtra,Male,Secondary,Low,Muslim,58,1,1,Urban,Richest
+Maharashtra,Female,Secondary,Low,Sikh,42,0,1,Rural,Poorest
+Bihar,Female,Primary,Middle,Muslim,58,0,1,Urban,Poorer
+Rajasthan,Female,Secondary,Low,Hindu,27,1,1,Urban,Poorer
+Karnataka,Female,Higher,Middle,Sikh,39,0,1,Urban,Richer
+Rajasthan,Male,Primary,Middle,Sikh,36,0,1,Urban,Richest
+Rajasthan,Male,Higher,Middle,Hindu,18,0,1,Urban,Middle
+Rajasthan,Female,Secondary,High,Sikh,24,1,1,Urban,Middle
+Bihar,Male,Higher,High,Muslim,21,0,1,Urban,Richer
+Rajasthan,Male,Primary,Middle,Sikh,18,0,1,Rural,Poorer
+Gujarat,Male,No Education,High,Christian,32,0,1,Rural,Middle
+Uttar Pradesh,Female,Higher,Low,Other,57,0,0,Urban,Poorer
+Tamil Nadu,Female,Higher,Low,Muslim,29,0,1,Rural,Richer
+Maharashtra,Female,Primary,Middle,Christian,39,0,1,Rural,Poorer
+Maharashtra,Male,Primary,Low,Hindu,39,1,0,Rural,Poorer
+Tamil Nadu,Female,Higher,Middle,Muslim,64,0,1,Urban,Poorer
+Bihar,Female,Secondary,Middle,Other,34,0,1,Urban,Middle
+West Bengal,Male,Higher,Low,Other,46,0,1,Urban,Poorest
+Bihar,Female,Primary,High,Hindu,63,0,1,Urban,Richest
+Maharashtra,Female,No Education,Low,Hindu,31,1,1,Urban,Poorer
+Maharashtra,Male,No Education,Low,Muslim,37,0,1,Rural,Poorer
+Tamil Nadu,Male,Secondary,Middle,Sikh,50,0,0,Urban,Poorer
+Rajasthan,Male,Higher,Middle,Hindu,60,0,1,Rural,Poorest
+Bihar,Female,No Education,Middle,Sikh,32,0,1,Urban,Richer
+Andhra Pradesh,Female,Higher,Middle,Christian,29,0,1,Rural,Middle
+Tamil Nadu,Female,Primary,High,Other,57,0,1,Urban,Poorest
+Gujarat,Male,No Education,High,Sikh,37,1,1,Urban,Poorer
+Maharashtra,Male,Secondary,High,Other,47,1,1,Urban,Poorest
+Tamil Nadu,Female,Primary,Middle,Sikh,55,0,0,Urban,Poorest
+Bihar,Female,Secondary,Middle,Christian,20,1,0,Urban,Poorest
+Maharashtra,Male,Primary,Middle,Hindu,45,0,1,Urban,Richer
+West Bengal,Male,No Education,High,Christian,43,0,1,Rural,Richest
+Tamil Nadu,Male,Secondary,Middle,Hindu,47,0,1,Urban,Middle
+Karnataka,Male,Secondary,Low,Hindu,30,0,1,Rural,Richer
+Maharashtra,Female,Primary,Low,Other,30,0,0,Urban,Richer
+Bihar,Male,Secondary,Middle,Christian,19,0,1,Rural,Richest
+Uttar Pradesh,Female,Primary,Low,Sikh,54,0,1,Rural,Richer
+Andhra Pradesh,Female,Primary,Low,Christian,55,0,1,Rural,Poorest
+Odisha,Female,Primary,High,Other,19,0,1,Rural,Poorest
+Rajasthan,Male,Primary,Middle,Hindu,53,1,1,Rural,Poorer
+Odisha,Male,No Education,Middle,Other,43,0,0,Rural,Richer
+Bihar,Male,Primary,High,Muslim,28,0,1,Urban,Poorer
+Gujarat,Male,Higher,Low,Muslim,25,0,1,Rural,Middle
+Gujarat,Female,Secondary,Low,Sikh,61,0,1,Urban,Poorest
+Uttar Pradesh,Male,Higher,Middle,Other,57,1,1,Urban,Middle
+Rajasthan,Male,No Education,Low,Sikh,60,0,0,Rural,Richest
+Karnataka,Female,Higher,High,Sikh,39,0,0,Rural,Poorest
+Uttar Pradesh,Male,Secondary,High,Muslim,37,1,1,Urban,Middle
+Odisha,Female,Higher,Middle,Sikh,25,0,1,Rural,Richest
+Uttar Pradesh,Female,No Education,High,Muslim,46,0,0,Rural,Middle
+Odisha,Female,Primary,High,Hindu,57,0,0,Rural,Richest
+Maharashtra,Female,Higher,Middle,Other,43,1,0,Rural,Richest
+Gujarat,Female,No Education,High,Sikh,47,0,1,Rural,Poorest
+Maharashtra,Female,No Education,High,Muslim,34,0,0,Rural,Poorer
+Andhra Pradesh,Female,Secondary,High,Christian,37,0,1,Rural,Richest
+Rajasthan,Female,Secondary,Low,Sikh,33,0,1,Urban,Richest
+Karnataka,Male,Higher,Middle,Hindu,63,0,1,Rural,Poorest
+Odisha,Male,Primary,Middle,Hindu,60,0,0,Urban,Poorer
+Karnataka,Male,No Education,Middle,Christian,24,0,1,Urban,Richer
+Odisha,Male,Higher,Low,Muslim,33,1,0,Urban,Richer
+Bihar,Female,No Education,Low,Sikh,62,1,1,Urban,Poorer
+Uttar Pradesh,Male,No Education,Middle,Muslim,64,0,1,Rural,Middle
+Andhra Pradesh,Female,Primary,Low,Hindu,44,1,1,Urban,Poorest
+Gujarat,Male,Primary,Middle,Muslim,40,0,1,Urban,Poorer
+Odisha,Male,Higher,Low,Hindu,41,0,1,Urban,Richer
+Karnataka,Male,Primary,High,Muslim,26,0,1,Urban,Richest
+Andhra Pradesh,Female,Primary,High,Christian,52,1,1,Urban,Richer
+West Bengal,Male,Higher,Middle,Other,37,1,1,Rural,Richest
+West Bengal,Female,Primary,Low,Christian,54,0,1,Rural,Poorest
+Maharashtra,Female,Secondary,Low,Christian,59,1,1,Urban,Richest
+Gujarat,Male,No Education,High,Other,34,0,1,Rural,Poorer
+Bihar,Male,No Education,High,Other,64,1,1,Rural,Richest
+Karnataka,Male,No Education,Low,Sikh,48,1,1,Urban,Middle
+Uttar Pradesh,Female,No Education,Low,Sikh,25,0,1,Urban,Poorer
+Uttar Pradesh,Male,Higher,Low,Christian,32,1,1,Urban,Poorest
+Karnataka,Female,No Education,Low,Christian,48,0,1,Rural,Poorer
+Rajasthan,Female,No Education,Low,Hindu,47,0,0,Urban,Middle
+Bihar,Male,No Education,Low,Hindu,63,0,1,Rural,Poorest
+Andhra Pradesh,Male,No Education,Middle,Sikh,37,0,1,Rural,Richer
+Odisha,Female,Secondary,Low,Sikh,56,1,1,Rural,Middle
+Rajasthan,Female,No Education,High,Hindu,29,0,1,Urban,Poorest
+Odisha,Female,Secondary,Middle,Hindu,34,0,1,Rural,Richest
+Odisha,Male,Higher,Low,Muslim,59,1,0,Urban,Poorer
+Rajasthan,Female,Primary,High,Muslim,47,1,1,Urban,Poorest
+Maharashtra,Male,No Education,Middle,Hindu,46,0,0,Urban,Poorer
+West Bengal,Female,Primary,High,Muslim,36,1,0,Urban,Richest
+Odisha,Female,Primary,Low,Other,63,0,1,Urban,Poorest
+Rajasthan,Male,Higher,Low,Sikh,28,1,1,Rural,Richer
+Rajasthan,Female,Primary,Low,Sikh,51,0,1,Rural,Middle
+Tamil Nadu,Male,Secondary,Low,Hindu,24,0,1,Rural,Poorest
+Maharashtra,Male,Primary,Middle,Christian,61,0,0,Rural,Richest
+Gujarat,Female,Primary,Middle,Hindu,51,0,1,Rural,Poorest
+Tamil Nadu,Male,Primary,High,Muslim,37,0,1,Urban,Poorer
+Tamil Nadu,Male,No Education,Low,Christian,55,0,1,Urban,Poorest
+Karnataka,Female,No Education,High,Muslim,41,0,1,Rural,Richer
+West Bengal,Male,Secondary,Middle,Other,27,1,1,Rural,Poorest
+Rajasthan,Male,Secondary,Low,Muslim,49,0,1,Rural,Middle
+West Bengal,Male,No Education,Low,Other,32,0,0,Urban,Poorest
+Bihar,Female,Secondary,Middle,Other,54,0,1,Urban,Poorer
+Karnataka,Male,No Education,Middle,Muslim,37,0,1,Urban,Poorest
+Gujarat,Female,Higher,Middle,Muslim,20,1,0,Rural,Richer
+West Bengal,Female,Primary,Middle,Other,54,1,0,Rural,Richest
+Uttar Pradesh,Male,Primary,Middle,Christian,57,0,1,Rural,Poorest
+Odisha,Male,Secondary,Low,Other,25,0,1,Rural,Poorest
+Bihar,Male,No Education,Middle,Sikh,57,1,0,Urban,Middle
+Maharashtra,Female,No Education,Low,Other,61,0,1,Rural,Richer
+Gujarat,Male,Secondary,Low,Christian,40,1,1,Rural,Richest
+Bihar,Male,No Education,Middle,Sikh,57,0,1,Rural,Poorer
+Odisha,Male,Higher,Middle,Hindu,28,1,1,Urban,Poorest
+Karnataka,Male,Primary,Low,Hindu,63,0,1,Urban,Richest
+Odisha,Male,Secondary,Middle,Christian,25,0,1,Rural,Poorer
+Tamil Nadu,Female,Secondary,Middle,Other,46,1,1,Urban,Richer
+Odisha,Female,No Education,Middle,Muslim,47,0,1,Urban,Richer
+Tamil Nadu,Male,Secondary,High,Christian,27,0,1,Urban,Richest
+Karnataka,Male,Higher,Low,Sikh,56,0,0,Urban,Poorer
+Andhra Pradesh,Male,No Education,High,Sikh,45,0,1,Urban,Richer
+Tamil Nadu,Male,No Education,Middle,Hindu,53,0,1,Rural,Richest
+Maharashtra,Female,No Education,High,Sikh,30,0,1,Rural,Richer
+Odisha,Male,No Education,Middle,Christian,49,0,1,Rural,Richer
+Odisha,Female,Higher,High,Sikh,53,0,1,Urban,Richer
+Maharashtra,Female,No Education,Middle,Christian,54,1,1,Urban,Middle
+Uttar Pradesh,Male,Secondary,High,Muslim,43,0,1,Urban,Poorer
+Rajasthan,Female,Higher,High,Hindu,39,0,1,Urban,Richest
+Andhra Pradesh,Female,Primary,High,Sikh,21,0,1,Rural,Richest
+Gujarat,Female,Primary,Low,Christian,48,0,1,Rural,Poorer
+Tamil Nadu,Female,Secondary,High,Other,35,0,1,Rural,Poorer
+Maharashtra,Male,Secondary,Low,Hindu,55,0,1,Rural,Poorer
+Karnataka,Male,Higher,Middle,Muslim,41,0,0,Rural,Poorer
+Tamil Nadu,Female,Primary,High,Christian,40,0,1,Rural,Poorest
+Rajasthan,Male,Primary,Middle,Muslim,39,0,1,Urban,Richest
+Karnataka,Male,Primary,Middle,Muslim,19,0,1,Urban,Poorest
+Bihar,Male,Primary,High,Sikh,48,0,1,Rural,Richer
+Odisha,Male,Primary,Low,Sikh,28,0,1,Urban,Richer
+Bihar,Male,No Education,High,Christian,45,0,1,Rural,Richest
+Tamil Nadu,Female,Secondary,Middle,Other,63,0,1,Rural,Richer
+Rajasthan,Male,No Education,Middle,Christian,49,1,1,Urban,Poorer
+Andhra Pradesh,Male,Primary,High,Other,22,0,1,Rural,Poorest
+Tamil Nadu,Male,Higher,Low,Muslim,55,0,1,Rural,Poorer
+Maharashtra,Male,Higher,Low,Hindu,27,0,1,Rural,Richer
+West Bengal,Female,Primary,Middle,Christian,57,0,1,Urban,Poorest
+Tamil Nadu,Female,Primary,Middle,Christian,63,0,1,Urban,Poorer
+Odisha,Female,Higher,Low,Other,41,0,0,Urban,Richest
+Odisha,Female,No Education,High,Muslim,52,1,1,Urban,Poorer
+Tamil Nadu,Male,No Education,Middle,Muslim,61,0,1,Rural,Richer
+Karnataka,Female,Primary,Low,Other,40,1,1,Urban,Poorest
+West Bengal,Male,No Education,Middle,Muslim,34,0,1,Urban,Richest
+Maharashtra,Male,Higher,High,Sikh,18,0,1,Urban,Poorest
+Tamil Nadu,Male,No Education,Low,Hindu,48,0,1,Rural,Richest
+Karnataka,Male,Primary,Middle,Christian,48,0,0,Urban,Poorest
+Odisha,Male,Higher,High,Hindu,59,0,1,Urban,Richer
+Odisha,Female,No Education,Middle,Christian,59,0,1,Rural,Richest
+Rajasthan,Female,Secondary,High,Sikh,51,0,1,Rural,Middle
+Tamil Nadu,Female,Higher,High,Muslim,26,1,1,Rural,Poorest
+West Bengal,Female,Higher,Low,Other,39,1,1,Rural,Poorest
+Uttar Pradesh,Male,Secondary,High,Sikh,30,0,0,Urban,Poorer
+West Bengal,Female,Secondary,Middle,Hindu,42,0,1,Rural,Richest
+Odisha,Male,Higher,High,Other,35,0,1,Urban,Middle
+Odisha,Female,Secondary,High,Muslim,29,0,1,Urban,Richer
+Bihar,Male,Primary,Low,Sikh,57,0,1,Urban,Poorer
+Odisha,Male,Primary,High,Other,34,0,1,Urban,Middle
+Maharashtra,Female,Primary,High,Sikh,32,0,1,Urban,Richest
+Gujarat,Male,Higher,Middle,Sikh,59,0,1,Rural,Middle
+Tamil Nadu,Male,Secondary,Low,Muslim,32,1,1,Urban,Poorest
+West Bengal,Female,Secondary,Low,Christian,32,0,1,Urban,Poorest
+Gujarat,Male,No Education,Low,Other,56,1,1,Urban,Poorer
+Karnataka,Female,No Education,High,Muslim,30,0,1,Rural,Richest
+Uttar Pradesh,Female,Secondary,Low,Sikh,34,0,1,Urban,Richest
+Maharashtra,Female,Secondary,High,Muslim,49,0,1,Urban,Middle
+West Bengal,Male,Secondary,High,Christian,26,0,1,Rural,Poorer
+Gujarat,Male,Higher,Middle,Other,57,0,1,Urban,Richest
+Uttar Pradesh,Male,Secondary,Middle,Christian,37,0,1,Urban,Poorest
+Bihar,Female,No Education,Middle,Hindu,43,0,0,Rural,Middle
+Maharashtra,Male,Higher,Middle,Other,44,0,0,Urban,Richer
+Maharashtra,Female,Secondary,Middle,Christian,38,0,1,Urban,Poorest
+Bihar,Female,No Education,High,Sikh,35,0,1,Urban,Poorer
+Tamil Nadu,Male,Higher,High,Other,30,0,1,Urban,Richest
+Bihar,Female,Secondary,Low,Other,33,0,1,Urban,Poorest
+Maharashtra,Male,Secondary,High,Muslim,26,0,1,Rural,Richer
+Maharashtra,Male,Secondary,High,Sikh,29,0,0,Rural,Richer
+Gujarat,Male,Higher,Middle,Hindu,61,1,1,Rural,Poorer
+Odisha,Male,No Education,High,Christian,55,0,1,Urban,Poorest
+Uttar Pradesh,Male,No Education,Middle,Muslim,36,1,1,Urban,Middle
+Bihar,Female,Primary,Low,Christian,24,0,1,Urban,Poorest
+Uttar Pradesh,Female,Secondary,Low,Hindu,52,0,1,Rural,Richer
+Bihar,Female,Primary,High,Hindu,35,0,1,Urban,Poorer
+Karnataka,Male,Primary,Low,Other,33,0,1,Urban,Poorer
+Maharashtra,Male,No Education,High,Hindu,56,0,1,Urban,Middle
+Odisha,Male,Higher,Low,Christian,21,1,1,Rural,Poorer
+Gujarat,Female,Higher,Middle,Sikh,42,0,1,Rural,Poorer
+Odisha,Male,No Education,Middle,Sikh,49,0,0,Urban,Poorer
+Odisha,Female,Higher,Middle,Other,57,0,1,Urban,Poorer
+Odisha,Female,Primary,Middle,Christian,30,1,0,Urban,Poorer
+Uttar Pradesh,Male,Secondary,High,Christian,62,0,1,Rural,Richer
+Bihar,Male,No Education,Low,Hindu,34,0,1,Rural,Poorest
+Andhra Pradesh,Female,Secondary,High,Christian,54,0,1,Rural,Richest
+Karnataka,Male,Higher,Middle,Muslim,23,1,1,Urban,Poorer
+West Bengal,Female,Secondary,High,Hindu,36,1,0,Rural,Richest
+Odisha,Male,Higher,Low,Muslim,30,0,1,Urban,Richest
+Tamil Nadu,Male,Higher,High,Other,43,1,1,Urban,Richer
+Uttar Pradesh,Female,Primary,Low,Sikh,31,1,1,Rural,Poorer
+Gujarat,Male,Higher,High,Other,48,0,0,Urban,Richest
+West Bengal,Female,Primary,Low,Sikh,21,0,1,Rural,Poorer
+Andhra Pradesh,Male,Primary,Low,Other,56,0,0,Urban,Middle
+Tamil Nadu,Female,Primary,Middle,Christian,25,1,0,Urban,Middle
+Andhra Pradesh,Female,No Education,Low,Muslim,42,0,1,Rural,Middle
+West Bengal,Male,No Education,Middle,Sikh,30,1,1,Urban,Richest
+Odisha,Female,Higher,Middle,Hindu,49,0,1,Urban,Middle
+Tamil Nadu,Male,Primary,Middle,Muslim,55,1,0,Urban,Richer
+Andhra Pradesh,Male,No Education,High,Hindu,55,0,1,Urban,Richer
+Gujarat,Male,Primary,High,Muslim,45,0,1,Urban,Richest
+Bihar,Female,Secondary,High,Muslim,47,1,1,Urban,Poorer
+Maharashtra,Female,Secondary,High,Other,20,1,1,Urban,Poorest
+Bihar,Male,Secondary,Low,Sikh,45,1,1,Urban,Poorer
+West Bengal,Male,Higher,Low,Sikh,20,0,1,Rural,Poorer
+Uttar Pradesh,Female,Primary,High,Muslim,62,0,1,Rural,Poorer
+Maharashtra,Male,Secondary,Low,Christian,51,0,1,Urban,Poorer
+Karnataka,Male,No Education,Low,Christian,33,0,1,Urban,Poorest
+Gujarat,Female,Secondary,Middle,Hindu,39,0,1,Rural,Middle
+Karnataka,Male,Secondary,Middle,Hindu,49,0,1,Urban,Poorer
+Tamil Nadu,Female,Secondary,Middle,Other,55,0,1,Rural,Richer
+Maharashtra,Male,Higher,Middle,Muslim,25,1,0,Rural,Richest
+Karnataka,Female,No Education,Low,Hindu,25,0,1,Rural,Richest
+Karnataka,Male,Primary,High,Hindu,23,0,1,Urban,Richer
+Andhra Pradesh,Male,No Education,Low,Muslim,31,0,1,Urban,Poorer
+Bihar,Female,Primary,Low,Other,49,0,1,Urban,Poorest
+Andhra Pradesh,Male,Higher,Low,Hindu,52,0,1,Rural,Middle
+Maharashtra,Female,Higher,Middle,Other,27,1,1,Rural,Richest
+Maharashtra,Male,Higher,Middle,Sikh,20,1,1,Rural,Middle
+West Bengal,Female,Higher,Middle,Other,29,1,1,Urban,Poorest
+Andhra Pradesh,Female,Primary,High,Christian,48,1,1,Rural,Richest
+Rajasthan,Female,Secondary,Low,Christian,46,0,0,Rural,Middle
+Bihar,Female,Primary,High,Other,22,0,1,Urban,Poorest
+Maharashtra,Male,No Education,Middle,Christian,42,0,0,Rural,Middle
+West Bengal,Male,Higher,High,Sikh,58,0,1,Rural,Poorer
+Andhra Pradesh,Female,Higher,Low,Muslim,48,0,1,Urban,Poorest
+Bihar,Female,No Education,Low,Christian,38,0,1,Urban,Middle
+Andhra Pradesh,Female,Primary,Middle,Christian,37,0,1,Rural,Poorer
+Karnataka,Male,Secondary,Middle,Other,56,0,1,Urban,Poorer
+West Bengal,Male,Secondary,High,Sikh,39,0,1,Rural,Poorest
+Bihar,Male,No Education,Middle,Muslim,21,0,1,Urban,Richer
+Odisha,Male,Secondary,Middle,Other,30,0,1,Rural,Richest
+Tamil Nadu,Female,Primary,Low,Other,62,0,1,Urban,Poorest
+Tamil Nadu,Female,Primary,Middle,Sikh,59,0,1,Rural,Poorer
+Bihar,Female,No Education,Middle,Muslim,37,1,1,Urban,Poorer
+Andhra Pradesh,Male,Primary,Low,Sikh,30,0,1,Urban,Poorest
+West Bengal,Male,Higher,Low,Muslim,34,0,1,Urban,Richer
+Tamil Nadu,Male,No Education,High,Sikh,53,1,1,Urban,Richest
+West Bengal,Female,Primary,Middle,Other,50,0,1,Urban,Middle
+Tamil Nadu,Female,No Education,Low,Other,18,0,0,Urban,Poorest
+Karnataka,Male,Secondary,High,Hindu,32,0,1,Urban,Richest
+Andhra Pradesh,Female,Primary,High,Christian,30,0,1,Rural,Richest
+Karnataka,Male,Higher,Middle,Sikh,34,1,1,Rural,Poorer
+Tamil Nadu,Male,Primary,Middle,Hindu,41,1,1,Urban,Middle
+Odisha,Female,No Education,High,Christian,25,0,1,Urban,Poorest
+Odisha,Male,No Education,Low,Sikh,44,0,1,Rural,Poorer
+Karnataka,Female,Primary,High,Muslim,62,0,1,Rural,Poorer
+Odisha,Male,Higher,Middle,Christian,40,0,1,Urban,Richer
+Tamil Nadu,Female,Higher,Low,Other,63,0,1,Rural,Richest
+Bihar,Female,Higher,Low,Hindu,25,0,1,Rural,Poorest
+Karnataka,Female,No Education,High,Christian,25,0,0,Urban,Poorest
+Uttar Pradesh,Male,Primary,Middle,Christian,43,0,1,Urban,Poorest
+Andhra Pradesh,Male,Secondary,High,Other,64,0,1,Urban,Poorer
+Odisha,Female,No Education,High,Sikh,30,0,1,Rural,Richer
+Odisha,Female,Higher,High,Muslim,56,0,0,Urban,Middle
+Maharashtra,Male,Primary,Low,Other,54,1,1,Urban,Poorer
+Rajasthan,Male,Higher,Low,Muslim,45,0,1,Rural,Middle
+Karnataka,Male,Secondary,Middle,Sikh,42,0,1,Urban,Richer
+Gujarat,Female,Higher,Middle,Christian,33,1,1,Rural,Richest
+Odisha,Male,Higher,High,Muslim,19,0,0,Rural,Poorest
+Andhra Pradesh,Male,Secondary,High,Hindu,35,0,1,Rural,Middle
+Uttar Pradesh,Female,Primary,High,Hindu,34,0,1,Rural,Poorer
+Odisha,Male,No Education,Middle,Other,47,0,1,Rural,Middle
+Uttar Pradesh,Male,Primary,Low,Sikh,56,0,0,Rural,Richest
+Tamil Nadu,Male,Secondary,Low,Other,30,0,1,Urban,Poorest
+Tamil Nadu,Female,Higher,High,Other,49,0,1,Urban,Middle
+Rajasthan,Female,Primary,High,Other,46,1,1,Urban,Richest
+Bihar,Female,No Education,High,Hindu,63,0,0,Rural,Poorer
+Gujarat,Female,Secondary,High,Hindu,47,0,1,Urban,Richer
+Maharashtra,Female,Primary,Middle,Other,35,1,1,Rural,Poorer
+Rajasthan,Female,No Education,Low,Hindu,30,0,1,Urban,Poorest
+West Bengal,Female,Secondary,High,Sikh,60,1,1,Rural,Poorer
+Maharashtra,Male,No Education,Middle,Other,38,0,1,Urban,Poorer
+Karnataka,Male,Secondary,High,Hindu,47,1,1,Rural,Poorer
+Andhra Pradesh,Female,Higher,High,Muslim,38,0,0,Urban,Poorer
+West Bengal,Male,Primary,Low,Other,34,1,1,Rural,Poorest
+West Bengal,Male,No Education,High,Other,57,1,0,Urban,Richest
+Rajasthan,Female,Secondary,Low,Sikh,36,0,1,Rural,Middle
+Bihar,Male,No Education,Low,Christian,32,0,1,Urban,Richer
+Rajasthan,Male,No Education,Low,Christian,26,0,1,Urban,Middle
+Karnataka,Male,Primary,Middle,Sikh,27,0,0,Urban,Middle
+Odisha,Male,Higher,Middle,Sikh,61,0,1,Rural,Richer
+Odisha,Male,No Education,Low,Sikh,48,0,1,Rural,Poorest
+Bihar,Female,Secondary,High,Christian,40,0,0,Rural,Richer
+Karnataka,Female,Secondary,Low,Sikh,47,0,0,Rural,Poorest
+Bihar,Female,Higher,High,Hindu,50,0,0,Rural,Middle
+Uttar Pradesh,Male,Secondary,Low,Other,26,0,1,Urban,Poorest
+Odisha,Female,Higher,High,Other,64,0,1,Rural,Richest
+West Bengal,Male,Secondary,Middle,Muslim,18,0,1,Urban,Richer
+Gujarat,Male,Primary,High,Muslim,61,0,0,Urban,Richest
+Andhra Pradesh,Male,No Education,Low,Other,52,0,1,Rural,Middle
+Karnataka,Male,Primary,Middle,Hindu,28,0,1,Urban,Richer
+Maharashtra,Female,No Education,High,Christian,51,0,1,Rural,Middle
+Bihar,Female,No Education,High,Christian,33,0,1,Rural,Richest
+Andhra Pradesh,Male,No Education,High,Hindu,26,1,0,Rural,Middle
+Maharashtra,Female,Primary,High,Christian,49,0,0,Urban,Richer
+Andhra Pradesh,Male,No Education,High,Sikh,32,0,0,Rural,Richer
+Gujarat,Female,Primary,Middle,Other,29,0,1,Rural,Middle
+Maharashtra,Female,Higher,Middle,Other,50,1,0,Rural,Richer
+Rajasthan,Male,Secondary,Middle,Hindu,62,1,1,Urban,Richer
+Tamil Nadu,Female,Secondary,Middle,Christian,31,0,1,Rural,Middle
+Rajasthan,Male,No Education,Low,Muslim,25,0,1,Urban,Richest
+Odisha,Female,Primary,Middle,Muslim,25,1,1,Urban,Richer
+Tamil Nadu,Male,Secondary,High,Christian,44,0,1,Rural,Richer
+Rajasthan,Male,Primary,High,Muslim,29,0,1,Urban,Richer
+Tamil Nadu,Female,Primary,Middle,Hindu,18,0,0,Urban,Richer
+Tamil Nadu,Female,No Education,High,Hindu,60,0,1,Rural,Middle
+West Bengal,Male,Secondary,Middle,Christian,57,1,1,Rural,Richest
+Bihar,Female,No Education,High,Muslim,59,1,1,Rural,Richest
+Bihar,Female,No Education,Low,Hindu,28,1,1,Urban,Poorest
+West Bengal,Male,Secondary,Low,Hindu,56,0,1,Rural,Richer
+Andhra Pradesh,Male,Secondary,Middle,Sikh,60,1,1,Urban,Richer
+Uttar Pradesh,Female,Higher,Middle,Sikh,48,0,1,Urban,Poorest
+Andhra Pradesh,Male,Higher,Middle,Hindu,34,0,1,Urban,Richest
+Maharashtra,Male,Primary,High,Christian,50,1,0,Urban,Poorer
+Maharashtra,Male,Secondary,Middle,Other,49,0,1,Urban,Poorer
+Tamil Nadu,Female,Higher,Low,Other,46,0,1,Rural,Richest
+Rajasthan,Female,Primary,High,Hindu,38,0,1,Rural,Richer
+Rajasthan,Male,Primary,Middle,Hindu,38,1,1,Urban,Poorer
+Bihar,Female,Primary,High,Hindu,57,0,1,Urban,Middle
+Karnataka,Male,Higher,High,Christian,40,0,0,Rural,Middle
+Andhra Pradesh,Female,Secondary,Middle,Sikh,23,0,1,Rural,Poorest
+Odisha,Male,No Education,High,Hindu,39,1,1,Urban,Richest
+Gujarat,Male,Primary,Low,Hindu,55,1,1,Urban,Richest
+Rajasthan,Female,Higher,Low,Muslim,54,0,0,Rural,Poorer
+Gujarat,Male,Higher,High,Christian,62,0,1,Rural,Richer
+Tamil Nadu,Female,No Education,Middle,Hindu,25,0,1,Urban,Richest
+Gujarat,Female,No Education,High,Muslim,58,1,1,Rural,Poorer
+Odisha,Male,Higher,Low,Other,52,0,1,Rural,Poorer
+West Bengal,Male,Secondary,High,Hindu,28,1,0,Urban,Richest
+Odisha,Female,No Education,High,Hindu,41,0,1,Urban,Poorer
+Gujarat,Male,Higher,Low,Muslim,38,1,1,Urban,Poorest
+Odisha,Male,No Education,High,Christian,19,1,1,Rural,Poorest
+Uttar Pradesh,Male,Secondary,High,Hindu,57,0,1,Urban,Richest
+Tamil Nadu,Male,Primary,Middle,Other,36,1,0,Rural,Richer
+Andhra Pradesh,Male,No Education,Middle,Hindu,56,0,1,Urban,Poorest
+West Bengal,Female,Secondary,Low,Other,45,0,1,Urban,Poorest
+Rajasthan,Female,Higher,Low,Sikh,34,0,1,Rural,Richest
+Maharashtra,Male,No Education,Low,Sikh,23,1,1,Rural,Middle
+Andhra Pradesh,Male,No Education,Middle,Other,36,0,1,Urban,Poorer
+Maharashtra,Male,Higher,Low,Christian,55,0,1,Urban,Poorest
+Tamil Nadu,Female,Primary,Low,Hindu,45,0,0,Rural,Middle
+West Bengal,Male,Higher,Low,Hindu,19,0,1,Urban,Richer
+Bihar,Female,No Education,Middle,Sikh,55,0,1,Rural,Middle
+Rajasthan,Female,Higher,High,Other,54,0,1,Rural,Richest
+Uttar Pradesh,Female,Secondary,Low,Hindu,21,1,1,Urban,Richer
+Bihar,Male,Higher,High,Hindu,39,0,1,Rural,Richer
+Tamil Nadu,Female,No Education,Low,Christian,43,0,1,Rural,Middle
+Andhra Pradesh,Male,Higher,High,Muslim,60,0,1,Rural,Richest
+Uttar Pradesh,Female,Primary,Middle,Sikh,53,0,1,Urban,Poorest
+Odisha,Male,Higher,Middle,Sikh,30,1,1,Rural,Middle
+Gujarat,Female,Primary,Low,Muslim,49,1,0,Urban,Poorest
+Uttar Pradesh,Male,Secondary,High,Hindu,34,0,1,Urban,Middle
+Tamil Nadu,Female,Primary,Middle,Christian,58,1,0,Urban,Poorest
+Karnataka,Male,Higher,Low,Christian,53,1,1,Rural,Middle
+Gujarat,Male,No Education,Low,Sikh,63,1,1,Rural,Richer
+Maharashtra,Male,Primary,Middle,Christian,36,0,1,Urban,Poorer
+Rajasthan,Male,Secondary,Middle,Muslim,52,1,1,Urban,Richer
+Maharashtra,Female,Primary,Low,Hindu,63,0,1,Rural,Poorest
+Uttar Pradesh,Female,Primary,High,Muslim,57,0,0,Urban,Richest
+Maharashtra,Male,Primary,High,Other,45,0,1,Urban,Richer
+Tamil Nadu,Female,Secondary,High,Sikh,18,0,1,Rural,Poorer
+Odisha,Male,Higher,Low,Christian,59,0,1,Urban,Poorest
+Andhra Pradesh,Male,Primary,Middle,Other,35,0,1,Rural,Richer
+Rajasthan,Female,Primary,Low,Christian,57,0,1,Rural,Middle
+Maharashtra,Male,No Education,Middle,Hindu,50,1,1,Urban,Richest
+Maharashtra,Male,Secondary,High,Hindu,29,1,1,Rural,Poorest
+Uttar Pradesh,Female,Primary,High,Hindu,25,0,1,Rural,Richer
+Andhra Pradesh,Male,Secondary,Middle,Christian,41,1,0,Rural,Poorest
+Bihar,Male,Primary,Middle,Other,33,1,0,Urban,Middle
+Maharashtra,Male,Higher,Low,Hindu,21,1,1,Urban,Poorer
+Tamil Nadu,Male,Higher,High,Other,55,0,1,Urban,Richer
+Karnataka,Female,Primary,Low,Christian,61,0,1,Rural,Poorest
+Rajasthan,Female,Higher,Low,Other,44,1,0,Rural,Poorest
+Maharashtra,Female,Primary,Low,Christian,26,0,1,Urban,Poorest
+Tamil Nadu,Male,Higher,High,Christian,64,0,1,Urban,Poorer
+Tamil Nadu,Male,No Education,Low,Sikh,33,0,1,Rural,Poorest
+Rajasthan,Female,No Education,Low,Christian,29,0,1,Urban,Richest
+Bihar,Male,No Education,Low,Christian,48,0,0,Urban,Richest
+Tamil Nadu,Male,Secondary,Low,Muslim,41,0,1,Urban,Poorest
+Karnataka,Male,Secondary,Low,Hindu,31,0,1,Urban,Richest
+Tamil Nadu,Male,No Education,Low,Sikh,62,1,0,Urban,Richer
+Tamil Nadu,Female,Secondary,High,Sikh,42,1,0,Rural,Richest
+Tamil Nadu,Female,Higher,Low,Sikh,51,0,0,Urban,Poorest
+Odisha,Female,Primary,Middle,Muslim,20,1,0,Urban,Middle
+Odisha,Male,Primary,Low,Christian,41,0,1,Rural,Richer
+Bihar,Female,Primary,Low,Hindu,59,0,1,Rural,Poorer
+Maharashtra,Female,No Education,High,Other,26,1,0,Rural,Poorest
+Tamil Nadu,Male,Secondary,High,Christian,43,1,0,Rural,Poorer
+Andhra Pradesh,Male,Higher,Middle,Muslim,37,1,1,Urban,Middle
+Maharashtra,Female,Higher,Middle,Christian,57,0,1,Urban,Poorer
+Bihar,Female,No Education,High,Christian,27,1,1,Urban,Poorest
+West Bengal,Female,Higher,High,Muslim,36,0,1,Urban,Poorest
+Maharashtra,Female,Higher,Low,Sikh,20,1,1,Rural,Middle
+Maharashtra,Male,Higher,High,Sikh,41,1,1,Rural,Poorest
+Gujarat,Female,Higher,Middle,Hindu,22,0,0,Urban,Middle
+Uttar Pradesh,Female,Secondary,Low,Hindu,20,0,1,Urban,Middle
+Gujarat,Male,Higher,Middle,Sikh,44,1,1,Urban,Poorest
+Karnataka,Female,Primary,Low,Other,33,0,1,Urban,Richest
+Odisha,Male,No Education,High,Christian,32,0,1,Rural,Middle
+Odisha,Male,Secondary,Middle,Other,52,1,1,Urban,Poorest
+Uttar Pradesh,Male,Higher,Low,Christian,29,0,1,Rural,Richest
+Rajasthan,Female,Secondary,Low,Sikh,58,1,1,Rural,Middle
+Rajasthan,Female,Higher,High,Hindu,61,0,0,Rural,Richest
+Bihar,Male,Primary,High,Hindu,43,0,0,Rural,Richer
+Uttar Pradesh,Female,No Education,High,Other,64,1,1,Urban,Richer
+Maharashtra,Female,Higher,Middle,Hindu,51,0,1,Urban,Richest
+Rajasthan,Male,Higher,Low,Sikh,40,0,1,Urban,Middle
+Tamil Nadu,Male,Higher,High,Other,48,1,1,Urban,Poorest
+Andhra Pradesh,Female,Higher,Middle,Christian,37,0,0,Rural,Poorer
+Maharashtra,Male,No Education,Middle,Hindu,29,0,0,Rural,Poorest
+Karnataka,Female,No Education,Middle,Muslim,40,0,1,Rural,Poorer
+Tamil Nadu,Female,Primary,High,Hindu,21,1,1,Urban,Poorer
+Tamil Nadu,Female,No Education,High,Christian,40,1,1,Rural,Middle
+Uttar Pradesh,Female,Higher,Low,Other,18,1,1,Rural,Richest
+Bihar,Male,Primary,Low,Christian,42,0,1,Rural,Poorest
+Karnataka,Male,Primary,High,Muslim,19,1,1,Rural,Richest
+Rajasthan,Male,Primary,Middle,Sikh,47,0,0,Urban,Richer
+Uttar Pradesh,Male,Higher,Middle,Hindu,20,0,1,Rural,Middle
+Rajasthan,Female,Secondary,Middle,Other,38,0,1,Rural,Middle
+Uttar Pradesh,Female,Higher,Low,Sikh,42,1,1,Urban,Richer
+Uttar Pradesh,Male,No Education,Middle,Christian,37,1,1,Urban,Poorest
+Uttar Pradesh,Female,No Education,Low,Other,39,0,1,Urban,Richer
+Bihar,Female,Higher,Low,Sikh,38,0,1,Rural,Poorest
+Uttar Pradesh,Female,Higher,Middle,Other,50,1,0,Rural,Poorer
+West Bengal,Male,Primary,Middle,Muslim,55,0,1,Rural,Middle
+Andhra Pradesh,Male,Higher,High,Muslim,32,1,0,Rural,Poorest
+Rajasthan,Male,Primary,High,Hindu,63,0,1,Urban,Richest
+Maharashtra,Female,No Education,Middle,Hindu,32,0,0,Rural,Richest
+Gujarat,Male,Primary,Low,Muslim,63,0,1,Rural,Middle
+Karnataka,Male,Higher,Low,Other,42,0,1,Urban,Richer
+Odisha,Male,No Education,Low,Muslim,38,1,1,Urban,Richer
+Bihar,Male,Secondary,Low,Hindu,41,0,1,Urban,Poorest
+Maharashtra,Male,Primary,Low,Muslim,22,1,0,Rural,Richer
+Tamil Nadu,Male,No Education,High,Muslim,23,0,1,Rural,Middle
+West Bengal,Female,Primary,Middle,Other,60,0,1,Rural,Poorest
+Odisha,Female,No Education,High,Sikh,61,0,1,Rural,Poorer
+Gujarat,Male,No Education,Low,Hindu,64,0,0,Rural,Richer
+Maharashtra,Male,Primary,Low,Other,40,1,1,Urban,Richer
+Odisha,Female,Secondary,Low,Muslim,21,0,1,Urban,Poorest
+Maharashtra,Female,No Education,Low,Muslim,44,0,0,Rural,Richest
+West Bengal,Male,No Education,Middle,Sikh,35,0,1,Rural,Richer
+Gujarat,Male,No Education,Low,Hindu,38,0,1,Rural,Middle
+Tamil Nadu,Male,Secondary,Middle,Hindu,45,0,1,Rural,Richer
+Uttar Pradesh,Male,Secondary,Low,Christian,52,1,1,Rural,Poorer
+Rajasthan,Female,Higher,Middle,Hindu,39,0,1,Urban,Richer
+Tamil Nadu,Male,Primary,High,Sikh,57,0,1,Urban,Richest
+Uttar Pradesh,Male,Secondary,Low,Christian,40,0,1,Urban,Richer
+Bihar,Male,Primary,Middle,Christian,20,1,1,Rural,Poorest
+Andhra Pradesh,Male,Higher,High,Muslim,57,0,1,Rural,Richer
+Karnataka,Female,Primary,Low,Muslim,27,0,1,Urban,Richest
+Karnataka,Female,Secondary,Low,Hindu,42,0,1,Urban,Poorest
+Rajasthan,Female,Primary,Low,Christian,25,0,1,Rural,Middle
+Gujarat,Male,Secondary,Middle,Muslim,28,0,1,Urban,Poorest
+West Bengal,Male,Primary,Middle,Sikh,22,0,1,Urban,Poorer
+Gujarat,Female,Secondary,High,Muslim,62,1,1,Rural,Poorest
+West Bengal,Male,Secondary,Middle,Muslim,54,0,0,Urban,Middle
+Gujarat,Male,Primary,Middle,Christian,62,1,1,Urban,Richer
+Andhra Pradesh,Female,Higher,Low,Christian,55,0,1,Urban,Poorest
+Bihar,Female,No Education,Low,Other,46,0,0,Rural,Poorest
+Bihar,Female,Higher,Low,Sikh,22,0,1,Urban,Poorest
+Uttar Pradesh,Female,Primary,Low,Christian,26,0,1,Urban,Poorest
+Odisha,Male,Higher,Low,Hindu,19,1,1,Urban,Middle
+Bihar,Male,Secondary,Low,Sikh,18,0,1,Rural,Richest
+Bihar,Female,No Education,Low,Sikh,57,0,1,Rural,Richest
+Tamil Nadu,Male,Primary,High,Christian,47,0,0,Urban,Poorest
+Tamil Nadu,Female,Primary,High,Sikh,28,1,1,Rural,Middle
+Uttar Pradesh,Female,Primary,High,Christian,45,0,0,Urban,Middle
+Odisha,Male,No Education,High,Muslim,61,1,0,Rural,Poorest
+Rajasthan,Female,Secondary,Low,Other,29,0,0,Rural,Poorer
+Tamil Nadu,Male,Primary,High,Muslim,56,0,1,Urban,Poorest
+Rajasthan,Male,Higher,Low,Christian,43,0,1,Urban,Poorer
+Maharashtra,Male,Primary,High,Christian,30,0,0,Urban,Poorest
+Tamil Nadu,Male,Primary,Middle,Muslim,25,0,0,Rural,Poorer
+Andhra Pradesh,Female,Primary,High,Hindu,45,0,1,Urban,Poorer
+Odisha,Male,Primary,High,Hindu,47,1,0,Rural,Poorest
+Uttar Pradesh,Female,Secondary,Low,Hindu,26,1,0,Rural,Poorer
+Maharashtra,Female,Higher,High,Christian,56,1,0,Urban,Richer
+Odisha,Female,Secondary,Middle,Sikh,48,0,1,Rural,Richest
+Andhra Pradesh,Female,Higher,Low,Christian,38,0,1,Urban,Middle
+Odisha,Male,Primary,Low,Sikh,64,0,1,Rural,Poorer
+Andhra Pradesh,Male,No Education,High,Muslim,51,1,1,Urban,Poorer
+Andhra Pradesh,Female,Secondary,Low,Other,48,1,1,Rural,Middle
+Rajasthan,Female,No Education,Low,Sikh,42,0,1,Rural,Poorer
+Gujarat,Male,Secondary,Low,Hindu,29,0,1,Urban,Middle
+Maharashtra,Female,Primary,Low,Christian,18,0,1,Rural,Poorest
+Odisha,Male,Secondary,Low,Muslim,39,0,1,Urban,Richer
+West Bengal,Female,Primary,Low,Hindu,57,0,0,Rural,Richer
+Maharashtra,Male,Secondary,Middle,Muslim,54,0,1,Rural,Richest
+Gujarat,Female,Primary,High,Other,64,1,1,Rural,Poorer
+Maharashtra,Female,Primary,Middle,Christian,18,0,1,Urban,Richest
+Bihar,Male,Higher,Low,Christian,18,0,1,Urban,Poorest
+West Bengal,Female,Primary,Low,Other,59,1,1,Urban,Richer
+Gujarat,Female,Higher,High,Christian,59,0,0,Urban,Poorest
+Rajasthan,Male,Primary,Middle,Sikh,38,0,1,Urban,Poorest
+Odisha,Female,No Education,High,Muslim,32,0,1,Rural,Poorer
+Karnataka,Male,Primary,Middle,Hindu,34,0,1,Rural,Poorest
+Gujarat,Male,No Education,Low,Other,39,0,1,Urban,Richer
+Uttar Pradesh,Female,No Education,High,Sikh,55,1,1,Rural,Richest
+Odisha,Female,Primary,High,Hindu,52,0,1,Rural,Richer
+Gujarat,Female,No Education,Low,Hindu,62,0,1,Rural,Poorer
+Bihar,Female,Higher,High,Other,33,0,0,Rural,Richer
+Karnataka,Female,Secondary,Middle,Sikh,25,0,1,Urban,Middle
+Bihar,Female,Primary,Middle,Hindu,64,1,1,Rural,Richest
+Karnataka,Female,No Education,Middle,Hindu,34,1,1,Urban,Middle
+Uttar Pradesh,Male,Primary,Middle,Sikh,34,0,1,Urban,Middle
+Odisha,Female,Higher,Low,Christian,43,1,1,Rural,Poorer
+Rajasthan,Male,Primary,High,Hindu,30,0,1,Urban,Poorest
+Bihar,Female,Primary,Middle,Muslim,34,1,1,Rural,Middle
+Bihar,Female,No Education,Low,Sikh,55,0,1,Rural,Richer
+Andhra Pradesh,Male,Higher,High,Hindu,34,1,1,Rural,Poorest
+Karnataka,Female,Secondary,High,Other,31,1,1,Urban,Richer
+Tamil Nadu,Female,Secondary,Low,Muslim,62,0,0,Urban,Richer
+Odisha,Male,No Education,Low,Hindu,23,0,1,Urban,Poorest
+Karnataka,Female,Primary,Middle,Muslim,52,1,1,Rural,Poorest
+Andhra Pradesh,Female,No Education,High,Muslim,63,1,1,Rural,Richer
+Maharashtra,Female,No Education,High,Christian,31,0,0,Rural,Poorer
+Karnataka,Male,No Education,Low,Muslim,64,1,1,Urban,Richest
+Rajasthan,Female,Primary,High,Christian,25,0,1,Rural,Richest
+Odisha,Female,Higher,Middle,Sikh,32,0,1,Rural,Poorer
+Andhra Pradesh,Female,No Education,High,Christian,44,0,1,Urban,Poorest
+Maharashtra,Female,Primary,Low,Other,30,0,1,Urban,Richer
+West Bengal,Male,Higher,Low,Hindu,48,1,1,Urban,Richest
+Andhra Pradesh,Male,No Education,Middle,Sikh,52,0,0,Rural,Richer
+West Bengal,Female,Secondary,Middle,Sikh,23,1,1,Rural,Poorer
+Odisha,Female,Higher,High,Other,22,0,1,Rural,Richer
+Bihar,Male,No Education,High,Christian,39,0,0,Urban,Poorer
+Andhra Pradesh,Male,Higher,Low,Hindu,40,0,1,Urban,Poorest
+Uttar Pradesh,Female,Higher,Middle,Christian,42,0,1,Urban,Poorer
+West Bengal,Male,Higher,Middle,Muslim,51,0,1,Urban,Poorer
+Rajasthan,Female,Higher,Middle,Christian,43,0,1,Rural,Richest
+Uttar Pradesh,Male,Higher,High,Sikh,64,0,1,Rural,Richer
+Gujarat,Male,Higher,Middle,Hindu,22,0,0,Rural,Richest
+Gujarat,Male,No Education,Low,Christian,43,0,0,Rural,Middle
+Maharashtra,Male,Secondary,Low,Hindu,37,0,1,Rural,Poorer
+Bihar,Female,Primary,High,Hindu,23,1,1,Rural,Middle
+Odisha,Male,Higher,High,Muslim,23,1,1,Rural,Richest
+Andhra Pradesh,Male,Primary,Middle,Muslim,35,0,1,Rural,Richer
+Tamil Nadu,Female,No Education,High,Sikh,21,0,1,Urban,Richest
+Rajasthan,Male,Higher,Low,Other,34,0,1,Urban,Richer
+West Bengal,Male,Secondary,Middle,Hindu,31,1,1,Rural,Richer
+Odisha,Female,Primary,Low,Other,31,0,1,Urban,Poorest
+Uttar Pradesh,Male,Higher,Middle,Sikh,30,0,1,Rural,Poorer
+Gujarat,Female,No Education,High,Hindu,24,0,1,Rural,Richest
+Rajasthan,Female,Secondary,Middle,Hindu,61,0,1,Urban,Richer
+Tamil Nadu,Female,Primary,Middle,Other,32,0,0,Rural,Richest
+Andhra Pradesh,Female,Primary,Low,Christian,36,1,1,Rural,Richest
+Maharashtra,Male,Higher,Low,Muslim,60,0,1,Rural,Richer
+Tamil Nadu,Female,Secondary,Middle,Christian,64,0,0,Rural,Middle
+Rajasthan,Male,Secondary,High,Other,61,0,1,Rural,Poorer
+Tamil Nadu,Male,Secondary,High,Muslim,52,0,0,Rural,Poorer
+Rajasthan,Male,Secondary,Low,Christian,34,1,1,Rural,Poorest
+Rajasthan,Male,No Education,High,Muslim,52,0,1,Urban,Poorest
+Karnataka,Male,Secondary,Low,Hindu,36,1,1,Urban,Poorest
+West Bengal,Male,Primary,High,Christian,37,0,0,Rural,Poorer
+Gujarat,Male,Primary,Middle,Muslim,53,0,1,Urban,Middle
+Karnataka,Male,No Education,Low,Muslim,52,1,1,Rural,Poorer
+Andhra Pradesh,Male,Primary,Low,Muslim,49,0,1,Rural,Poorer
+Karnataka,Male,Primary,Middle,Christian,61,1,1,Rural,Poorer
+Bihar,Female,Secondary,Low,Sikh,57,0,0,Rural,Poorer
+Bihar,Female,Primary,High,Christian,41,1,1,Urban,Middle
+Gujarat,Female,No Education,High,Other,34,0,1,Urban,Poorest
+Tamil Nadu,Male,Secondary,Low,Christian,24,0,1,Urban,Richest
+West Bengal,Female,Higher,High,Muslim,60,1,0,Urban,Poorest
+Gujarat,Female,Secondary,Low,Hindu,18,1,0,Rural,Poorest
+Rajasthan,Female,No Education,Middle,Christian,52,1,0,Urban,Richest
+Uttar Pradesh,Male,Secondary,Low,Christian,49,1,1,Rural,Poorer
+West Bengal,Male,Secondary,Middle,Muslim,53,1,1,Rural,Middle
+West Bengal,Male,No Education,High,Hindu,30,0,1,Urban,Middle
+Rajasthan,Male,Secondary,Middle,Hindu,23,0,1,Rural,Poorest
+Rajasthan,Female,No Education,High,Other,31,0,1,Urban,Richest
+Maharashtra,Female,No Education,Low,Christian,54,0,1,Urban,Richer
+Gujarat,Female,Higher,High,Hindu,32,0,1,Urban,Poorer
+Rajasthan,Female,Primary,Low,Hindu,64,0,0,Urban,Poorest
+Bihar,Male,Primary,Low,Sikh,21,0,1,Urban,Middle
+Andhra Pradesh,Male,Secondary,Middle,Sikh,57,0,1,Rural,Richest
+Uttar Pradesh,Male,Secondary,Middle,Hindu,33,0,0,Urban,Richest
+Gujarat,Female,Higher,Middle,Other,45,0,1,Urban,Poorest
+Odisha,Male,Higher,Middle,Hindu,33,0,1,Rural,Richer
+Bihar,Male,Higher,High,Muslim,21,1,1,Urban,Middle
+Tamil Nadu,Female,No Education,High,Christian,62,1,1,Urban,Poorest
+Rajasthan,Female,Higher,High,Other,43,0,1,Rural,Richer
+Odisha,Male,Higher,Low,Muslim,45,0,1,Rural,Richest
+Rajasthan,Male,Secondary,High,Other,49,0,1,Urban,Poorer
+West Bengal,Male,Higher,High,Muslim,62,0,1,Rural,Middle
+Bihar,Male,No Education,High,Christian,19,0,1,Urban,Middle
+West Bengal,Male,No Education,Middle,Christian,48,0,1,Rural,Richer
+Maharashtra,Male,Secondary,High,Sikh,20,0,1,Urban,Poorest
+West Bengal,Female,Higher,Low,Muslim,25,0,1,Urban,Richest
+Maharashtra,Female,Higher,Middle,Sikh,41,1,1,Urban,Richer
+Maharashtra,Female,No Education,Low,Muslim,32,1,0,Rural,Poorer
+Odisha,Male,Higher,High,Sikh,60,0,0,Urban,Poorer
+Rajasthan,Female,Higher,Middle,Christian,48,0,0,Rural,Poorer
+Tamil Nadu,Male,Higher,Low,Other,26,0,1,Urban,Richer
+West Bengal,Male,Primary,High,Sikh,56,0,1,Urban,Richest
+Bihar,Female,Secondary,Low,Muslim,62,1,1,Urban,Middle
+Maharashtra,Male,Primary,Low,Muslim,19,0,1,Urban,Poorest
+Rajasthan,Male,Secondary,Low,Christian,25,1,1,Urban,Middle
+Uttar Pradesh,Female,No Education,High,Muslim,24,0,1,Rural,Richest
+Gujarat,Female,Higher,High,Hindu,61,1,0,Rural,Middle
+Odisha,Female,Secondary,Low,Other,56,0,1,Rural,Richer
+Tamil Nadu,Male,Primary,Middle,Sikh,59,1,1,Urban,Poorer
+Karnataka,Female,Higher,Middle,Other,33,0,1,Urban,Richest
+Odisha,Female,No Education,High,Christian,52,0,1,Rural,Richest
+Uttar Pradesh,Male,Secondary,High,Sikh,47,0,1,Urban,Middle
+Gujarat,Female,Secondary,High,Sikh,27,0,0,Urban,Richer
+Uttar Pradesh,Female,Secondary,High,Hindu,55,1,0,Urban,Middle
+West Bengal,Female,Higher,High,Christian,35,1,0,Rural,Middle
+Maharashtra,Male,Primary,Middle,Muslim,22,1,1,Rural,Richest
+Tamil Nadu,Male,Primary,High,Hindu,46,0,1,Rural,Middle
+Andhra Pradesh,Male,Secondary,Low,Hindu,56,1,1,Rural,Poorer
+Maharashtra,Male,No Education,Low,Other,51,0,0,Rural,Middle
+Andhra Pradesh,Female,No Education,Middle,Other,60,0,1,Urban,Poorer
+Gujarat,Male,Primary,Low,Other,62,0,1,Urban,Richest
+Rajasthan,Male,No Education,Middle,Hindu,40,0,1,Urban,Richer
+Karnataka,Female,Primary,Middle,Muslim,22,0,1,Urban,Poorer
+Bihar,Female,Secondary,Low,Sikh,47,0,1,Rural,Richer
+Maharashtra,Female,Primary,High,Other,23,0,1,Rural,Richer
+Tamil Nadu,Male,Primary,Low,Muslim,63,1,1,Urban,Poorer
+Uttar Pradesh,Male,Secondary,Low,Christian,61,0,1,Rural,Richest
+Tamil Nadu,Male,No Education,Middle,Other,21,0,1,Urban,Poorest
+Gujarat,Female,Primary,Low,Sikh,46,0,1,Urban,Richer
+Andhra Pradesh,Female,Primary,Middle,Christian,40,0,1,Urban,Richer
+Uttar Pradesh,Male,Secondary,High,Christian,23,0,1,Urban,Richest
+Bihar,Female,No Education,High,Sikh,49,0,1,Rural,Richest
+Bihar,Female,Primary,High,Other,59,0,1,Urban,Middle
+Maharashtra,Female,Secondary,Low,Hindu,35,0,1,Rural,Richest
+Gujarat,Male,Primary,Middle,Sikh,32,0,1,Urban,Richer
+Rajasthan,Female,Higher,High,Sikh,57,1,1,Urban,Poorer
+Gujarat,Female,Secondary,Middle,Sikh,49,0,1,Urban,Poorest
+Andhra Pradesh,Male,No Education,Middle,Christian,26,0,1,Urban,Middle
+Tamil Nadu,Male,No Education,High,Muslim,54,1,1,Rural,Poorer
+Bihar,Female,No Education,High,Hindu,27,0,1,Urban,Poorest
+Tamil Nadu,Female,No Education,Middle,Other,37,0,1,Rural,Poorest
+Tamil Nadu,Male,Primary,High,Other,23,1,1,Urban,Poorest
+Tamil Nadu,Male,Primary,Middle,Muslim,20,0,1,Urban,Poorer
+Bihar,Female,No Education,Middle,Sikh,59,0,1,Urban,Middle
+Odisha,Female,No Education,High,Hindu,28,0,1,Rural,Middle
+West Bengal,Female,No Education,Low,Other,60,0,1,Urban,Poorest
+Andhra Pradesh,Female,Primary,High,Other,34,0,1,Urban,Poorer
+Odisha,Male,No Education,Low,Sikh,49,0,1,Urban,Poorest
+Andhra Pradesh,Female,No Education,Middle,Muslim,21,0,1,Urban,Richest
+Uttar Pradesh,Female,Higher,Middle,Hindu,21,0,0,Urban,Middle
+Gujarat,Male,Higher,Low,Muslim,34,0,1,Rural,Richer
+Gujarat,Female,No Education,Middle,Muslim,58,0,1,Rural,Poorest
+Karnataka,Male,Secondary,Low,Hindu,36,0,1,Urban,Richest
+Gujarat,Female,No Education,Low,Hindu,22,0,1,Urban,Middle
+Bihar,Female,Higher,Middle,Other,49,0,1,Rural,Poorer
+Rajasthan,Male,Secondary,Low,Other,39,1,1,Urban,Middle
+Maharashtra,Male,Secondary,High,Hindu,23,0,1,Rural,Poorer
+Karnataka,Female,No Education,High,Christian,52,0,1,Urban,Poorer
+Maharashtra,Female,Higher,Middle,Other,39,0,0,Urban,Poorest
+Andhra Pradesh,Female,Higher,Middle,Christian,18,0,1,Rural,Poorest
+Maharashtra,Male,Secondary,Low,Hindu,37,1,0,Urban,Middle
+Maharashtra,Female,No Education,Low,Other,39,0,1,Rural,Richest
+Karnataka,Male,Primary,Low,Muslim,28,1,1,Rural,Middle
+Uttar Pradesh,Male,Primary,Low,Hindu,30,0,1,Rural,Richer
+Tamil Nadu,Female,Higher,High,Sikh,59,1,1,Urban,Poorer
+Gujarat,Male,Primary,High,Christian,20,0,0,Rural,Poorer
+Gujarat,Female,Higher,Middle,Hindu,26,1,1,Rural,Poorest
+Bihar,Female,Higher,Low,Hindu,29,0,1,Urban,Richest
+Karnataka,Female,Higher,Low,Other,40,0,1,Urban,Poorest
+Bihar,Female,Primary,Middle,Other,31,0,1,Urban,Richer
+Rajasthan,Female,Higher,Low,Other,50,0,1,Urban,Middle
+Rajasthan,Male,Secondary,Low,Sikh,35,1,0,Urban,Middle
+Bihar,Male,No Education,Low,Other,58,0,1,Urban,Richest
+Karnataka,Female,No Education,Low,Hindu,26,0,1,Rural,Poorest
+Bihar,Female,Higher,Low,Other,40,1,1,Urban,Poorest
+Gujarat,Male,No Education,Middle,Muslim,27,0,1,Rural,Richer
+Odisha,Male,Primary,Low,Other,36,1,0,Urban,Middle
+West Bengal,Male,Primary,Middle,Sikh,64,1,1,Rural,Poorest
+Maharashtra,Male,No Education,Low,Muslim,22,0,0,Rural,Richest
+West Bengal,Female,Primary,High,Hindu,64,1,1,Urban,Middle
+Karnataka,Female,No Education,High,Hindu,40,0,1,Urban,Richer
+West Bengal,Male,No Education,High,Christian,47,0,1,Rural,Richest
+Rajasthan,Female,No Education,High,Muslim,42,0,1,Urban,Poorer
+Andhra Pradesh,Male,Higher,Middle,Christian,45,0,1,Urban,Richer
+Maharashtra,Female,No Education,Middle,Muslim,51,1,1,Rural,Richest
+Tamil Nadu,Male,Higher,Low,Muslim,62,1,1,Rural,Poorest
+Karnataka,Female,No Education,High,Sikh,64,0,0,Rural,Poorer
+Maharashtra,Male,No Education,Middle,Christian,42,0,1,Urban,Richer
+West Bengal,Male,No Education,Low,Sikh,27,1,1,Urban,Poorest
+Rajasthan,Female,Primary,Low,Muslim,31,0,1,Urban,Poorer
+Uttar Pradesh,Male,Higher,Middle,Hindu,59,0,1,Urban,Middle
+Odisha,Female,Higher,High,Muslim,63,0,1,Rural,Poorest
+Tamil Nadu,Female,No Education,Low,Sikh,47,1,1,Urban,Richest
+Odisha,Male,No Education,High,Christian,58,0,1,Rural,Richer
+Maharashtra,Female,Primary,High,Christian,42,1,1,Urban,Poorer
+Rajasthan,Female,Primary,High,Sikh,31,1,1,Urban,Poorest
+Rajasthan,Female,Primary,Low,Christian,52,0,1,Rural,Middle
+West Bengal,Female,Higher,High,Other,51,0,1,Urban,Richer
+Gujarat,Female,Higher,Low,Hindu,27,1,0,Urban,Richer
+West Bengal,Male,Higher,High,Hindu,52,0,1,Rural,Poorest
+Gujarat,Female,No Education,Low,Hindu,28,1,1,Urban,Middle
+Gujarat,Female,Higher,High,Christian,28,1,1,Rural,Poorer
+Tamil Nadu,Female,Secondary,Middle,Christian,38,0,1,Rural,Poorest
+West Bengal,Female,Secondary,High,Muslim,38,1,0,Rural,Poorer
+Uttar Pradesh,Female,Primary,High,Muslim,39,1,1,Rural,Richer
+Bihar,Male,Higher,Low,Hindu,62,1,1,Urban,Poorer
+Bihar,Female,Secondary,Low,Other,24,0,0,Urban,Middle
+West Bengal,Male,Primary,High,Muslim,34,0,0,Urban,Richest
+West Bengal,Male,Higher,Middle,Muslim,19,0,1,Rural,Middle
+Odisha,Male,No Education,Middle,Christian,29,0,1,Urban,Poorer
+Tamil Nadu,Male,Secondary,Low,Other,59,0,0,Urban,Poorest
+West Bengal,Female,No Education,Middle,Hindu,35,1,1,Urban,Richer
+Odisha,Male,Higher,High,Muslim,28,0,1,Urban,Richest
+Gujarat,Male,Secondary,Low,Other,33,0,1,Rural,Poorest
+Rajasthan,Female,Higher,High,Other,35,0,1,Rural,Poorest
+Rajasthan,Female,No Education,Low,Hindu,52,1,1,Urban,Middle
+Gujarat,Female,Secondary,Low,Other,43,0,1,Rural,Poorer
+Karnataka,Male,No Education,Low,Other,33,0,1,Urban,Middle
+Odisha,Female,Higher,Low,Other,23,0,1,Urban,Poorer
+Odisha,Female,Higher,Middle,Muslim,61,1,1,Urban,Middle
+Gujarat,Male,No Education,High,Hindu,60,0,1,Rural,Poorest
+Uttar Pradesh,Female,Secondary,High,Other,64,0,1,Urban,Richer
+Andhra Pradesh,Female,No Education,High,Other,64,1,1,Rural,Poorer

@@ -1,0 +1,501 @@
+text,date,user_location,retweets,likes,clean_text,sentiment,label,month,year
+Proud to be vaccinated! #Vaccinated,2023-05-11,Pune,71,188,proud to be vaccinated,0.8,positive,2023-05,2023
+Government should make vaccines mandatory #PublicHealth,2021-05-02,Bangalore,86,74,government should make vaccines mandatory,0.0,neutral,2021-05,2021
+Vaccines are a conspiracy #AntiVax,2023-05-22,Ahmedabad,2,149,vaccines are a conspiracy,0.0,neutral,2023-05,2023
+Government should make vaccines mandatory #PublicHealth,2023-02-09,Ahmedabad,29,37,government should make vaccines mandatory,0.0,neutral,2023-02,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-08-14,Kolkata,32,57,not sure about covid vaccine safety,-0.25,negative,2023-08,2023
+Worried about vaccine side effects #VaccineSafety,2021-09-10,Chennai,88,48,worried about vaccine side effects,0.0,neutral,2021-09,2021
+Vaccine misinformation is dangerous #FactCheck,2022-12-01,Ahmedabad,14,189,vaccine misinformation is dangerous,-0.6,negative,2022-12,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-04-12,Mumbai,2,50,got my vaccine today feeling protected,0.0,neutral,2023-04,2023
+Proud to be vaccinated! #Vaccinated,2021-01-21,Mumbai,38,17,proud to be vaccinated,0.8,positive,2021-01,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-08-24,Chennai,13,8,traditional medicine is better than vaccines,0.25,positive,2022-08,2022
+Vaccine misinformation is dangerous #FactCheck,2022-07-19,Delhi,83,91,vaccine misinformation is dangerous,-0.6,negative,2022-07,2022
+Proud to be vaccinated! #Vaccinated,2022-05-24,Ahmedabad,46,34,proud to be vaccinated,0.8,positive,2022-05,2022
+Vaccines are important for public health #VaccineForAll,2023-10-23,Hyderabad,5,53,vaccines are important for public health,0.2,positive,2023-10,2023
+Vaccine misinformation is dangerous #FactCheck,2022-12-04,Delhi,89,43,vaccine misinformation is dangerous,-0.6,negative,2022-12,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-07-21,Hyderabad,99,13,not sure about covid vaccine safety,-0.25,negative,2021-07,2021
+Vaccines are a conspiracy #AntiVax,2023-10-14,Hyderabad,39,81,vaccines are a conspiracy,0.0,neutral,2023-10,2023
+Government should make vaccines mandatory #PublicHealth,2023-03-03,Delhi,88,187,government should make vaccines mandatory,0.0,neutral,2023-03,2023
+Children need all recommended vaccines #ChildHealth,2021-01-15,Kolkata,64,88,children need all recommended vaccines,0.0,neutral,2021-01,2021
+Proud to be vaccinated! #Vaccinated,2022-06-05,Ahmedabad,0,135,proud to be vaccinated,0.8,positive,2022-06,2022
+Vaccines are a conspiracy #AntiVax,2023-12-23,Bangalore,80,135,vaccines are a conspiracy,0.0,neutral,2023-12,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-02-23,Mumbai,4,40,got my vaccine today feeling protected,0.0,neutral,2022-02,2022
+Proud to be vaccinated! #Vaccinated,2021-07-20,Ahmedabad,11,161,proud to be vaccinated,0.8,positive,2021-07,2021
+Vaccines are important for public health #VaccineForAll,2023-12-08,Pune,22,61,vaccines are important for public health,0.2,positive,2023-12,2023
+Vaccines are a conspiracy #AntiVax,2023-03-16,Bangalore,43,103,vaccines are a conspiracy,0.0,neutral,2023-03,2023
+Worried about vaccine side effects #VaccineSafety,2023-08-19,Bangalore,46,130,worried about vaccine side effects,0.0,neutral,2023-08,2023
+Vaccines are important for public health #VaccineForAll,2023-10-26,Delhi,13,102,vaccines are important for public health,0.2,positive,2023-10,2023
+Children need all recommended vaccines #ChildHealth,2021-07-26,Pune,89,41,children need all recommended vaccines,0.0,neutral,2021-07,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-05-14,Pune,51,95,got my vaccine today feeling protected,0.0,neutral,2023-05,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-04-30,Pune,14,170,traditional medicine is better than vaccines,0.25,positive,2022-04,2022
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-06-09,Ahmedabad,70,186,traditional medicine is better than vaccines,0.25,positive,2022-06,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-08-01,Delhi,44,61,got my vaccine today feeling protected,0.0,neutral,2022-08,2022
+Children need all recommended vaccines #ChildHealth,2023-10-10,Hyderabad,27,27,children need all recommended vaccines,0.0,neutral,2023-10,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-07-09,Mumbai,0,120,traditional medicine is better than vaccines,0.25,positive,2021-07,2021
+Children need all recommended vaccines #ChildHealth,2022-09-20,Kolkata,2,102,children need all recommended vaccines,0.0,neutral,2022-09,2022
+Worried about vaccine side effects #VaccineSafety,2022-10-11,Hyderabad,36,50,worried about vaccine side effects,0.0,neutral,2022-10,2022
+Vaccine misinformation is dangerous #FactCheck,2022-11-15,Ahmedabad,78,58,vaccine misinformation is dangerous,-0.6,negative,2022-11,2022
+Worried about vaccine side effects #VaccineSafety,2022-03-18,Chennai,11,38,worried about vaccine side effects,0.0,neutral,2022-03,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-08-10,Mumbai,58,112,not sure about covid vaccine safety,-0.25,negative,2023-08,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-10-04,Chennai,53,86,not sure about covid vaccine safety,-0.25,negative,2022-10,2022
+Government should make vaccines mandatory #PublicHealth,2022-01-20,Bangalore,1,52,government should make vaccines mandatory,0.0,neutral,2022-01,2022
+Vaccine misinformation is dangerous #FactCheck,2021-09-04,Chennai,54,183,vaccine misinformation is dangerous,-0.6,negative,2021-09,2021
+Vaccines are important for public health #VaccineForAll,2023-02-06,Hyderabad,23,68,vaccines are important for public health,0.2,positive,2023-02,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-07-17,Hyderabad,10,143,traditional medicine is better than vaccines,0.25,positive,2021-07,2021
+Vaccines are important for public health #VaccineForAll,2021-07-06,Hyderabad,79,92,vaccines are important for public health,0.2,positive,2021-07,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-10-22,Chennai,58,163,got my vaccine today feeling protected,0.0,neutral,2022-10,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-05-27,Chennai,95,198,got my vaccine today feeling protected,0.0,neutral,2021-05,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-05-04,Mumbai,39,127,traditional medicine is better than vaccines,0.25,positive,2022-05,2022
+Proud to be vaccinated! #Vaccinated,2021-12-04,Ahmedabad,0,10,proud to be vaccinated,0.8,positive,2021-12,2021
+Children need all recommended vaccines #ChildHealth,2022-04-18,Delhi,22,158,children need all recommended vaccines,0.0,neutral,2022-04,2022
+Vaccine misinformation is dangerous #FactCheck,2021-09-20,Chennai,15,89,vaccine misinformation is dangerous,-0.6,negative,2021-09,2021
+Children need all recommended vaccines #ChildHealth,2023-05-31,Delhi,0,47,children need all recommended vaccines,0.0,neutral,2023-05,2023
+Government should make vaccines mandatory #PublicHealth,2023-11-27,Ahmedabad,8,98,government should make vaccines mandatory,0.0,neutral,2023-11,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-03-27,Ahmedabad,2,147,got my vaccine today feeling protected,0.0,neutral,2023-03,2023
+Vaccines are a conspiracy #AntiVax,2021-02-23,Ahmedabad,32,151,vaccines are a conspiracy,0.0,neutral,2021-02,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-08-10,Mumbai,71,163,traditional medicine is better than vaccines,0.25,positive,2022-08,2022
+Worried about vaccine side effects #VaccineSafety,2021-04-14,Chennai,98,111,worried about vaccine side effects,0.0,neutral,2021-04,2021
+Children need all recommended vaccines #ChildHealth,2021-04-09,Mumbai,92,145,children need all recommended vaccines,0.0,neutral,2021-04,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-04-02,Bangalore,79,188,not sure about covid vaccine safety,-0.25,negative,2023-04,2023
+Children need all recommended vaccines #ChildHealth,2021-06-10,Chennai,32,141,children need all recommended vaccines,0.0,neutral,2021-06,2021
+Government should make vaccines mandatory #PublicHealth,2023-03-27,Chennai,7,134,government should make vaccines mandatory,0.0,neutral,2023-03,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-02-05,Ahmedabad,32,175,got my vaccine today feeling protected,0.0,neutral,2022-02,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-04-15,Pune,21,157,got my vaccine today feeling protected,0.0,neutral,2022-04,2022
+Worried about vaccine side effects #VaccineSafety,2021-08-18,Kolkata,50,181,worried about vaccine side effects,0.0,neutral,2021-08,2021
+Vaccines are a conspiracy #AntiVax,2021-01-27,Delhi,20,29,vaccines are a conspiracy,0.0,neutral,2021-01,2021
+Vaccines are important for public health #VaccineForAll,2021-10-11,Pune,63,196,vaccines are important for public health,0.2,positive,2021-10,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-07-01,Ahmedabad,48,16,got my vaccine today feeling protected,0.0,neutral,2022-07,2022
+Government should make vaccines mandatory #PublicHealth,2022-06-02,Bangalore,36,23,government should make vaccines mandatory,0.0,neutral,2022-06,2022
+Vaccines are important for public health #VaccineForAll,2021-10-29,Kolkata,94,98,vaccines are important for public health,0.2,positive,2021-10,2021
+Vaccines are important for public health #VaccineForAll,2021-07-10,Kolkata,84,159,vaccines are important for public health,0.2,positive,2021-07,2021
+Proud to be vaccinated! #Vaccinated,2021-05-08,Delhi,24,53,proud to be vaccinated,0.8,positive,2021-05,2021
+Vaccine misinformation is dangerous #FactCheck,2022-11-17,Ahmedabad,31,174,vaccine misinformation is dangerous,-0.6,negative,2022-11,2022
+Worried about vaccine side effects #VaccineSafety,2023-08-20,Pune,26,129,worried about vaccine side effects,0.0,neutral,2023-08,2023
+Vaccine misinformation is dangerous #FactCheck,2023-02-24,Ahmedabad,32,136,vaccine misinformation is dangerous,-0.6,negative,2023-02,2023
+Worried about vaccine side effects #VaccineSafety,2023-11-29,Kolkata,41,25,worried about vaccine side effects,0.0,neutral,2023-11,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-07-10,Ahmedabad,12,59,got my vaccine today feeling protected,0.0,neutral,2023-07,2023
+Vaccine misinformation is dangerous #FactCheck,2023-06-22,Mumbai,35,172,vaccine misinformation is dangerous,-0.6,negative,2023-06,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-11-17,Ahmedabad,15,141,traditional medicine is better than vaccines,0.25,positive,2021-11,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-04-16,Pune,91,97,got my vaccine today feeling protected,0.0,neutral,2022-04,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-12-28,Pune,85,50,not sure about covid vaccine safety,-0.25,negative,2022-12,2022
+Children need all recommended vaccines #ChildHealth,2022-07-29,Hyderabad,21,57,children need all recommended vaccines,0.0,neutral,2022-07,2022
+Vaccine misinformation is dangerous #FactCheck,2021-11-01,Chennai,41,69,vaccine misinformation is dangerous,-0.6,negative,2021-11,2021
+Worried about vaccine side effects #VaccineSafety,2023-09-30,Chennai,96,7,worried about vaccine side effects,0.0,neutral,2023-09,2023
+Government should make vaccines mandatory #PublicHealth,2023-10-01,Chennai,4,102,government should make vaccines mandatory,0.0,neutral,2023-10,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-02-13,Kolkata,95,115,traditional medicine is better than vaccines,0.25,positive,2023-02,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-04-03,Ahmedabad,51,143,got my vaccine today feeling protected,0.0,neutral,2023-04,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-09-28,Delhi,29,146,not sure about covid vaccine safety,-0.25,negative,2022-09,2022
+Vaccines are important for public health #VaccineForAll,2021-04-30,Pune,18,91,vaccines are important for public health,0.2,positive,2021-04,2021
+Vaccine misinformation is dangerous #FactCheck,2023-01-11,Delhi,61,22,vaccine misinformation is dangerous,-0.6,negative,2023-01,2023
+Children need all recommended vaccines #ChildHealth,2023-10-10,Mumbai,57,121,children need all recommended vaccines,0.0,neutral,2023-10,2023
+Vaccines are important for public health #VaccineForAll,2023-03-13,Ahmedabad,47,88,vaccines are important for public health,0.2,positive,2023-03,2023
+Vaccines are a conspiracy #AntiVax,2023-06-16,Ahmedabad,60,191,vaccines are a conspiracy,0.0,neutral,2023-06,2023
+Government should make vaccines mandatory #PublicHealth,2023-03-01,Kolkata,66,75,government should make vaccines mandatory,0.0,neutral,2023-03,2023
+Vaccine misinformation is dangerous #FactCheck,2023-09-24,Hyderabad,56,28,vaccine misinformation is dangerous,-0.6,negative,2023-09,2023
+Government should make vaccines mandatory #PublicHealth,2023-12-07,Mumbai,93,189,government should make vaccines mandatory,0.0,neutral,2023-12,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-03-29,Chennai,15,175,traditional medicine is better than vaccines,0.25,positive,2022-03,2022
+Government should make vaccines mandatory #PublicHealth,2022-07-05,Chennai,32,100,government should make vaccines mandatory,0.0,neutral,2022-07,2022
+Proud to be vaccinated! #Vaccinated,2022-06-06,Hyderabad,68,99,proud to be vaccinated,0.8,positive,2022-06,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-02-01,Bangalore,57,95,not sure about covid vaccine safety,-0.25,negative,2023-02,2023
+Vaccines are important for public health #VaccineForAll,2023-10-13,Kolkata,3,15,vaccines are important for public health,0.2,positive,2023-10,2023
+Vaccines are a conspiracy #AntiVax,2021-12-02,Pune,1,127,vaccines are a conspiracy,0.0,neutral,2021-12,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-11-21,Bangalore,32,160,traditional medicine is better than vaccines,0.25,positive,2022-11,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-12-03,Chennai,28,140,got my vaccine today feeling protected,0.0,neutral,2023-12,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-05-14,Delhi,34,80,not sure about covid vaccine safety,-0.25,negative,2022-05,2022
+Vaccine misinformation is dangerous #FactCheck,2023-02-15,Kolkata,25,89,vaccine misinformation is dangerous,-0.6,negative,2023-02,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-04-25,Mumbai,6,195,not sure about covid vaccine safety,-0.25,negative,2021-04,2021
+Vaccine misinformation is dangerous #FactCheck,2022-02-17,Ahmedabad,35,20,vaccine misinformation is dangerous,-0.6,negative,2022-02,2022
+Children need all recommended vaccines #ChildHealth,2022-11-07,Delhi,72,151,children need all recommended vaccines,0.0,neutral,2022-11,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-09-05,Mumbai,95,151,got my vaccine today feeling protected,0.0,neutral,2023-09,2023
+Proud to be vaccinated! #Vaccinated,2021-02-06,Chennai,54,12,proud to be vaccinated,0.8,positive,2021-02,2021
+Proud to be vaccinated! #Vaccinated,2021-08-05,Bangalore,29,16,proud to be vaccinated,0.8,positive,2021-08,2021
+Vaccines are important for public health #VaccineForAll,2021-03-03,Chennai,88,85,vaccines are important for public health,0.2,positive,2021-03,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-06-26,Chennai,11,188,got my vaccine today feeling protected,0.0,neutral,2021-06,2021
+Children need all recommended vaccines #ChildHealth,2021-03-17,Mumbai,70,27,children need all recommended vaccines,0.0,neutral,2021-03,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-05-01,Delhi,15,116,traditional medicine is better than vaccines,0.25,positive,2023-05,2023
+Government should make vaccines mandatory #PublicHealth,2022-01-31,Mumbai,51,122,government should make vaccines mandatory,0.0,neutral,2022-01,2022
+Government should make vaccines mandatory #PublicHealth,2022-07-23,Pune,52,41,government should make vaccines mandatory,0.0,neutral,2022-07,2022
+Vaccine misinformation is dangerous #FactCheck,2023-07-24,Hyderabad,94,121,vaccine misinformation is dangerous,-0.6,negative,2023-07,2023
+Government should make vaccines mandatory #PublicHealth,2023-01-03,Bangalore,74,145,government should make vaccines mandatory,0.0,neutral,2023-01,2023
+Children need all recommended vaccines #ChildHealth,2023-08-12,Chennai,16,6,children need all recommended vaccines,0.0,neutral,2023-08,2023
+Vaccines are a conspiracy #AntiVax,2021-06-19,Mumbai,49,26,vaccines are a conspiracy,0.0,neutral,2021-06,2021
+Vaccine misinformation is dangerous #FactCheck,2021-01-29,Kolkata,37,82,vaccine misinformation is dangerous,-0.6,negative,2021-01,2021
+Vaccines are a conspiracy #AntiVax,2022-05-15,Mumbai,70,44,vaccines are a conspiracy,0.0,neutral,2022-05,2022
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-12-30,Chennai,30,18,traditional medicine is better than vaccines,0.25,positive,2023-12,2023
+Worried about vaccine side effects #VaccineSafety,2021-06-16,Bangalore,73,89,worried about vaccine side effects,0.0,neutral,2021-06,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-02-08,Hyderabad,66,172,got my vaccine today feeling protected,0.0,neutral,2021-02,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-12-18,Chennai,91,199,not sure about covid vaccine safety,-0.25,negative,2023-12,2023
+Children need all recommended vaccines #ChildHealth,2023-10-22,Bangalore,76,91,children need all recommended vaccines,0.0,neutral,2023-10,2023
+Children need all recommended vaccines #ChildHealth,2023-04-04,Mumbai,37,116,children need all recommended vaccines,0.0,neutral,2023-04,2023
+Worried about vaccine side effects #VaccineSafety,2021-02-27,Chennai,44,159,worried about vaccine side effects,0.0,neutral,2021-02,2021
+Government should make vaccines mandatory #PublicHealth,2021-03-21,Hyderabad,84,163,government should make vaccines mandatory,0.0,neutral,2021-03,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-02-16,Mumbai,48,13,got my vaccine today feeling protected,0.0,neutral,2021-02,2021
+Vaccines are important for public health #VaccineForAll,2022-10-18,Pune,56,11,vaccines are important for public health,0.2,positive,2022-10,2022
+Vaccine misinformation is dangerous #FactCheck,2023-01-06,Ahmedabad,71,101,vaccine misinformation is dangerous,-0.6,negative,2023-01,2023
+Vaccines are a conspiracy #AntiVax,2022-10-30,Kolkata,7,121,vaccines are a conspiracy,0.0,neutral,2022-10,2022
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-03-31,Ahmedabad,57,59,traditional medicine is better than vaccines,0.25,positive,2021-03,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-06-24,Chennai,40,191,not sure about covid vaccine safety,-0.25,negative,2022-06,2022
+Worried about vaccine side effects #VaccineSafety,2023-08-17,Mumbai,72,160,worried about vaccine side effects,0.0,neutral,2023-08,2023
+Government should make vaccines mandatory #PublicHealth,2022-04-06,Chennai,28,140,government should make vaccines mandatory,0.0,neutral,2022-04,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-01-25,Delhi,68,46,got my vaccine today feeling protected,0.0,neutral,2022-01,2022
+Children need all recommended vaccines #ChildHealth,2022-03-26,Delhi,55,29,children need all recommended vaccines,0.0,neutral,2022-03,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-05-27,Kolkata,32,117,not sure about covid vaccine safety,-0.25,negative,2023-05,2023
+Vaccines are important for public health #VaccineForAll,2021-05-26,Ahmedabad,48,10,vaccines are important for public health,0.2,positive,2021-05,2021
+Government should make vaccines mandatory #PublicHealth,2021-03-04,Mumbai,85,58,government should make vaccines mandatory,0.0,neutral,2021-03,2021
+Vaccines are important for public health #VaccineForAll,2021-04-15,Bangalore,0,148,vaccines are important for public health,0.2,positive,2021-04,2021
+Proud to be vaccinated! #Vaccinated,2022-06-02,Chennai,80,196,proud to be vaccinated,0.8,positive,2022-06,2022
+Government should make vaccines mandatory #PublicHealth,2023-02-10,Kolkata,22,52,government should make vaccines mandatory,0.0,neutral,2023-02,2023
+Government should make vaccines mandatory #PublicHealth,2022-12-15,Delhi,82,144,government should make vaccines mandatory,0.0,neutral,2022-12,2022
+Government should make vaccines mandatory #PublicHealth,2022-04-02,Hyderabad,0,50,government should make vaccines mandatory,0.0,neutral,2022-04,2022
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-03-25,Mumbai,31,33,traditional medicine is better than vaccines,0.25,positive,2022-03,2022
+Vaccines are a conspiracy #AntiVax,2021-06-03,Delhi,33,181,vaccines are a conspiracy,0.0,neutral,2021-06,2021
+Worried about vaccine side effects #VaccineSafety,2023-02-10,Bangalore,49,11,worried about vaccine side effects,0.0,neutral,2023-02,2023
+Vaccines are important for public health #VaccineForAll,2023-12-14,Chennai,4,56,vaccines are important for public health,0.2,positive,2023-12,2023
+Vaccines are important for public health #VaccineForAll,2022-09-16,Pune,46,150,vaccines are important for public health,0.2,positive,2022-09,2022
+Government should make vaccines mandatory #PublicHealth,2023-05-03,Hyderabad,65,74,government should make vaccines mandatory,0.0,neutral,2023-05,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-04-13,Hyderabad,63,37,got my vaccine today feeling protected,0.0,neutral,2021-04,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-04-08,Delhi,29,78,not sure about covid vaccine safety,-0.25,negative,2021-04,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-03-23,Delhi,51,165,got my vaccine today feeling protected,0.0,neutral,2022-03,2022
+Vaccines are important for public health #VaccineForAll,2023-09-11,Pune,29,105,vaccines are important for public health,0.2,positive,2023-09,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-03-22,Kolkata,28,131,got my vaccine today feeling protected,0.0,neutral,2021-03,2021
+Vaccine misinformation is dangerous #FactCheck,2021-07-03,Mumbai,73,16,vaccine misinformation is dangerous,-0.6,negative,2021-07,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-09-11,Kolkata,33,5,traditional medicine is better than vaccines,0.25,positive,2023-09,2023
+Government should make vaccines mandatory #PublicHealth,2021-07-24,Hyderabad,42,114,government should make vaccines mandatory,0.0,neutral,2021-07,2021
+Children need all recommended vaccines #ChildHealth,2023-04-28,Pune,74,117,children need all recommended vaccines,0.0,neutral,2023-04,2023
+Vaccines are a conspiracy #AntiVax,2023-06-19,Ahmedabad,3,183,vaccines are a conspiracy,0.0,neutral,2023-06,2023
+Children need all recommended vaccines #ChildHealth,2022-10-29,Kolkata,31,177,children need all recommended vaccines,0.0,neutral,2022-10,2022
+Vaccine misinformation is dangerous #FactCheck,2023-12-11,Bangalore,20,4,vaccine misinformation is dangerous,-0.6,negative,2023-12,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-08-27,Delhi,60,21,not sure about covid vaccine safety,-0.25,negative,2022-08,2022
+Government should make vaccines mandatory #PublicHealth,2023-04-18,Mumbai,4,11,government should make vaccines mandatory,0.0,neutral,2023-04,2023
+Vaccine misinformation is dangerous #FactCheck,2023-12-06,Delhi,48,77,vaccine misinformation is dangerous,-0.6,negative,2023-12,2023
+Vaccine misinformation is dangerous #FactCheck,2023-03-05,Mumbai,46,120,vaccine misinformation is dangerous,-0.6,negative,2023-03,2023
+Worried about vaccine side effects #VaccineSafety,2021-08-27,Ahmedabad,93,106,worried about vaccine side effects,0.0,neutral,2021-08,2021
+Vaccines are important for public health #VaccineForAll,2023-11-16,Chennai,0,7,vaccines are important for public health,0.2,positive,2023-11,2023
+Vaccines are important for public health #VaccineForAll,2022-12-20,Pune,55,13,vaccines are important for public health,0.2,positive,2022-12,2022
+Vaccine misinformation is dangerous #FactCheck,2021-01-28,Pune,77,129,vaccine misinformation is dangerous,-0.6,negative,2021-01,2021
+Vaccine misinformation is dangerous #FactCheck,2022-06-10,Bangalore,55,114,vaccine misinformation is dangerous,-0.6,negative,2022-06,2022
+Proud to be vaccinated! #Vaccinated,2023-10-24,Pune,22,106,proud to be vaccinated,0.8,positive,2023-10,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-03-17,Bangalore,14,191,not sure about covid vaccine safety,-0.25,negative,2023-03,2023
+Children need all recommended vaccines #ChildHealth,2022-04-30,Chennai,73,38,children need all recommended vaccines,0.0,neutral,2022-04,2022
+Children need all recommended vaccines #ChildHealth,2021-03-27,Delhi,43,24,children need all recommended vaccines,0.0,neutral,2021-03,2021
+Vaccines are important for public health #VaccineForAll,2021-01-25,Chennai,9,66,vaccines are important for public health,0.2,positive,2021-01,2021
+Children need all recommended vaccines #ChildHealth,2021-04-19,Delhi,99,110,children need all recommended vaccines,0.0,neutral,2021-04,2021
+Worried about vaccine side effects #VaccineSafety,2021-02-03,Pune,7,167,worried about vaccine side effects,0.0,neutral,2021-02,2021
+Vaccines are important for public health #VaccineForAll,2023-01-18,Bangalore,41,168,vaccines are important for public health,0.2,positive,2023-01,2023
+Government should make vaccines mandatory #PublicHealth,2022-11-23,Delhi,63,186,government should make vaccines mandatory,0.0,neutral,2022-11,2022
+Vaccines are a conspiracy #AntiVax,2021-11-11,Kolkata,69,120,vaccines are a conspiracy,0.0,neutral,2021-11,2021
+Vaccines are important for public health #VaccineForAll,2022-10-24,Kolkata,69,69,vaccines are important for public health,0.2,positive,2022-10,2022
+Proud to be vaccinated! #Vaccinated,2022-09-16,Chennai,93,74,proud to be vaccinated,0.8,positive,2022-09,2022
+Vaccines are a conspiracy #AntiVax,2023-04-03,Mumbai,2,30,vaccines are a conspiracy,0.0,neutral,2023-04,2023
+Vaccines are a conspiracy #AntiVax,2021-08-17,Chennai,23,5,vaccines are a conspiracy,0.0,neutral,2021-08,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-04-13,Chennai,74,3,not sure about covid vaccine safety,-0.25,negative,2022-04,2022
+Worried about vaccine side effects #VaccineSafety,2021-04-28,Mumbai,93,178,worried about vaccine side effects,0.0,neutral,2021-04,2021
+Children need all recommended vaccines #ChildHealth,2021-07-13,Pune,74,135,children need all recommended vaccines,0.0,neutral,2021-07,2021
+Vaccine misinformation is dangerous #FactCheck,2021-06-22,Chennai,4,69,vaccine misinformation is dangerous,-0.6,negative,2021-06,2021
+Vaccine misinformation is dangerous #FactCheck,2023-04-16,Bangalore,83,19,vaccine misinformation is dangerous,-0.6,negative,2023-04,2023
+Vaccines are important for public health #VaccineForAll,2021-05-20,Pune,0,89,vaccines are important for public health,0.2,positive,2021-05,2021
+Worried about vaccine side effects #VaccineSafety,2021-05-19,Pune,99,76,worried about vaccine side effects,0.0,neutral,2021-05,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-06-21,Delhi,9,4,got my vaccine today feeling protected,0.0,neutral,2023-06,2023
+Proud to be vaccinated! #Vaccinated,2021-06-21,Delhi,12,167,proud to be vaccinated,0.8,positive,2021-06,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-11-17,Pune,72,16,not sure about covid vaccine safety,-0.25,negative,2021-11,2021
+Children need all recommended vaccines #ChildHealth,2023-06-30,Ahmedabad,37,162,children need all recommended vaccines,0.0,neutral,2023-06,2023
+Vaccines are important for public health #VaccineForAll,2021-11-14,Chennai,49,77,vaccines are important for public health,0.2,positive,2021-11,2021
+Government should make vaccines mandatory #PublicHealth,2022-01-11,Bangalore,8,161,government should make vaccines mandatory,0.0,neutral,2022-01,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-05-28,Ahmedabad,63,149,got my vaccine today feeling protected,0.0,neutral,2022-05,2022
+Vaccines are a conspiracy #AntiVax,2023-05-23,Kolkata,13,59,vaccines are a conspiracy,0.0,neutral,2023-05,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-12-26,Kolkata,4,82,got my vaccine today feeling protected,0.0,neutral,2022-12,2022
+Vaccine misinformation is dangerous #FactCheck,2022-07-28,Chennai,88,41,vaccine misinformation is dangerous,-0.6,negative,2022-07,2022
+Children need all recommended vaccines #ChildHealth,2022-02-06,Ahmedabad,71,38,children need all recommended vaccines,0.0,neutral,2022-02,2022
+Vaccines are a conspiracy #AntiVax,2023-03-11,Bangalore,37,96,vaccines are a conspiracy,0.0,neutral,2023-03,2023
+Proud to be vaccinated! #Vaccinated,2022-07-29,Pune,96,152,proud to be vaccinated,0.8,positive,2022-07,2022
+Vaccines are important for public health #VaccineForAll,2023-10-04,Pune,65,52,vaccines are important for public health,0.2,positive,2023-10,2023
+Vaccines are a conspiracy #AntiVax,2021-04-14,Bangalore,38,178,vaccines are a conspiracy,0.0,neutral,2021-04,2021
+Worried about vaccine side effects #VaccineSafety,2022-08-02,Pune,50,199,worried about vaccine side effects,0.0,neutral,2022-08,2022
+Vaccine misinformation is dangerous #FactCheck,2023-11-05,Pune,28,32,vaccine misinformation is dangerous,-0.6,negative,2023-11,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-04-23,Pune,26,163,traditional medicine is better than vaccines,0.25,positive,2022-04,2022
+Worried about vaccine side effects #VaccineSafety,2023-10-18,Kolkata,26,182,worried about vaccine side effects,0.0,neutral,2023-10,2023
+Vaccines are important for public health #VaccineForAll,2021-07-15,Hyderabad,65,9,vaccines are important for public health,0.2,positive,2021-07,2021
+Government should make vaccines mandatory #PublicHealth,2023-05-15,Hyderabad,37,140,government should make vaccines mandatory,0.0,neutral,2023-05,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-08-04,Chennai,55,14,traditional medicine is better than vaccines,0.25,positive,2021-08,2021
+Vaccines are a conspiracy #AntiVax,2021-02-16,Chennai,75,172,vaccines are a conspiracy,0.0,neutral,2021-02,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-04-05,Bangalore,35,35,not sure about covid vaccine safety,-0.25,negative,2021-04,2021
+Vaccine misinformation is dangerous #FactCheck,2021-03-10,Chennai,10,73,vaccine misinformation is dangerous,-0.6,negative,2021-03,2021
+Vaccines are a conspiracy #AntiVax,2022-07-04,Hyderabad,71,22,vaccines are a conspiracy,0.0,neutral,2022-07,2022
+Vaccine misinformation is dangerous #FactCheck,2021-10-29,Bangalore,11,140,vaccine misinformation is dangerous,-0.6,negative,2021-10,2021
+Vaccines are a conspiracy #AntiVax,2023-08-16,Delhi,88,110,vaccines are a conspiracy,0.0,neutral,2023-08,2023
+Vaccines are a conspiracy #AntiVax,2023-04-08,Bangalore,75,99,vaccines are a conspiracy,0.0,neutral,2023-04,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-06-07,Kolkata,71,126,traditional medicine is better than vaccines,0.25,positive,2023-06,2023
+Vaccine misinformation is dangerous #FactCheck,2023-10-06,Chennai,30,121,vaccine misinformation is dangerous,-0.6,negative,2023-10,2023
+Children need all recommended vaccines #ChildHealth,2023-10-11,Bangalore,28,39,children need all recommended vaccines,0.0,neutral,2023-10,2023
+Children need all recommended vaccines #ChildHealth,2023-02-18,Pune,0,45,children need all recommended vaccines,0.0,neutral,2023-02,2023
+Government should make vaccines mandatory #PublicHealth,2022-02-24,Hyderabad,86,56,government should make vaccines mandatory,0.0,neutral,2022-02,2022
+Vaccines are important for public health #VaccineForAll,2022-07-21,Bangalore,39,142,vaccines are important for public health,0.2,positive,2022-07,2022
+Government should make vaccines mandatory #PublicHealth,2023-08-27,Kolkata,8,179,government should make vaccines mandatory,0.0,neutral,2023-08,2023
+Children need all recommended vaccines #ChildHealth,2021-04-27,Delhi,40,34,children need all recommended vaccines,0.0,neutral,2021-04,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-06-21,Delhi,74,37,traditional medicine is better than vaccines,0.25,positive,2022-06,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-04-20,Delhi,90,16,not sure about covid vaccine safety,-0.25,negative,2022-04,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-10-26,Mumbai,70,179,got my vaccine today feeling protected,0.0,neutral,2022-10,2022
+Worried about vaccine side effects #VaccineSafety,2021-06-26,Kolkata,62,149,worried about vaccine side effects,0.0,neutral,2021-06,2021
+Vaccine misinformation is dangerous #FactCheck,2021-06-05,Delhi,84,48,vaccine misinformation is dangerous,-0.6,negative,2021-06,2021
+Proud to be vaccinated! #Vaccinated,2023-04-29,Chennai,48,147,proud to be vaccinated,0.8,positive,2023-04,2023
+Worried about vaccine side effects #VaccineSafety,2021-12-08,Chennai,62,188,worried about vaccine side effects,0.0,neutral,2021-12,2021
+Vaccines are a conspiracy #AntiVax,2022-07-15,Pune,0,140,vaccines are a conspiracy,0.0,neutral,2022-07,2022
+Proud to be vaccinated! #Vaccinated,2022-03-11,Bangalore,55,61,proud to be vaccinated,0.8,positive,2022-03,2022
+Vaccines are important for public health #VaccineForAll,2022-03-05,Kolkata,29,143,vaccines are important for public health,0.2,positive,2022-03,2022
+Vaccines are a conspiracy #AntiVax,2023-11-09,Delhi,0,77,vaccines are a conspiracy,0.0,neutral,2023-11,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-10-07,Delhi,91,112,got my vaccine today feeling protected,0.0,neutral,2023-10,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-08-05,Pune,3,128,not sure about covid vaccine safety,-0.25,negative,2023-08,2023
+Vaccines are a conspiracy #AntiVax,2023-07-14,Pune,2,31,vaccines are a conspiracy,0.0,neutral,2023-07,2023
+Vaccine misinformation is dangerous #FactCheck,2021-06-11,Chennai,96,86,vaccine misinformation is dangerous,-0.6,negative,2021-06,2021
+Proud to be vaccinated! #Vaccinated,2023-10-29,Mumbai,56,66,proud to be vaccinated,0.8,positive,2023-10,2023
+Vaccines are a conspiracy #AntiVax,2022-03-19,Pune,71,53,vaccines are a conspiracy,0.0,neutral,2022-03,2022
+Children need all recommended vaccines #ChildHealth,2022-08-02,Bangalore,96,91,children need all recommended vaccines,0.0,neutral,2022-08,2022
+Vaccines are a conspiracy #AntiVax,2021-04-06,Ahmedabad,77,31,vaccines are a conspiracy,0.0,neutral,2021-04,2021
+Vaccines are a conspiracy #AntiVax,2023-03-25,Bangalore,15,195,vaccines are a conspiracy,0.0,neutral,2023-03,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-06-14,Hyderabad,84,141,traditional medicine is better than vaccines,0.25,positive,2021-06,2021
+Proud to be vaccinated! #Vaccinated,2023-08-02,Delhi,6,73,proud to be vaccinated,0.8,positive,2023-08,2023
+Proud to be vaccinated! #Vaccinated,2021-05-31,Kolkata,18,111,proud to be vaccinated,0.8,positive,2021-05,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-12-01,Delhi,1,128,got my vaccine today feeling protected,0.0,neutral,2022-12,2022
+Government should make vaccines mandatory #PublicHealth,2023-01-16,Pune,1,194,government should make vaccines mandatory,0.0,neutral,2023-01,2023
+Proud to be vaccinated! #Vaccinated,2022-01-31,Chennai,4,36,proud to be vaccinated,0.8,positive,2022-01,2022
+Worried about vaccine side effects #VaccineSafety,2023-06-24,Delhi,52,171,worried about vaccine side effects,0.0,neutral,2023-06,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-05-04,Chennai,23,80,got my vaccine today feeling protected,0.0,neutral,2023-05,2023
+Vaccine misinformation is dangerous #FactCheck,2022-09-24,Bangalore,86,127,vaccine misinformation is dangerous,-0.6,negative,2022-09,2022
+Vaccines are important for public health #VaccineForAll,2022-06-10,Mumbai,39,193,vaccines are important for public health,0.2,positive,2022-06,2022
+Children need all recommended vaccines #ChildHealth,2022-05-09,Chennai,25,185,children need all recommended vaccines,0.0,neutral,2022-05,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-03-16,Bangalore,69,145,not sure about covid vaccine safety,-0.25,negative,2023-03,2023
+Government should make vaccines mandatory #PublicHealth,2021-02-11,Chennai,40,165,government should make vaccines mandatory,0.0,neutral,2021-02,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-11-07,Kolkata,24,121,not sure about covid vaccine safety,-0.25,negative,2023-11,2023
+Proud to be vaccinated! #Vaccinated,2021-12-08,Kolkata,26,56,proud to be vaccinated,0.8,positive,2021-12,2021
+Worried about vaccine side effects #VaccineSafety,2023-01-01,Ahmedabad,97,11,worried about vaccine side effects,0.0,neutral,2023-01,2023
+Children need all recommended vaccines #ChildHealth,2023-04-01,Pune,9,172,children need all recommended vaccines,0.0,neutral,2023-04,2023
+Vaccines are important for public health #VaccineForAll,2023-07-11,Kolkata,91,189,vaccines are important for public health,0.2,positive,2023-07,2023
+Vaccine misinformation is dangerous #FactCheck,2021-05-10,Chennai,53,106,vaccine misinformation is dangerous,-0.6,negative,2021-05,2021
+Vaccines are important for public health #VaccineForAll,2023-03-30,Kolkata,35,114,vaccines are important for public health,0.2,positive,2023-03,2023
+Vaccine misinformation is dangerous #FactCheck,2021-01-29,Kolkata,10,39,vaccine misinformation is dangerous,-0.6,negative,2021-01,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-07-06,Pune,98,53,traditional medicine is better than vaccines,0.25,positive,2021-07,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-02-24,Pune,23,149,not sure about covid vaccine safety,-0.25,negative,2021-02,2021
+Government should make vaccines mandatory #PublicHealth,2023-01-21,Chennai,82,80,government should make vaccines mandatory,0.0,neutral,2023-01,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-07-20,Delhi,65,72,not sure about covid vaccine safety,-0.25,negative,2021-07,2021
+Children need all recommended vaccines #ChildHealth,2021-10-23,Mumbai,0,60,children need all recommended vaccines,0.0,neutral,2021-10,2021
+Vaccines are a conspiracy #AntiVax,2021-02-11,Mumbai,38,34,vaccines are a conspiracy,0.0,neutral,2021-02,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-04-18,Chennai,50,101,got my vaccine today feeling protected,0.0,neutral,2021-04,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-06-08,Bangalore,43,186,not sure about covid vaccine safety,-0.25,negative,2022-06,2022
+Vaccines are important for public health #VaccineForAll,2023-08-15,Mumbai,73,56,vaccines are important for public health,0.2,positive,2023-08,2023
+Proud to be vaccinated! #Vaccinated,2021-01-12,Hyderabad,79,82,proud to be vaccinated,0.8,positive,2021-01,2021
+Vaccines are a conspiracy #AntiVax,2022-10-23,Mumbai,86,117,vaccines are a conspiracy,0.0,neutral,2022-10,2022
+Worried about vaccine side effects #VaccineSafety,2022-04-11,Mumbai,11,142,worried about vaccine side effects,0.0,neutral,2022-04,2022
+Vaccine misinformation is dangerous #FactCheck,2022-05-04,Kolkata,25,46,vaccine misinformation is dangerous,-0.6,negative,2022-05,2022
+Vaccine misinformation is dangerous #FactCheck,2023-11-06,Pune,16,150,vaccine misinformation is dangerous,-0.6,negative,2023-11,2023
+Vaccine misinformation is dangerous #FactCheck,2023-09-08,Hyderabad,6,13,vaccine misinformation is dangerous,-0.6,negative,2023-09,2023
+Government should make vaccines mandatory #PublicHealth,2021-05-17,Bangalore,47,71,government should make vaccines mandatory,0.0,neutral,2021-05,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-04-07,Pune,92,81,not sure about covid vaccine safety,-0.25,negative,2023-04,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-07-24,Bangalore,17,186,traditional medicine is better than vaccines,0.25,positive,2023-07,2023
+Vaccine misinformation is dangerous #FactCheck,2022-09-07,Mumbai,13,158,vaccine misinformation is dangerous,-0.6,negative,2022-09,2022
+Vaccines are a conspiracy #AntiVax,2023-09-22,Chennai,59,44,vaccines are a conspiracy,0.0,neutral,2023-09,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-05-11,Kolkata,42,167,not sure about covid vaccine safety,-0.25,negative,2021-05,2021
+Vaccine misinformation is dangerous #FactCheck,2021-07-02,Pune,38,14,vaccine misinformation is dangerous,-0.6,negative,2021-07,2021
+Vaccines are a conspiracy #AntiVax,2022-05-12,Chennai,92,152,vaccines are a conspiracy,0.0,neutral,2022-05,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-01-16,Kolkata,41,107,not sure about covid vaccine safety,-0.25,negative,2021-01,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-11-07,Bangalore,41,33,not sure about covid vaccine safety,-0.25,negative,2021-11,2021
+Proud to be vaccinated! #Vaccinated,2023-11-29,Hyderabad,28,189,proud to be vaccinated,0.8,positive,2023-11,2023
+Vaccines are important for public health #VaccineForAll,2022-04-22,Hyderabad,56,15,vaccines are important for public health,0.2,positive,2022-04,2022
+Vaccines are a conspiracy #AntiVax,2022-01-12,Delhi,29,152,vaccines are a conspiracy,0.0,neutral,2022-01,2022
+Proud to be vaccinated! #Vaccinated,2021-12-06,Kolkata,64,176,proud to be vaccinated,0.8,positive,2021-12,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-01-11,Hyderabad,67,145,got my vaccine today feeling protected,0.0,neutral,2022-01,2022
+Government should make vaccines mandatory #PublicHealth,2022-03-08,Mumbai,52,72,government should make vaccines mandatory,0.0,neutral,2022-03,2022
+Vaccines are important for public health #VaccineForAll,2023-08-22,Chennai,58,36,vaccines are important for public health,0.2,positive,2023-08,2023
+Government should make vaccines mandatory #PublicHealth,2023-07-28,Chennai,69,38,government should make vaccines mandatory,0.0,neutral,2023-07,2023
+Vaccines are a conspiracy #AntiVax,2021-01-11,Hyderabad,76,152,vaccines are a conspiracy,0.0,neutral,2021-01,2021
+Proud to be vaccinated! #Vaccinated,2022-07-18,Chennai,58,71,proud to be vaccinated,0.8,positive,2022-07,2022
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-06-04,Bangalore,73,106,traditional medicine is better than vaccines,0.25,positive,2023-06,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-04-05,Delhi,40,2,not sure about covid vaccine safety,-0.25,negative,2023-04,2023
+Vaccines are a conspiracy #AntiVax,2021-02-23,Pune,86,176,vaccines are a conspiracy,0.0,neutral,2021-02,2021
+Children need all recommended vaccines #ChildHealth,2023-11-10,Delhi,60,122,children need all recommended vaccines,0.0,neutral,2023-11,2023
+Vaccine misinformation is dangerous #FactCheck,2022-02-23,Delhi,81,61,vaccine misinformation is dangerous,-0.6,negative,2022-02,2022
+Vaccines are important for public health #VaccineForAll,2021-08-04,Bangalore,31,12,vaccines are important for public health,0.2,positive,2021-08,2021
+Vaccines are a conspiracy #AntiVax,2023-06-12,Pune,88,72,vaccines are a conspiracy,0.0,neutral,2023-06,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-08-10,Bangalore,91,28,traditional medicine is better than vaccines,0.25,positive,2023-08,2023
+Children need all recommended vaccines #ChildHealth,2023-07-10,Delhi,75,169,children need all recommended vaccines,0.0,neutral,2023-07,2023
+Children need all recommended vaccines #ChildHealth,2021-02-09,Mumbai,4,138,children need all recommended vaccines,0.0,neutral,2021-02,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-09-11,Chennai,78,37,not sure about covid vaccine safety,-0.25,negative,2023-09,2023
+Vaccines are a conspiracy #AntiVax,2023-07-03,Hyderabad,36,59,vaccines are a conspiracy,0.0,neutral,2023-07,2023
+Government should make vaccines mandatory #PublicHealth,2023-08-31,Mumbai,39,44,government should make vaccines mandatory,0.0,neutral,2023-08,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-11-29,Bangalore,55,39,got my vaccine today feeling protected,0.0,neutral,2022-11,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-02-09,Bangalore,76,32,not sure about covid vaccine safety,-0.25,negative,2021-02,2021
+Worried about vaccine side effects #VaccineSafety,2021-08-04,Bangalore,79,167,worried about vaccine side effects,0.0,neutral,2021-08,2021
+Vaccines are important for public health #VaccineForAll,2022-07-25,Bangalore,47,168,vaccines are important for public health,0.2,positive,2022-07,2022
+Children need all recommended vaccines #ChildHealth,2021-12-22,Pune,26,165,children need all recommended vaccines,0.0,neutral,2021-12,2021
+Proud to be vaccinated! #Vaccinated,2021-05-13,Bangalore,44,57,proud to be vaccinated,0.8,positive,2021-05,2021
+Children need all recommended vaccines #ChildHealth,2023-11-21,Pune,41,137,children need all recommended vaccines,0.0,neutral,2023-11,2023
+Government should make vaccines mandatory #PublicHealth,2021-03-23,Chennai,1,76,government should make vaccines mandatory,0.0,neutral,2021-03,2021
+Proud to be vaccinated! #Vaccinated,2023-12-06,Bangalore,16,103,proud to be vaccinated,0.8,positive,2023-12,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-12-01,Ahmedabad,87,108,not sure about covid vaccine safety,-0.25,negative,2022-12,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-10-05,Hyderabad,82,157,got my vaccine today feeling protected,0.0,neutral,2023-10,2023
+Proud to be vaccinated! #Vaccinated,2022-08-09,Mumbai,95,62,proud to be vaccinated,0.8,positive,2022-08,2022
+Government should make vaccines mandatory #PublicHealth,2023-09-16,Hyderabad,67,147,government should make vaccines mandatory,0.0,neutral,2023-09,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-01-01,Ahmedabad,16,11,traditional medicine is better than vaccines,0.25,positive,2023-01,2023
+Worried about vaccine side effects #VaccineSafety,2022-02-05,Delhi,64,21,worried about vaccine side effects,0.0,neutral,2022-02,2022
+Vaccine misinformation is dangerous #FactCheck,2021-07-29,Delhi,13,191,vaccine misinformation is dangerous,-0.6,negative,2021-07,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-02-02,Bangalore,51,124,traditional medicine is better than vaccines,0.25,positive,2023-02,2023
+Proud to be vaccinated! #Vaccinated,2021-01-29,Bangalore,32,133,proud to be vaccinated,0.8,positive,2021-01,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-04-04,Delhi,86,25,got my vaccine today feeling protected,0.0,neutral,2022-04,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-01-08,Kolkata,3,98,not sure about covid vaccine safety,-0.25,negative,2023-01,2023
+Children need all recommended vaccines #ChildHealth,2021-02-08,Pune,28,156,children need all recommended vaccines,0.0,neutral,2021-02,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-09-01,Chennai,21,26,traditional medicine is better than vaccines,0.25,positive,2023-09,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-04-29,Hyderabad,55,91,got my vaccine today feeling protected,0.0,neutral,2023-04,2023
+Government should make vaccines mandatory #PublicHealth,2021-10-30,Ahmedabad,58,83,government should make vaccines mandatory,0.0,neutral,2021-10,2021
+Worried about vaccine side effects #VaccineSafety,2022-07-24,Chennai,37,14,worried about vaccine side effects,0.0,neutral,2022-07,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-10-06,Mumbai,23,11,not sure about covid vaccine safety,-0.25,negative,2023-10,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-05-07,Ahmedabad,26,71,not sure about covid vaccine safety,-0.25,negative,2022-05,2022
+Children need all recommended vaccines #ChildHealth,2022-06-04,Pune,26,173,children need all recommended vaccines,0.0,neutral,2022-06,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-07-18,Bangalore,92,191,not sure about covid vaccine safety,-0.25,negative,2021-07,2021
+Government should make vaccines mandatory #PublicHealth,2022-01-13,Bangalore,19,45,government should make vaccines mandatory,0.0,neutral,2022-01,2022
+Children need all recommended vaccines #ChildHealth,2023-01-04,Hyderabad,70,16,children need all recommended vaccines,0.0,neutral,2023-01,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-06-05,Hyderabad,47,187,traditional medicine is better than vaccines,0.25,positive,2022-06,2022
+Worried about vaccine side effects #VaccineSafety,2023-10-11,Kolkata,1,87,worried about vaccine side effects,0.0,neutral,2023-10,2023
+Vaccines are a conspiracy #AntiVax,2022-01-30,Ahmedabad,76,71,vaccines are a conspiracy,0.0,neutral,2022-01,2022
+Government should make vaccines mandatory #PublicHealth,2021-10-01,Hyderabad,63,81,government should make vaccines mandatory,0.0,neutral,2021-10,2021
+Worried about vaccine side effects #VaccineSafety,2021-01-11,Kolkata,88,32,worried about vaccine side effects,0.0,neutral,2021-01,2021
+Worried about vaccine side effects #VaccineSafety,2023-02-18,Hyderabad,50,87,worried about vaccine side effects,0.0,neutral,2023-02,2023
+Children need all recommended vaccines #ChildHealth,2022-02-05,Chennai,45,159,children need all recommended vaccines,0.0,neutral,2022-02,2022
+Worried about vaccine side effects #VaccineSafety,2021-04-02,Chennai,32,167,worried about vaccine side effects,0.0,neutral,2021-04,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-01-02,Mumbai,32,157,not sure about covid vaccine safety,-0.25,negative,2021-01,2021
+Vaccines are important for public health #VaccineForAll,2022-08-12,Chennai,25,149,vaccines are important for public health,0.2,positive,2022-08,2022
+Proud to be vaccinated! #Vaccinated,2021-07-13,Hyderabad,89,173,proud to be vaccinated,0.8,positive,2021-07,2021
+Vaccine misinformation is dangerous #FactCheck,2021-05-23,Delhi,43,48,vaccine misinformation is dangerous,-0.6,negative,2021-05,2021
+Vaccines are a conspiracy #AntiVax,2021-11-13,Bangalore,5,8,vaccines are a conspiracy,0.0,neutral,2021-11,2021
+Worried about vaccine side effects #VaccineSafety,2021-08-11,Ahmedabad,40,113,worried about vaccine side effects,0.0,neutral,2021-08,2021
+Vaccines are a conspiracy #AntiVax,2021-04-21,Bangalore,6,83,vaccines are a conspiracy,0.0,neutral,2021-04,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-01-22,Delhi,2,126,traditional medicine is better than vaccines,0.25,positive,2021-01,2021
+Children need all recommended vaccines #ChildHealth,2023-05-24,Hyderabad,74,11,children need all recommended vaccines,0.0,neutral,2023-05,2023
+Proud to be vaccinated! #Vaccinated,2023-06-28,Mumbai,44,121,proud to be vaccinated,0.8,positive,2023-06,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-01-20,Chennai,44,135,got my vaccine today feeling protected,0.0,neutral,2023-01,2023
+Proud to be vaccinated! #Vaccinated,2021-11-05,Pune,31,50,proud to be vaccinated,0.8,positive,2021-11,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-07-03,Bangalore,21,36,not sure about covid vaccine safety,-0.25,negative,2023-07,2023
+Vaccines are a conspiracy #AntiVax,2023-05-23,Bangalore,2,155,vaccines are a conspiracy,0.0,neutral,2023-05,2023
+Vaccine misinformation is dangerous #FactCheck,2023-01-25,Bangalore,60,92,vaccine misinformation is dangerous,-0.6,negative,2023-01,2023
+Worried about vaccine side effects #VaccineSafety,2021-12-19,Pune,75,48,worried about vaccine side effects,0.0,neutral,2021-12,2021
+Government should make vaccines mandatory #PublicHealth,2021-06-08,Delhi,60,23,government should make vaccines mandatory,0.0,neutral,2021-06,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-03-16,Chennai,91,107,traditional medicine is better than vaccines,0.25,positive,2023-03,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-08-14,Ahmedabad,49,176,traditional medicine is better than vaccines,0.25,positive,2023-08,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-08-31,Mumbai,35,116,got my vaccine today feeling protected,0.0,neutral,2022-08,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-08-01,Pune,33,163,not sure about covid vaccine safety,-0.25,negative,2022-08,2022
+Worried about vaccine side effects #VaccineSafety,2021-10-22,Delhi,57,124,worried about vaccine side effects,0.0,neutral,2021-10,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-06-14,Ahmedabad,20,142,got my vaccine today feeling protected,0.0,neutral,2022-06,2022
+Vaccines are important for public health #VaccineForAll,2023-05-17,Delhi,7,99,vaccines are important for public health,0.2,positive,2023-05,2023
+Proud to be vaccinated! #Vaccinated,2023-07-29,Hyderabad,77,1,proud to be vaccinated,0.8,positive,2023-07,2023
+Proud to be vaccinated! #Vaccinated,2021-10-20,Kolkata,37,40,proud to be vaccinated,0.8,positive,2021-10,2021
+Worried about vaccine side effects #VaccineSafety,2022-01-16,Pune,13,83,worried about vaccine side effects,0.0,neutral,2022-01,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-04-18,Mumbai,88,27,not sure about covid vaccine safety,-0.25,negative,2023-04,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-09-18,Pune,64,167,not sure about covid vaccine safety,-0.25,negative,2021-09,2021
+Vaccines are a conspiracy #AntiVax,2021-10-28,Pune,46,30,vaccines are a conspiracy,0.0,neutral,2021-10,2021
+Vaccine misinformation is dangerous #FactCheck,2022-09-22,Hyderabad,79,92,vaccine misinformation is dangerous,-0.6,negative,2022-09,2022
+Vaccine misinformation is dangerous #FactCheck,2023-04-24,Hyderabad,0,132,vaccine misinformation is dangerous,-0.6,negative,2023-04,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-08-30,Mumbai,56,63,traditional medicine is better than vaccines,0.25,positive,2023-08,2023
+Worried about vaccine side effects #VaccineSafety,2022-11-18,Kolkata,75,164,worried about vaccine side effects,0.0,neutral,2022-11,2022
+Vaccines are important for public health #VaccineForAll,2021-06-05,Pune,78,133,vaccines are important for public health,0.2,positive,2021-06,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-11-30,Delhi,72,36,traditional medicine is better than vaccines,0.25,positive,2021-11,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-10-09,Kolkata,0,118,traditional medicine is better than vaccines,0.25,positive,2021-10,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-07-17,Kolkata,58,68,got my vaccine today feeling protected,0.0,neutral,2021-07,2021
+Vaccines are important for public health #VaccineForAll,2023-10-06,Bangalore,77,11,vaccines are important for public health,0.2,positive,2023-10,2023
+Vaccine misinformation is dangerous #FactCheck,2021-10-03,Kolkata,87,42,vaccine misinformation is dangerous,-0.6,negative,2021-10,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-08-05,Delhi,28,184,not sure about covid vaccine safety,-0.25,negative,2021-08,2021
+Proud to be vaccinated! #Vaccinated,2022-05-10,Bangalore,49,150,proud to be vaccinated,0.8,positive,2022-05,2022
+Worried about vaccine side effects #VaccineSafety,2021-05-31,Ahmedabad,44,51,worried about vaccine side effects,0.0,neutral,2021-05,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-01-16,Chennai,7,84,not sure about covid vaccine safety,-0.25,negative,2023-01,2023
+Vaccines are important for public health #VaccineForAll,2023-10-12,Ahmedabad,28,95,vaccines are important for public health,0.2,positive,2023-10,2023
+Worried about vaccine side effects #VaccineSafety,2022-06-01,Pune,85,174,worried about vaccine side effects,0.0,neutral,2022-06,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-11-07,Pune,89,170,not sure about covid vaccine safety,-0.25,negative,2021-11,2021
+Vaccine misinformation is dangerous #FactCheck,2021-04-24,Delhi,16,25,vaccine misinformation is dangerous,-0.6,negative,2021-04,2021
+Vaccines are a conspiracy #AntiVax,2021-10-30,Ahmedabad,75,71,vaccines are a conspiracy,0.0,neutral,2021-10,2021
+Children need all recommended vaccines #ChildHealth,2023-03-25,Chennai,32,0,children need all recommended vaccines,0.0,neutral,2023-03,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-12-13,Ahmedabad,68,104,got my vaccine today feeling protected,0.0,neutral,2023-12,2023
+Vaccine misinformation is dangerous #FactCheck,2023-10-07,Ahmedabad,69,62,vaccine misinformation is dangerous,-0.6,negative,2023-10,2023
+Children need all recommended vaccines #ChildHealth,2022-11-19,Kolkata,72,76,children need all recommended vaccines,0.0,neutral,2022-11,2022
+Children need all recommended vaccines #ChildHealth,2023-08-29,Chennai,97,124,children need all recommended vaccines,0.0,neutral,2023-08,2023
+Worried about vaccine side effects #VaccineSafety,2022-05-09,Chennai,18,197,worried about vaccine side effects,0.0,neutral,2022-05,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-02-01,Mumbai,22,82,not sure about covid vaccine safety,-0.25,negative,2022-02,2022
+Vaccines are important for public health #VaccineForAll,2023-04-02,Pune,88,142,vaccines are important for public health,0.2,positive,2023-04,2023
+Vaccines are important for public health #VaccineForAll,2022-12-12,Pune,20,146,vaccines are important for public health,0.2,positive,2022-12,2022
+Children need all recommended vaccines #ChildHealth,2021-11-01,Ahmedabad,34,171,children need all recommended vaccines,0.0,neutral,2021-11,2021
+Worried about vaccine side effects #VaccineSafety,2023-05-17,Ahmedabad,77,73,worried about vaccine side effects,0.0,neutral,2023-05,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-07-31,Mumbai,2,84,not sure about covid vaccine safety,-0.25,negative,2023-07,2023
+Vaccine misinformation is dangerous #FactCheck,2021-11-24,Ahmedabad,65,197,vaccine misinformation is dangerous,-0.6,negative,2021-11,2021
+Government should make vaccines mandatory #PublicHealth,2022-10-27,Chennai,4,47,government should make vaccines mandatory,0.0,neutral,2022-10,2022
+Government should make vaccines mandatory #PublicHealth,2023-09-02,Chennai,99,14,government should make vaccines mandatory,0.0,neutral,2023-09,2023
+Proud to be vaccinated! #Vaccinated,2022-05-13,Chennai,42,20,proud to be vaccinated,0.8,positive,2022-05,2022
+Proud to be vaccinated! #Vaccinated,2022-09-11,Pune,79,46,proud to be vaccinated,0.8,positive,2022-09,2022
+Government should make vaccines mandatory #PublicHealth,2022-02-03,Mumbai,35,50,government should make vaccines mandatory,0.0,neutral,2022-02,2022
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-02-28,Kolkata,85,18,traditional medicine is better than vaccines,0.25,positive,2023-02,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-08-22,Ahmedabad,51,26,not sure about covid vaccine safety,-0.25,negative,2023-08,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-04-16,Chennai,29,145,got my vaccine today feeling protected,0.0,neutral,2021-04,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2022-08-12,Chennai,89,88,not sure about covid vaccine safety,-0.25,negative,2022-08,2022
+Proud to be vaccinated! #Vaccinated,2023-11-29,Kolkata,30,70,proud to be vaccinated,0.8,positive,2023-11,2023
+Vaccines are a conspiracy #AntiVax,2022-03-21,Delhi,55,35,vaccines are a conspiracy,0.0,neutral,2022-03,2022
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-07-13,Bangalore,12,118,traditional medicine is better than vaccines,0.25,positive,2022-07,2022
+Worried about vaccine side effects #VaccineSafety,2022-12-27,Chennai,8,25,worried about vaccine side effects,0.0,neutral,2022-12,2022
+Children need all recommended vaccines #ChildHealth,2021-01-10,Ahmedabad,41,71,children need all recommended vaccines,0.0,neutral,2021-01,2021
+Vaccines are a conspiracy #AntiVax,2022-12-21,Mumbai,25,90,vaccines are a conspiracy,0.0,neutral,2022-12,2022
+Government should make vaccines mandatory #PublicHealth,2021-02-19,Ahmedabad,18,99,government should make vaccines mandatory,0.0,neutral,2021-02,2021
+Proud to be vaccinated! #Vaccinated,2023-05-07,Delhi,18,163,proud to be vaccinated,0.8,positive,2023-05,2023
+Vaccine misinformation is dangerous #FactCheck,2023-09-20,Pune,68,174,vaccine misinformation is dangerous,-0.6,negative,2023-09,2023
+Vaccines are important for public health #VaccineForAll,2022-04-28,Chennai,97,160,vaccines are important for public health,0.2,positive,2022-04,2022
+Proud to be vaccinated! #Vaccinated,2022-10-23,Mumbai,21,175,proud to be vaccinated,0.8,positive,2022-10,2022
+Government should make vaccines mandatory #PublicHealth,2022-02-23,Chennai,70,159,government should make vaccines mandatory,0.0,neutral,2022-02,2022
+Vaccine misinformation is dangerous #FactCheck,2023-08-27,Hyderabad,76,184,vaccine misinformation is dangerous,-0.6,negative,2023-08,2023
+Children need all recommended vaccines #ChildHealth,2023-02-09,Ahmedabad,34,6,children need all recommended vaccines,0.0,neutral,2023-02,2023
+Government should make vaccines mandatory #PublicHealth,2022-09-29,Pune,40,23,government should make vaccines mandatory,0.0,neutral,2022-09,2022
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2022-07-08,Ahmedabad,38,108,got my vaccine today feeling protected,0.0,neutral,2022-07,2022
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-01-14,Kolkata,96,163,traditional medicine is better than vaccines,0.25,positive,2023-01,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-03-14,Ahmedabad,96,122,got my vaccine today feeling protected,0.0,neutral,2021-03,2021
+Worried about vaccine side effects #VaccineSafety,2022-03-01,Pune,67,12,worried about vaccine side effects,0.0,neutral,2022-03,2022
+Vaccines are important for public health #VaccineForAll,2023-04-08,Delhi,59,4,vaccines are important for public health,0.2,positive,2023-04,2023
+Government should make vaccines mandatory #PublicHealth,2023-02-15,Hyderabad,71,49,government should make vaccines mandatory,0.0,neutral,2023-02,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-10-11,Chennai,57,2,got my vaccine today feeling protected,0.0,neutral,2023-10,2023
+Worried about vaccine side effects #VaccineSafety,2022-12-28,Chennai,1,101,worried about vaccine side effects,0.0,neutral,2022-12,2022
+Vaccines are important for public health #VaccineForAll,2021-12-20,Pune,29,115,vaccines are important for public health,0.2,positive,2021-12,2021
+Vaccines are a conspiracy #AntiVax,2022-10-24,Chennai,57,35,vaccines are a conspiracy,0.0,neutral,2022-10,2022
+Government should make vaccines mandatory #PublicHealth,2021-10-14,Pune,54,105,government should make vaccines mandatory,0.0,neutral,2021-10,2021
+Children need all recommended vaccines #ChildHealth,2021-02-24,Ahmedabad,11,144,children need all recommended vaccines,0.0,neutral,2021-02,2021
+Vaccines are a conspiracy #AntiVax,2023-09-07,Bangalore,15,29,vaccines are a conspiracy,0.0,neutral,2023-09,2023
+Proud to be vaccinated! #Vaccinated,2021-12-14,Bangalore,4,103,proud to be vaccinated,0.8,positive,2021-12,2021
+Vaccines are a conspiracy #AntiVax,2021-12-30,Mumbai,29,148,vaccines are a conspiracy,0.0,neutral,2021-12,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2022-02-10,Delhi,71,31,traditional medicine is better than vaccines,0.25,positive,2022-02,2022
+Vaccines are important for public health #VaccineForAll,2023-10-10,Ahmedabad,75,37,vaccines are important for public health,0.2,positive,2023-10,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-01-08,Kolkata,13,35,traditional medicine is better than vaccines,0.25,positive,2023-01,2023
+Vaccines are important for public health #VaccineForAll,2021-04-24,Kolkata,65,104,vaccines are important for public health,0.2,positive,2021-04,2021
+Government should make vaccines mandatory #PublicHealth,2023-02-09,Bangalore,72,192,government should make vaccines mandatory,0.0,neutral,2023-02,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-11-07,Hyderabad,34,149,got my vaccine today feeling protected,0.0,neutral,2021-11,2021
+Worried about vaccine side effects #VaccineSafety,2021-09-01,Delhi,11,48,worried about vaccine side effects,0.0,neutral,2021-09,2021
+Vaccine misinformation is dangerous #FactCheck,2022-11-09,Delhi,44,34,vaccine misinformation is dangerous,-0.6,negative,2022-11,2022
+Vaccines are a conspiracy #AntiVax,2021-05-14,Bangalore,79,6,vaccines are a conspiracy,0.0,neutral,2021-05,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-03-14,Pune,20,162,traditional medicine is better than vaccines,0.25,positive,2021-03,2021
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-05-09,Delhi,34,19,not sure about covid vaccine safety,-0.25,negative,2023-05,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-09-23,Mumbai,65,24,not sure about covid vaccine safety,-0.25,negative,2021-09,2021
+Worried about vaccine side effects #VaccineSafety,2021-06-13,Pune,13,64,worried about vaccine side effects,0.0,neutral,2021-06,2021
+Worried about vaccine side effects #VaccineSafety,2021-08-26,Kolkata,51,130,worried about vaccine side effects,0.0,neutral,2021-08,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-06-21,Mumbai,12,116,got my vaccine today feeling protected,0.0,neutral,2023-06,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-07-06,Delhi,67,24,not sure about covid vaccine safety,-0.25,negative,2023-07,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-11-02,Ahmedabad,95,91,traditional medicine is better than vaccines,0.25,positive,2023-11,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-09-16,Chennai,62,133,traditional medicine is better than vaccines,0.25,positive,2023-09,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-12-20,Pune,82,30,not sure about covid vaccine safety,-0.25,negative,2023-12,2023
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2023-02-17,Mumbai,1,125,got my vaccine today feeling protected,0.0,neutral,2023-02,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-12-16,Pune,72,82,not sure about covid vaccine safety,-0.25,negative,2023-12,2023
+Children need all recommended vaccines #ChildHealth,2021-05-29,Mumbai,27,189,children need all recommended vaccines,0.0,neutral,2021-05,2021
+Got my vaccine today! Feeling protected 💉 #VaccinationDrive,2021-09-20,Ahmedabad,15,96,got my vaccine today feeling protected,0.0,neutral,2021-09,2021
+Traditional medicine is better than vaccines #AlternativeMedicine,2023-02-24,Kolkata,51,51,traditional medicine is better than vaccines,0.25,positive,2023-02,2023
+Traditional medicine is better than vaccines #AlternativeMedicine,2021-05-04,Hyderabad,49,62,traditional medicine is better than vaccines,0.25,positive,2021-05,2021
+Government should make vaccines mandatory #PublicHealth,2023-02-07,Kolkata,98,6,government should make vaccines mandatory,0.0,neutral,2023-02,2023
+Worried about vaccine side effects #VaccineSafety,2022-03-31,Kolkata,85,132,worried about vaccine side effects,0.0,neutral,2022-03,2022
+Proud to be vaccinated! #Vaccinated,2022-01-21,Hyderabad,90,148,proud to be vaccinated,0.8,positive,2022-01,2022
+Worried about vaccine side effects #VaccineSafety,2023-01-12,Pune,20,137,worried about vaccine side effects,0.0,neutral,2023-01,2023
+Proud to be vaccinated! #Vaccinated,2023-06-20,Mumbai,12,180,proud to be vaccinated,0.8,positive,2023-06,2023
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2021-06-22,Ahmedabad,35,187,not sure about covid vaccine safety,-0.25,negative,2021-06,2021
+Government should make vaccines mandatory #PublicHealth,2021-11-04,Ahmedabad,54,116,government should make vaccines mandatory,0.0,neutral,2021-11,2021
+Vaccine misinformation is dangerous #FactCheck,2022-05-25,Chennai,33,51,vaccine misinformation is dangerous,-0.6,negative,2022-05,2022
+Not sure about COVID vaccine safety 😟 #VaccineHesitancy,2023-01-14,Bangalore,92,179,not sure about covid vaccine safety,-0.25,negative,2023-01,2023
+Worried about vaccine side effects #VaccineSafety,2022-07-08,Kolkata,41,140,worried about vaccine side effects,0.0,neutral,2022-07,2022
+Vaccines are important for public health #VaccineForAll,2021-04-15,Ahmedabad,16,119,vaccines are important for public health,0.2,positive,2021-04,2021
+Children need all recommended vaccines #ChildHealth,2022-03-01,Mumbai,1,59,children need all recommended vaccines,0.0,neutral,2022-03,2022
+Vaccines are important for public health #VaccineForAll,2023-10-31,Delhi,57,187,vaccines are important for public health,0.2,positive,2023-10,2023

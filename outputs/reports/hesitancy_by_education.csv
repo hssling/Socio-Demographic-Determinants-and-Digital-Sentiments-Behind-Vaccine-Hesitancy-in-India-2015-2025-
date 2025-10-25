@@ -1,0 +1,5 @@
+education,count,mean,std
+Higher,250,0.308,0.463
+No Education,258,0.271,0.446
+Primary,263,0.251,0.434
+Secondary,229,0.293,0.456

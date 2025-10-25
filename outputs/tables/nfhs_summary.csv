@@ -1,0 +1,81 @@
+state,gender,education,count,mean,std
+Andhra Pradesh,Female,Higher,14,0.071,0.267
+Andhra Pradesh,Female,No Education,8,0.25,0.463
+Andhra Pradesh,Female,Primary,12,0.333,0.492
+Andhra Pradesh,Female,Secondary,6,0.333,0.516
+Andhra Pradesh,Male,Higher,11,0.364,0.505
+Andhra Pradesh,Male,No Education,16,0.188,0.403
+Andhra Pradesh,Male,Primary,12,0.0,0.0
+Andhra Pradesh,Male,Secondary,12,0.417,0.515
+Bihar,Female,Higher,13,0.308,0.48
+Bihar,Female,No Education,22,0.364,0.492
+Bihar,Female,Primary,18,0.278,0.461
+Bihar,Female,Secondary,12,0.25,0.452
+Bihar,Male,Higher,11,0.455,0.522
+Bihar,Male,No Education,15,0.2,0.414
+Bihar,Male,Primary,12,0.25,0.452
+Bihar,Male,Secondary,7,0.143,0.378
+Gujarat,Female,Higher,14,0.5,0.519
+Gujarat,Female,No Education,14,0.143,0.363
+Gujarat,Female,Primary,8,0.375,0.518
+Gujarat,Female,Secondary,17,0.176,0.393
+Gujarat,Male,Higher,14,0.286,0.469
+Gujarat,Male,No Education,14,0.286,0.469
+Gujarat,Male,Primary,12,0.167,0.389
+Gujarat,Male,Secondary,7,0.286,0.488
+Karnataka,Female,Higher,9,0.222,0.441
+Karnataka,Female,No Education,13,0.077,0.277
+Karnataka,Female,Primary,9,0.222,0.441
+Karnataka,Female,Secondary,13,0.308,0.48
+Karnataka,Male,Higher,12,0.25,0.452
+Karnataka,Male,No Education,11,0.455,0.522
+Karnataka,Male,Primary,17,0.294,0.47
+Karnataka,Male,Secondary,10,0.2,0.422
+Maharashtra,Female,Higher,9,0.667,0.5
+Maharashtra,Female,No Education,17,0.294,0.47
+Maharashtra,Female,Primary,16,0.188,0.403
+Maharashtra,Female,Secondary,12,0.333,0.492
+Maharashtra,Male,Higher,13,0.385,0.506
+Maharashtra,Male,No Education,16,0.312,0.479
+Maharashtra,Male,Primary,17,0.412,0.507
+Maharashtra,Male,Secondary,18,0.278,0.461
+Odisha,Female,Higher,16,0.25,0.447
+Odisha,Female,No Education,11,0.091,0.302
+Odisha,Female,Primary,11,0.273,0.467
+Odisha,Female,Secondary,8,0.125,0.354
+Odisha,Male,Higher,27,0.333,0.48
+Odisha,Male,No Education,19,0.263,0.452
+Odisha,Male,Primary,9,0.222,0.441
+Odisha,Male,Secondary,6,0.167,0.408
+Rajasthan,Female,Higher,14,0.143,0.363
+Rajasthan,Female,No Education,10,0.2,0.422
+Rajasthan,Female,Primary,18,0.167,0.383
+Rajasthan,Female,Secondary,10,0.3,0.483
+Rajasthan,Male,Higher,8,0.125,0.354
+Rajasthan,Male,No Education,9,0.333,0.5
+Rajasthan,Male,Primary,13,0.231,0.439
+Rajasthan,Male,Secondary,14,0.643,0.497
+Tamil Nadu,Female,Higher,11,0.273,0.467
+Tamil Nadu,Female,No Education,12,0.25,0.452
+Tamil Nadu,Female,Primary,18,0.278,0.461
+Tamil Nadu,Female,Secondary,13,0.231,0.439
+Tamil Nadu,Male,Higher,9,0.333,0.5
+Tamil Nadu,Male,No Education,12,0.333,0.492
+Tamil Nadu,Male,Primary,15,0.467,0.516
+Tamil Nadu,Male,Secondary,17,0.118,0.332
+Uttar Pradesh,Female,Higher,12,0.25,0.452
+Uttar Pradesh,Female,No Education,9,0.444,0.527
+Uttar Pradesh,Female,Primary,12,0.167,0.389
+Uttar Pradesh,Female,Secondary,8,0.375,0.518
+Uttar Pradesh,Male,Higher,9,0.333,0.5
+Uttar Pradesh,Male,No Education,8,0.5,0.535
+Uttar Pradesh,Male,Primary,9,0.111,0.333
+Uttar Pradesh,Male,Secondary,16,0.188,0.403
+West Bengal,Female,Higher,10,0.5,0.527
+West Bengal,Female,No Education,4,0.25,0.5
+West Bengal,Female,Primary,12,0.333,0.492
+West Bengal,Female,Secondary,10,0.5,0.527
+West Bengal,Male,Higher,14,0.214,0.426
+West Bengal,Male,No Education,18,0.278,0.461
+West Bengal,Male,Primary,13,0.154,0.376
+West Bengal,Male,Secondary,13,0.462,0.519
