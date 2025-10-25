@@ -2,7 +2,7 @@
 
 ## Socio-Demographic Determinants and Digital Sentiments Behind Vaccine Hesitancy in India (2015–2025)
 
-**Author:** Dr. Siddalingaiah H S, MD, MPH
+**Author:** Dr. Siddalingaiah H S, MD, 
 **Affiliation:** Professor and Head, Department of Community Medicine, Shridevi Institute of Medical Sciences and Research Hospital (SIMSRH), Tumkur, Karnataka, India
 **Email:** hssling@yahoo.com
 **Phone:** +91-8941087719
@@ -514,3 +514,4 @@ Tumkur, Karnataka, India
 ---
 
 *Built with ❤️ for Public Health Research | Automated Vaccine Hesitancy Analysis Pipeline*
+
